@@ -1,0 +1,33 @@
+{
+  "updated_at": "2026-10-25T10:56:20.538074+00:00",
+  "total_drafts": 1,
+  "draft_questions": [
+    {
+      "question_id": "DRFT-SRC-UP-20261-P1-547D",
+      "document_id": "SRC-UP-20261025105601-FA60095E",
+      "source_document_id": "SRC-UP-20261025105601-FA60095E",
+      "competency_id": "KCM-001",
+      "competency_name": "Competency KCM-001",
+      "question_text": "According to the source documentation (Page 1), which of the following is correct regarding 'National Statistical'?",
+      "options": {
+        "A": "The principle is strictly discretionary and not applied to standard statistical procedures.",
+        "B": "National Statistical Systems Training Academy (NSSTA), Greater Noida is the premier apex training institute under the Ministry of Statistics and Programme Implementation (MoSPI)",
+        "C": "It was deprecated following the implementation of state-level decentralized accounting frameworks.",
+        "D": "The methodology is confined exclusively to commercial export licensing and speculative valuation."
+      },
+      "correct_answer": "B",
+      "explanation": "Official publication (Page 1) explicitly states: 'National Statistical Systems Training Academy (NSSTA), Greater Noida is the premier apex training institute under the Ministry of Statistics and Programme Implementation (MoSPI).'.",
+      "source_page": 1,
+      "source_excerpt": "National Statistical Systems Training Academy (NSSTA), Greater Noida is the premier apex training institute under the Ministry of Statistics and Programme Implementation (MoSPI).",
+      "difficulty": "operational",
+      "status": "published",
+      "provenance": "dynamic_heuristic_source_grounded",
+      "validation_status": "verified",
+      "verification_notes": "Generated via deterministic source extraction. Awaiting trainer review.",
+      "reviewed_by": "MoSPI_Master_Trainer",
+      "reviewed_at": "2026-10-25T10:56:20.533714+00:00",
+      "rejection_reason": null,
+      "created_at": "2026-10-25T10:56:07.988092+00:00"
+    }
+  ]
+}

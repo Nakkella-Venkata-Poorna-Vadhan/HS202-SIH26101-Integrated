@@ -1,0 +1,138 @@
+{
+  "audit_id": "AUDIT-ADJ-PACKET-MOSPI-2026-V1",
+  "benchmark_id": "BM-PILOT-MOSPI-2026-V1",
+  "audit_stage": "3.4.3",
+  "audit_timestamp": "2026-10-18T17:35:00Z",
+  "target_artifacts": [
+    "data/interim/mapping_adjudication_packet.json",
+    "data/interim/mapping_adjudication_packet.csv",
+    "docs/mapping_adjudication_guide.md",
+    "docs/mapping_adjudication_readiness_report.md",
+    "scripts/build_adjudication_packet.py",
+    "tests/test_adjudication_packet.py"
+  ],
+  "audit_verdict": "ADJUDICATION_PACKET_AUDIT_PASSED_AFTER_REMEDIATION",
+  "audit_summary": {
+    "total_benchmark_cases_audited": 26,
+    "unique_benchmark_cases_verified": 26,
+    "referential_integrity_score": "100.0%",
+    "blank_human_decision_integrity_score": "100.0%",
+    "exact_course_claim_proportionality": "100.0% (0 / 26 false claims)",
+    "traceable_source_identifiers_score": "100.0% (26 / 26 specific IDs)",
+    "domain_gap_evaluation_rigor": "100.0% (HCES & ASI correctly flagged for KCM-FUNC-11 evaluation)",
+    "json_csv_parity_verified": true,
+    "baseline_dataset_hashes_unchanged": true,
+    "production_mapping_registry_unchanged": true,
+    "defects_identified": 4,
+    "defects_remediated": 4
+  },
+  "defect_remediation_log": [
+    {
+      "defect_id": "DEF-01",
+      "severity": "HIGH",
+      "component": "scripts/build_adjudication_packet.py",
+      "description": "CASE_ADJUDICATION_SPECS contained course descriptions from an earlier draft that differed from manifest courses for BM-CASE-007 through BM-CASE-024 (e.g. Ayush for Wellness instead of Developing a Positive Work Culture, Emotional Intelligence instead of Yoga Break).",
+      "remediation": "Updated CASE_ADJUDICATION_SPECS across all 26 cases to match exact manifest course titles, cadres, durations, and evidence ledger findings.",
+      "status": "REMEDIATED"
+    },
+    {
+      "defect_id": "DEF-02",
+      "severity": "MEDIUM",
+      "component": "scripts/build_adjudication_packet.py",
+      "description": "evidence_source_id used a generic fallback 'SRC-OFFICIAL-ACADEMY-2024' instead of specific, institution-traceable source identifiers.",
+      "remediation": "Mapped each case to a distinct traceable source identifier (e.g. SRC-NSSTA-TRG-CAL-2025-26, SRC-MOSPI-AR-2023-24, SRC-ISTM-CIDM-2024, SRC-AJNIFM-APPRAISAL-2024, etc.).",
+      "status": "REMEDIATED"
+    },
+    {
+      "defect_id": "DEF-03",
+      "severity": "MEDIUM",
+      "component": "data/interim/mapping_adjudication_packet.json & .csv",
+      "description": "Primary ACBP source identifier and citation (SRC-MOSPI-ACBP-2026-27, Page, Row) were omitted from the adjudication card top-level fields.",
+      "remediation": "Added course_source_id and course_source_citation to both JSON and CSV schemas and regenerated all 26 cards.",
+      "status": "REMEDIATED"
+    },
+    {
+      "defect_id": "DEF-04",
+      "severity": "MEDIUM",
+      "component": "docs/mapping_adjudication_readiness_report.md",
+      "description": "Category 3 and Strata B, C, D summary tables displayed mismatched course titles from an earlier draft.",
+      "remediation": "Synchronized all tables in docs/mapping_adjudication_readiness_report.md with authentic manifest course titles and evaluation parameters.",
+      "status": "REMEDIATED"
+    }
+  ],
+  "audit_criteria_evaluations": {
+    "criterion_1_unique_cases_and_references": {
+      "status": "PASSED",
+      "finding": "All 26 cases BM-CASE-001 through BM-CASE-026 appear exactly once. All 26 course_record_id values resolve to acbp_courses.json. All 18 referenced KCM competency IDs resolve to competencies_kcm.json with 100% name fidelity."
+    },
+    "criterion_2_traceable_sources_and_quotations": {
+      "status": "PASSED",
+      "finding": "Every case provides traceable source identifiers (course_source_id and evidence_source_id), official URLs or local relative paths, document titles, and publication years. Verbatim excerpts are distinguished from institutional metadata."
+    },
+    "criterion_3_claim_strength_proportionality": {
+      "status": "PASSED",
+      "finding": "Zero claims exceed available evidence. All 26 cases explicitly set is_exact_course_evidence=false and note that classroom curricula or statutory frameworks do not prove online micro-course mastery."
+    },
+    "criterion_4_blank_human_decision_fields": {
+      "status": "PASSED",
+      "finding": "All human review fields (adjudication_status, adjudicated_label, adjudicated_target_kcm_id, reviewer_id, reviewer_role, adjudication_date, reviewer_rationale, confidence_rating, second_reviewer_required, consensus_status) remain strictly null / empty string by default."
+    },
+    "criterion_5_triage_vs_adjudication_readiness": {
+      "status": "PASSED",
+      "finding": "Clear boundary enforced: all 26 cases are ready for preliminary expert triage, but 26 of 26 cases are blocked for definitive ground-truth certification pending detailed iGOT / institutional lesson plans."
+    },
+    "criterion_6_domain_gap_rigor_hces_asi": {
+      "status": "PASSED",
+      "finding": "BM-CASE-022 (HCES) and BM-CASE-023 (ASI) are not auto-labeled as domain gaps. Guidance explicitly notes potential overlap with KCM-FUNC-11 (Data Analytics) and flags them for NSSTA faculty adjudication."
+    },
+    "criterion_7_taxonomy_and_id_fidelity": {
+      "status": "PASSED",
+      "finding": "Taxonomy uses only the 5 approved benchmark labels. KCM IDs, course IDs, and evidence-status values strictly match authoritative repository sources."
+    },
+    "criterion_8_deterministic_generation_and_immutability": {
+      "status": "PASSED",
+      "finding": "JSON and CSV generation is 100% deterministic. Baseline hashes for acbp_courses.json and competencies_kcm.json match expected values. The 226-record production mapping registry is completely unmodified."
+    }
+  },
+  "triage_vs_adjudication_breakdown": {
+    "ready_for_expert_triage": 26,
+    "ready_for_definitive_adjudication": 0,
+    "blocked_pending_syllabi": 26,
+    "evidence_requisition_categories": {
+      "cbc_igot_lesson_plans_behind_sso": [
+        "BM-CASE-001",
+        "BM-CASE-004",
+        "BM-CASE-006",
+        "BM-CASE-007",
+        "BM-CASE-009",
+        "BM-CASE-010",
+        "BM-CASE-011",
+        "BM-CASE-012",
+        "BM-CASE-019"
+      ],
+      "nssta_official_statistics_syllabi": [
+        "BM-CASE-021",
+        "BM-CASE-022",
+        "BM-CASE-023",
+        "BM-CASE-024"
+      ],
+      "istm_differentiated_secretariat_syllabi": [
+        "BM-CASE-013",
+        "BM-CASE-018",
+        "BM-CASE-025",
+        "BM-CASE-026"
+      ],
+      "apex_institute_course_outlines": [
+        "BM-CASE-002",
+        "BM-CASE-003",
+        "BM-CASE-005",
+        "BM-CASE-008",
+        "BM-CASE-014",
+        "BM-CASE-015",
+        "BM-CASE-016",
+        "BM-CASE-017",
+        "BM-CASE-020"
+      ]
+    }
+  }
+}

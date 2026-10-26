@@ -1,0 +1,45 @@
+{
+  "updated_at": "2026-10-26T05:52:28.073011+00:00",
+  "total_estimates": 3,
+  "provisional_estimates": {
+    "LEARNER-001:KCM-001": {
+      "learner_id": "LEARNER-001",
+      "competency_id": "KCM-001",
+      "competency_name": "Competency KCM-001",
+      "estimated_level": null,
+      "previous_level": null,
+      "confidence_score": 0.08,
+      "evidence_count": 1,
+      "sufficiency_status": "insufficient_evidence",
+      "diagnostic_summary": "Insufficient assessment evidence (1/3 questions). Competency 'Competency KCM-001' remains provisional pending completion of diagnostic assessment.",
+      "updated_at": "2026-10-26T05:52:28.072996+00:00",
+      "last_attempt_id": "ATT-20261026055225-99CBD1"
+    },
+    "LEARNER-001:KCM-FUNC-05": {
+      "learner_id": "LEARNER-001",
+      "competency_id": "KCM-FUNC-05",
+      "competency_name": "Project Management",
+      "estimated_level": 2,
+      "previous_level": 2,
+      "confidence_score": 0.69,
+      "evidence_count": 3,
+      "sufficiency_status": "sufficient",
+      "diagnostic_summary": "Demonstrated 1/3 (33%) accuracy across 1 foundation, 1 operational, and 1 advanced source-grounded questions. Provisional diagnostic level estimated at Level 2 (Novice / Guided Practice) with confidence 0.69.",
+      "updated_at": "2026-10-25T12:57:57.960618+00:00",
+      "last_attempt_id": "ATT-20261025125757-38759A"
+    },
+    "LEARNER-003:KCM-FUNC-11": {
+      "learner_id": "LEARNER-003",
+      "competency_id": "KCM-FUNC-11",
+      "competency_name": "Data Analytics",
+      "estimated_level": 2,
+      "previous_level": null,
+      "confidence_score": 0.75,
+      "evidence_count": 4,
+      "sufficiency_status": "sufficient",
+      "diagnostic_summary": "Demonstrated 2/4 (50%) accuracy across 1 foundation, 2 operational, and 1 advanced source-grounded questions. Provisional diagnostic level estimated at Level 2 (Novice / Guided Practice) with confidence 0.75.",
+      "updated_at": "2026-10-25T14:35:24.923017+00:00",
+      "last_attempt_id": "ATT-20261025143524-E1854D"
+    }
+  }
+}

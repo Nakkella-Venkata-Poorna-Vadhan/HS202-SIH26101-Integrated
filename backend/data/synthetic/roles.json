@@ -1,0 +1,206 @@
+{
+  "metadata": {
+    "provenance": "synthetic",
+    "is_synthetic": true,
+    "warning": "PROTOTYPE DEMONSTRATION DATA ONLY. These roles and learner assessments are synthetic fixtures generated for the SIH26101 prototype. They do not represent real civil servants, official personnel records, or authenticated iGOT Karmayogi learner data.",
+    "generated_for": "SIH26101 Stage 4.1 Prototype Slice"
+  },
+  "total_roles": 5,
+  "roles": [
+    {
+      "role_id": "ROLE-SSO-SO",
+      "role_name": "Senior Statistical Officer / Section Officer",
+      "cadre_role": "Senior Statistical Officers / Section Officer / Senior Administrative Officer / Administrative Officer",
+      "description": "Supervises field survey operations, data scrutiny, statistical tabulations, and section administration.",
+      "department": "Field Operations Division (FOD), MoSPI",
+      "is_synthetic": true,
+      "provenance": "synthetic",
+      "required_competencies": [
+        {
+          "competency_id": "KCM-FUNC-11",
+          "competency_name": "Data Analytics",
+          "required_level": 4,
+          "priority": "critical",
+          "rationale": "Supervises survey data validation, tabulation algorithms, outlier scrutiny, and official statistical estimation."
+        },
+        {
+          "competency_id": "KCM-FUNC-21",
+          "competency_name": "Administration Matters",
+          "required_level": 3,
+          "priority": "high",
+          "rationale": "Manages section workflows, file movement, staff duties, and official correspondence."
+        },
+        {
+          "competency_id": "KCM-BEH-04",
+          "competency_name": "Communication",
+          "required_level": 3,
+          "priority": "high",
+          "rationale": "Drafts analytical survey inspection reports, briefing notes, and coordinates field communications."
+        },
+        {
+          "competency_id": "KCM-BEH-02",
+          "competency_name": "Personal Effectiveness",
+          "required_level": 3,
+          "priority": "medium",
+          "rationale": "Handles field operational stress, unexpected survey sampling roadblocks, and strict survey timelines."
+        }
+      ]
+    },
+    {
+      "role_id": "ROLE-DIR-JD",
+      "role_name": "Director / Joint Director",
+      "cadre_role": "Director / Joint Director",
+      "description": "Programme director leading national survey rounds, macro-statistical compilations, and inter-cadre supervision.",
+      "department": "National Accounts Division (NAD), MoSPI",
+      "is_synthetic": true,
+      "provenance": "synthetic",
+      "required_competencies": [
+        {
+          "competency_id": "KCM-FUNC-05",
+          "competency_name": "Project Management",
+          "required_level": 4,
+          "priority": "critical",
+          "rationale": "Leads multi-year statistical census and survey programmes, milestone delivery, and resource planning."
+        },
+        {
+          "competency_id": "KCM-BEH-10",
+          "competency_name": "Strategic Leadership",
+          "required_level": 4,
+          "priority": "high",
+          "rationale": "Steers institutional statistical reforms, methodological modernization, and inter-agency coordination."
+        },
+        {
+          "competency_id": "KCM-BEH-06",
+          "competency_name": "Collaboration",
+          "required_level": 3,
+          "priority": "high",
+          "rationale": "Coordinates with Directorate of Economics and Statistics (DES), line ministries, and international bodies."
+        },
+        {
+          "competency_id": "KCM-FUNC-01",
+          "competency_name": "Citizen Centricity",
+          "required_level": 3,
+          "priority": "medium",
+          "rationale": "Ensures official statistical releases and microdata dissemination satisfy public and policy needs transparently."
+        }
+      ]
+    },
+    {
+      "role_id": "ROLE-DDG-JS",
+      "role_name": "Deputy Director General / Joint Secretary",
+      "cadre_role": "Deputy Director General / Joint Secretary Equivalent and Above",
+      "description": "Apex executive leadership overseeing broad ministerial divisions, national statistical policy, and statutory compliance.",
+      "department": "Economic Statistics Division (ESD), MoSPI",
+      "is_synthetic": true,
+      "provenance": "synthetic",
+      "required_competencies": [
+        {
+          "competency_id": "KCM-BEH-10",
+          "competency_name": "Strategic Leadership",
+          "required_level": 5,
+          "priority": "critical",
+          "rationale": "National statistical strategy, high-level policy advice, and inter-ministerial vision under Mission Karmayogi."
+        },
+        {
+          "competency_id": "KCM-BEH-06",
+          "competency_name": "Collaboration",
+          "required_level": 4,
+          "priority": "high",
+          "rationale": "Builds high-level partnerships across state statistical machineries and international agencies."
+        },
+        {
+          "competency_id": "KCM-FUNC-17",
+          "competency_name": "Vigilance Administration",
+          "required_level": 4,
+          "priority": "high",
+          "rationale": "Conducts disciplinary oversight, upholds administrative integrity, and enforces statutory rules."
+        },
+        {
+          "competency_id": "KCM-FUNC-09",
+          "competency_name": "Financial Management",
+          "required_level": 4,
+          "priority": "medium",
+          "rationale": "Oversees departmental scheme budget formulations, capital allocations, and public finance compliance."
+        }
+      ]
+    },
+    {
+      "role_id": "ROLE-DS-US",
+      "role_name": "Deputy Secretary / Under Secretary",
+      "cadre_role": "Deputy Secretary / Under Secretary",
+      "description": "Mid-level executive handling procurement of works, establishment rules, and administrative scrutinies.",
+      "department": "Administration & General Division, MoSPI",
+      "is_synthetic": true,
+      "provenance": "synthetic",
+      "required_competencies": [
+        {
+          "competency_id": "KCM-FUNC-06",
+          "competency_name": "Public Procurement - GFR",
+          "required_level": 4,
+          "priority": "critical",
+          "rationale": "Manages procurement tenders, EPC contracts, and ensures adherence to GFR 2017 rules."
+        },
+        {
+          "competency_id": "KCM-FUNC-12",
+          "competency_name": "Establishment & HR",
+          "required_level": 4,
+          "priority": "high",
+          "rationale": "Supervises service books, pay fixation under FRSR, deputations, and cadre welfare."
+        },
+        {
+          "competency_id": "KCM-BEH-06",
+          "competency_name": "Collaboration",
+          "required_level": 3,
+          "priority": "high",
+          "rationale": "Aligns operational workflows across administrative sections and technical divisions."
+        },
+        {
+          "competency_id": "KCM-BEH-03",
+          "competency_name": "Problem Solving",
+          "required_level": 3,
+          "priority": "medium",
+          "rationale": "Diagnoses bureaucratic bottlenecks and synthesizes administrative solutions."
+        }
+      ]
+    },
+    {
+      "role_id": "ROLE-JSO-ASO",
+      "role_name": "Junior Statistical Officer / Assistant Section Officer",
+      "cadre_role": "Junior Statistical Officers / Assistant Section Officers / Data Processing Assistant (All Grades)",
+      "description": "Primary fieldwork inspection, primary data compilation, and procedural case file processing.",
+      "department": "Survey Design & Research Division (SDRD), MoSPI",
+      "is_synthetic": true,
+      "provenance": "synthetic",
+      "required_competencies": [
+        {
+          "competency_id": "KCM-FUNC-11",
+          "competency_name": "Data Analytics",
+          "required_level": 3,
+          "priority": "critical",
+          "rationale": "Executes data cleaning, script verification, consistency checks, and basic descriptive statistics."
+        },
+        {
+          "competency_id": "KCM-BEH-01",
+          "competency_name": "Self-Awareness",
+          "required_level": 3,
+          "priority": "medium",
+          "rationale": "Commitment to ongoing statistical learning, self-reflection, and official statistical integrity."
+        },
+        {
+          "competency_id": "KCM-BEH-04",
+          "competency_name": "Communication",
+          "required_level": 2,
+          "priority": "medium",
+          "rationale": "Field survey respondent interaction, interview questioning, and daily reporting."
+        },
+        {
+          "competency_id": "KCM-FUNC-21",
+          "competency_name": "Administration Matters",
+          "required_level": 2,
+          "priority": "medium",
+          "rationale": "Adheres to office procedures, file indexing, and routine noting protocols."
+        }
+      ]
+    }
+  ]
+}

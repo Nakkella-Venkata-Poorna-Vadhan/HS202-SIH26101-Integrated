@@ -1,0 +1,3634 @@
+{
+  "dataset_name": "MoSPI ACBP Courses to KCM Competencies Candidate Mappings",
+  "source_document_id": "SRC-MOSPI-ACBP-2026-27",
+  "kcm_document_id": "SRC-CBC-KCM-2024",
+  "generation_timestamp": "2026-10-18T07:07:20.566008+00:00",
+  "total_courses_evaluated": 226,
+  "explicit_mappings_count": 6,
+  "unresolved_mappings_count": 220,
+  "validation_status": "pending_review",
+  "mappings": [
+    {
+      "course_record_id": "ACBP-CRS-001",
+      "cadre_role": "Deputy Director General / Joint Secretary Equivalent and Above",
+      "course_name": "Introduction to Big Data in Governance",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 2, Row 1)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-002",
+      "cadre_role": "Deputy Director General / Joint Secretary Equivalent and Above",
+      "course_name": "Executing Large Scale Digital Transformation Projects",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 2, Row 2)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-003",
+      "cadre_role": "Deputy Director General / Joint Secretary Equivalent and Above",
+      "course_name": "Indian Economy for Practitioners",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 2, Row 3)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-004",
+      "cadre_role": "Deputy Director General / Joint Secretary Equivalent and Above",
+      "course_name": "Data Driven Decision Making for Government",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 2, Row 4)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-005",
+      "cadre_role": "Deputy Director General / Joint Secretary Equivalent and Above",
+      "course_name": "Data Analytics and Visualizations for Government Officers",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 2, Row 5)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-006",
+      "cadre_role": "Deputy Director General / Joint Secretary Equivalent and Above",
+      "course_name": "Case Studies in the Use of Data and",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 2, Row 6)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-007",
+      "cadre_role": "Deputy Director General / Joint Secretary Equivalent and Above",
+      "course_name": "Evidence for Governance Public Governance Models_",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 2, Row 7)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-008",
+      "cadre_role": "Deputy Director General / Joint Secretary Equivalent and Above",
+      "course_name": "Conduct of Inquiry in Disciplinary Matters",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 2, Row 8)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-009",
+      "cadre_role": "Deputy Director General / Joint Secretary Equivalent and Above",
+      "course_name": "Change Management in Digital Transformation",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 2, Row 9)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-010",
+      "cadre_role": "Deputy Director General / Joint Secretary Equivalent and Above",
+      "course_name": "Fundamentals of Public Policy",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 2, Row 10)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-011",
+      "cadre_role": "Deputy Director General / Joint Secretary Equivalent and Above",
+      "course_name": "Project A ppraisal and Financial Evaluation Techniques",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 2, Row H)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-012",
+      "cadre_role": "Deputy Director General / Joint Secretary Equivalent and Above",
+      "course_name": "Organisational Change Management- Fundamentals",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 2, Row 12)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-013",
+      "cadre_role": "Deputy Director General / Joint Secretary Equivalent and Above",
+      "course_name": "Navigating Parliamentary Questions",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 2, Row 13)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-014",
+      "cadre_role": "Deputy Director General / Joint Secretary Equivalent and Above",
+      "course_name": "Developing a Positive Work Culture",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 2, Row 14)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-015",
+      "cadre_role": "Deputy Director General / Joint Secretary Equivalent and Above",
+      "course_name": "Rajadharma: The Inner Compass for",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 2, Row 15)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-016",
+      "cadre_role": "Deputy Director General / Joint Secretary Equivalent and Above",
+      "course_name": "Modern Governance_ Strategic_Leadership: The Indic_ Way",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 2, Row 16)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-017",
+      "cadre_role": "Deputy Director General / Joint Secretary Equivalent and Above",
+      "course_name": "Leading with Collaboration: Sahakaryata _in Public_Service",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": "KCM-BEH-06",
+      "candidate_kcm_competency_name": "Collaboration",
+      "candidate_kcm_competency_type": "behavioural",
+      "mapping_method": "explicit_title_reference",
+      "evidence_or_rationale": "Course title explicitly references KCM competency 'Collaboration' as focal area",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 2, Row 17)",
+        "SRC-CBC-KCM-2024 (KCM-BEH-06, Pages [49, 50])"
+      ],
+      "confidence": 0.85,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-018",
+      "cadre_role": "Deputy Director General / Joint Secretary Equivalent and Above",
+      "course_name": "Sadharanikarana: Effective Communication for Transformative",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 2, Row 18)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-019",
+      "cadre_role": "Deputy Director General / Joint Secretary Equivalent and Above",
+      "course_name": "Leadership Leading from Within: Behavioural Strategies for Self-Leadership",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 2, Row 19)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-020",
+      "cadre_role": "Deputy Director General / Joint Secretary Equivalent and Above",
+      "course_name": "Money and Consciousness: Indian",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 2, Row 20)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-021",
+      "cadre_role": "Deputy Director General / Joint Secretary Equivalent and Above",
+      "course_name": "Wisdom and Sri Aurobindo's Vision Rama's Leadership Code",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 2, Row 21)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-022",
+      "cadre_role": "Deputy Director General / Joint Secretary Equivalent and Above",
+      "course_name": "Yoga Break at Workplace",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 2, Row 22)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-023",
+      "cadre_role": "Deputy Director General / Joint Secretary Equivalent and Above",
+      "course_name": "Happiness in Seva-Bhava: Lessons from Bhagavad-Gita",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 2, Row 23)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-024",
+      "cadre_role": "Director / Joint Director",
+      "course_name": "Introduction to Big Data in Governance",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 3, Row 1)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-025",
+      "cadre_role": "Director / Joint Director",
+      "course_name": "Core Areas of Artificial Intelligence",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 3, Row 2)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-026",
+      "cadre_role": "Director / Joint Director",
+      "course_name": "Case Studies in the Use of Data and Evidence_for Governance",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 3, Row 3)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-027",
+      "cadre_role": "Director / Joint Director",
+      "course_name": "The Future of Digital Governance: New Innovations and Emerging Trends",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 3, Row 4)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-028",
+      "cadre_role": "Director / Joint Director",
+      "course_name": "Data Analytics and Visualizations for Government Officers",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 3, Row 5)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-029",
+      "cadre_role": "Director / Joint Director",
+      "course_name": "Indian Economy for Practitioners",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 3, Row 6)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-030",
+      "cadre_role": "Director / Joint Director",
+      "course_name": "PM Gatishakti",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 3, Row 1)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-031",
+      "cadre_role": "Director / Joint Director",
+      "course_name": "Public Governance Models",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 3, Row 8)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-032",
+      "cadre_role": "Director / Joint Director",
+      "course_name": "AI in Government: Transforming Public Service_Delivery_",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 3, Row 9)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-033",
+      "cadre_role": "Director / Joint Director",
+      "course_name": "Navigating Parliamentary Questions",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 3, Row 10)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-034",
+      "cadre_role": "Director / Joint Director",
+      "course_name": "Fundamentals of Public Policy",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 3, Row 11)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-035",
+      "cadre_role": "Director / Joint Director",
+      "course_name": "Project Appraisal and Financial Evaluation Techniques",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 3, Row 12)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-036",
+      "cadre_role": "Director / Joint Director",
+      "course_name": "Leadership in Project Management",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": "KCM-FUNC-05",
+      "candidate_kcm_competency_name": "Project Management",
+      "candidate_kcm_competency_type": "functional",
+      "mapping_method": "explicit_title_reference",
+      "evidence_or_rationale": "Course title explicitly references KCM competency 'Project Management' as focal area",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 3, Row 13)",
+        "SRC-CBC-KCM-2024 (KCM-FUNC-05, Pages [74, 75])"
+      ],
+      "confidence": 0.85,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-037",
+      "cadre_role": "Director / Joint Director",
+      "course_name": "Indian Knowledge Systems in Governance: Values-Based Approach",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 3, Row 14)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-038",
+      "cadre_role": "Director / Joint Director",
+      "course_name": "Developing a Positive Work Culture",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 3, Row 15)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-039",
+      "cadre_role": "Director / Joint Director",
+      "course_name": "The Art and Science of Managing Negotiation in Public Governance",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 3, Row 16)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-040",
+      "cadre_role": "Director / Joint Director",
+      "course_name": "Strategic Leadership: The Indic_ Way",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": "KCM-BEH-10",
+      "candidate_kcm_competency_name": "Strategic Leadership",
+      "candidate_kcm_competency_type": "behavioural",
+      "mapping_method": "explicit_title_reference",
+      "evidence_or_rationale": "Course title explicitly references KCM competency 'Strategic Leadership' as primary module",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 3, Row I7)",
+        "SRC-CBC-KCM-2024 (KCM-BEH-10, Pages [57, 58])"
+      ],
+      "confidence": 0.9,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-041",
+      "cadre_role": "Director / Joint Director",
+      "course_name": "Leading with Collaboration: Sahakaryata _in Public Service",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": "KCM-BEH-06",
+      "candidate_kcm_competency_name": "Collaboration",
+      "candidate_kcm_competency_type": "behavioural",
+      "mapping_method": "explicit_title_reference",
+      "evidence_or_rationale": "Course title explicitly references KCM competency 'Collaboration' as focal area",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 3, Row 18)",
+        "SRC-CBC-KCM-2024 (KCM-BEH-06, Pages [49, 50])"
+      ],
+      "confidence": 0.85,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-042",
+      "cadre_role": "Director / Joint Director",
+      "course_name": "Happiness in Seva-Bhava: Lessons from Bhagavad-Gita",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 3, Row 19)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-043",
+      "cadre_role": "Director / Joint Director",
+      "course_name": "Leading from Within: Behavioural Strategies for Self-Leadership",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 3, Row 20)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-044",
+      "cadre_role": "Director / Joint Director",
+      "course_name": "Rama's Leadership Code_",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 3, Row 21)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-045",
+      "cadre_role": "Director / Joint Director",
+      "course_name": "Sadharanikarana: Effective Communication for Transformative Leadership",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 3, Row 22)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-046",
+      "cadre_role": "Deputy Secretary / Under Secretary",
+      "course_name": "Know Your Ministry Ministry of Statistics and Programme Implementation",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 4, Row 1)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-047",
+      "cadre_role": "Deputy Secretary / Under Secretary",
+      "course_name": "Artificial Intelligence for Government Officers",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 4, Row 2)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-048",
+      "cadre_role": "Deputy Secretary / Under Secretary",
+      "course_name": "Overview of Basic Statistics",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 4, Row 3)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-049",
+      "cadre_role": "Deputy Secretary / Under Secretary",
+      "course_name": "Disciplinary Proceedings in Government",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 4, Row 4)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-050",
+      "cadre_role": "Deputy Secretary / Under Secretary",
+      "course_name": "Understanding of Recruitment Procedure",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 4, Row 5)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-051",
+      "cadre_role": "Deputy Secretary / Under Secretary",
+      "course_name": "Framing and Amendment of Recruitment Rules",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 4, Row 6)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-052",
+      "cadre_role": "Deputy Secretary / Under Secretary",
+      "course_name": "Government Litigation Management and Tribunal Procedures",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 4, Row 7)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-053",
+      "cadre_role": "Deputy Secretary / Under Secretary",
+      "course_name": "Procurement of Works",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 4, Row 8)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-054",
+      "cadre_role": "Deputy Secretary / Under Secretary",
+      "course_name": "Handling Central Administrative Tribunal (CAT) Cases",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 4, Row 9)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-055",
+      "cadre_role": "Deputy Secretary / Under Secretary",
+      "course_name": "FRSR Part [ General Rules",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 4, Row 10)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-056",
+      "cadre_role": "Deputy Secretary / Under Secretary",
+      "course_name": "Navigating Parliamentary Questions",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 4, Row 11)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-057",
+      "cadre_role": "Deputy Secretary / Under Secretary",
+      "course_name": "AI for Presentations",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 4, Row 12)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-058",
+      "cadre_role": "Deputy Secretary / Under Secretary",
+      "course_name": "Developing a Positive Work Culture",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 4, Row 13)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-059",
+      "cadre_role": "Deputy Secretary / Under Secretary",
+      "course_name": "The Art and Science of Managing Negotiation _in Public Governance",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 4, Row 14)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-060",
+      "cadre_role": "Deputy Secretary / Under Secretary",
+      "course_name": "Strategic Leadership: _The_Indic_ Way",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": "KCM-BEH-10",
+      "candidate_kcm_competency_name": "Strategic Leadership",
+      "candidate_kcm_competency_type": "behavioural",
+      "mapping_method": "explicit_title_reference",
+      "evidence_or_rationale": "Course title explicitly references KCM competency 'Strategic Leadership' as primary module",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 4, Row 15)",
+        "SRC-CBC-KCM-2024 (KCM-BEH-10, Pages [57, 58])"
+      ],
+      "confidence": 0.9,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-061",
+      "cadre_role": "Deputy Secretary / Under Secretary",
+      "course_name": "Leading with Collaboration: Sahakaryata in Public_Service_",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": "KCM-BEH-06",
+      "candidate_kcm_competency_name": "Collaboration",
+      "candidate_kcm_competency_type": "behavioural",
+      "mapping_method": "explicit_title_reference",
+      "evidence_or_rationale": "Course title explicitly references KCM competency 'Collaboration' as focal area",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 4, Row 16)",
+        "SRC-CBC-KCM-2024 (KCM-BEH-06, Pages [49, 50])"
+      ],
+      "confidence": 0.85,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-062",
+      "cadre_role": "Deputy Secretary / Under Secretary",
+      "course_name": "Happiness in Seva-Bhava: Lessons from Bhagavad-Gita",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 4, Row 17)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-063",
+      "cadre_role": "Deputy Secretary / Under Secretary",
+      "course_name": "Leading from Within: Behavioural Strategies for Self-Leadership",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 4, Row 18)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-064",
+      "cadre_role": "Deputy Secretary / Under Secretary",
+      "course_name": "Rama's Leadership Code",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 4, Row 19)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-065",
+      "cadre_role": "Deputy Secretary / Under Secretary",
+      "course_name": "Sadharanikarana: Effective Communication for Transformative Leadership_",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 4, Row 20)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-066",
+      "cadre_role": "Assistant Director / Deputy Director",
+      "course_name": "Core Areas of Artificial Intelligence",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 5, Row 1)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-067",
+      "cadre_role": "Assistant Director / Deputy Director",
+      "course_name": "Handling Unit Level Data of Household Consumption Expenditure Survey",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 5, Row 2)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-068",
+      "cadre_role": "Assistant Director / Deputy Director",
+      "course_name": "Artificial Intelligence_L2",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 5, Row 3)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-069",
+      "cadre_role": "Assistant Director / Deputy Director",
+      "course_name": "Handling Unit Level Data of Annual Survey of Industries",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 5, Row 4)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-070",
+      "cadre_role": "Assistant Director / Deputy Director",
+      "course_name": "Data Analytics and Visualizations for Government Officers",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 5, Row 5)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-071",
+      "cadre_role": "Assistant Director / Deputy Director",
+      "course_name": "Indian Economy for Practitioners",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 5, Row 6)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-072",
+      "cadre_role": "Assistant Director / Deputy Director",
+      "course_name": "Introduction to R and Python Programming_",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 5, Row 7)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-073",
+      "cadre_role": "Assistant Director / Deputy Director",
+      "course_name": "Introduction to Big Data in Governance",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 5, Row 8)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-074",
+      "cadre_role": "Assistant Director / Deputy Director",
+      "course_name": "Responsible_AL in the Generative_ AI Era",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 5, Row 9)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-075",
+      "cadre_role": "Assistant Director / Deputy Director",
+      "course_name": "Budgetary System in Government",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 5, Row 10)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-076",
+      "cadre_role": "Assistant Director / Deputy Director",
+      "course_name": "AI for Presentations",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 5, Row I1)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-077",
+      "cadre_role": "Assistant Director / Deputy Director",
+      "course_name": "AL Ethics for Goverance",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 5, Row 12)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-078",
+      "cadre_role": "Assistant Director / Deputy Director",
+      "course_name": "Introduction: Basics of Project Management",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 5, Row 13)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-079",
+      "cadre_role": "Assistant Director / Deputy Director",
+      "course_name": "Sadharanikarana: Effective Communication for Transformative Leadership",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 5, Row 14)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-080",
+      "cadre_role": "Assistant Director / Deputy Director",
+      "course_name": "Yoga Break at Workplace",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 5, Row 15)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-081",
+      "cadre_role": "Assistant Director / Deputy Director",
+      "course_name": "Happiness in Seva-Bhava: Lessons from Bhagavad-Gita",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 5, Row 16)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-082",
+      "cadre_role": "Assistant Director / Deputy Director",
+      "course_name": "Leading from Within: Behavioural Strategies for Self-Leadership",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 5, Row 17)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-083",
+      "cadre_role": "Assistant Director / Deputy Director",
+      "course_name": "Team Building and Team Management",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 5, Row 18)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-084",
+      "cadre_role": "Assistant Director / Deputy Director",
+      "course_name": "Stress Management through Meditation and Yog Nidra",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 5, Row 19)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-085",
+      "cadre_role": "Assistant Director / Deputy Director",
+      "course_name": "Leadership Lessons from Bhagavad Gita",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 5, Row 20)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-086",
+      "cadre_role": "Sr. PPS / PSO / PPS / PS",
+      "course_name": "Know Your Ministry Ministry of Statistics and Programme Implementation",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 6, Row 1)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-087",
+      "cadre_role": "Sr. PPS / PSO / PPS / PS",
+      "course_name": "Overview of Basic Statistics",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 6, Row 2)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-088",
+      "cadre_role": "Sr. PPS / PSO / PPS / PS",
+      "course_name": "Artificial Intelligence for _Karmayogis_",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 6, Row 3)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-089",
+      "cadre_role": "Sr. PPS / PSO / PPS / PS",
+      "course_name": "Official Meeting _ Role of Personal Staff",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 6, Row 4)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-090",
+      "cadre_role": "Sr. PPS / PSO / PPS / PS",
+      "course_name": "Parliamentary Procedures",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 6, Row 5)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-091",
+      "cadre_role": "Sr. PPS / PSO / PPS / PS",
+      "course_name": "Office Procedures",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 6, Row 6)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-092",
+      "cadre_role": "Sr. PPS / PSO / PPS / PS",
+      "course_name": "Records Management",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 6, Row 7)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-093",
+      "cadre_role": "Sr. PPS / PSO / PPS / PS",
+      "course_name": "Noting and Drafting",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 6, Row 8)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-094",
+      "cadre_role": "Sr. PPS / PSO / PPS / PS",
+      "course_name": "AI for Presentations",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 6, Row 9)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-095",
+      "cadre_role": "Sr. PPS / PSO / PPS / PS",
+      "course_name": "ChatGPT and Generative AI Tools for Government Officials",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 6, Row 10)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-096",
+      "cadre_role": "Sr. PPS / PSO / PPS / PS",
+      "course_name": "Navigating Parliamentary Questions",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 6, Row 11)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-097",
+      "cadre_role": "Sr. PPS / PSO / PPS / PS",
+      "course_name": "Management Fundamentals in Government Services",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 6, Row 12)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-098",
+      "cadre_role": "Sr. PPS / PSO / PPS / PS",
+      "course_name": "Yoga Break at Workplace",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 6, Row 13)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-099",
+      "cadre_role": "Sr. PPS / PSO / PPS / PS",
+      "course_name": "Developing a Positive Work Culture",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 6, Row 14)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-100",
+      "cadre_role": "Sr. PPS / PSO / PPS / PS",
+      "course_name": "Effective Stakeholder Engagement and Communication",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 6, Row 15)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-101",
+      "cadre_role": "Sr. PPS / PSO / PPS / PS",
+      "course_name": "Happiness in Seva-Bhava: Lessons from Bhagavad-Gita",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 6, Row 16)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-102",
+      "cadre_role": "Sr. PPS / PSO / PPS / PS",
+      "course_name": "Beyond Words: Mastering Listening and Nonverbal Communication",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 6, Row 17)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-103",
+      "cadre_role": "Sr. PPS / PSO / PPS / PS",
+      "course_name": "Personal and Professional Effectiveness",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 6, Row 18)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-104",
+      "cadre_role": "Sr. PPS / PSO / PPS / PS",
+      "course_name": "Developing Effective Soft Skills",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 6, Row 19)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-105",
+      "cadre_role": "Sr. PPS / PSO / PPS / PS",
+      "course_name": "From Criticism to Growth: Navigating Feedback Effectively",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 6, Row 20)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-106",
+      "cadre_role": "Senior Statistical Officers / Section Officer / Senior Administrative Officer / Administrative Officer",
+      "course_name": "Know Your Ministry Ministry of Statistics and Programme Implementation",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 7, Row 1)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-107",
+      "cadre_role": "Senior Statistical Officers / Section Officer / Senior Administrative Officer / Administrative Officer",
+      "course_name": "Handling Unit Level Data of Household Consumption Expenditure Survey",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 7, Row 2)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-108",
+      "cadre_role": "Senior Statistical Officers / Section Officer / Senior Administrative Officer / Administrative Officer",
+      "course_name": "Handling Unit Level Data of Annual Survey of Industries",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 7, Row 3)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-109",
+      "cadre_role": "Senior Statistical Officers / Section Officer / Senior Administrative Officer / Administrative Officer",
+      "course_name": "Handling Data of Annual Survey of Unincorporated Sector _Enterprises_",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 7, Row 4)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-110",
+      "cadre_role": "Senior Statistical Officers / Section Officer / Senior Administrative Officer / Administrative Officer",
+      "course_name": "Overview of Basic Statistics",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 7, Row 5)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-111",
+      "cadre_role": "Senior Statistical Officers / Section Officer / Senior Administrative Officer / Administrative Officer",
+      "course_name": "Arthashastra: A Beginner's Guide",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 7, Row 6)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-112",
+      "cadre_role": "Senior Statistical Officers / Section Officer / Senior Administrative Officer / Administrative Officer",
+      "course_name": "Artificial Intelligence for Everyone_",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 7, Row 7)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-113",
+      "cadre_role": "Senior Statistical Officers / Section Officer / Senior Administrative Officer / Administrative Officer",
+      "course_name": "ChatGPT and Generative AI Tools for Government Officials",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 7, Row 8)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-114",
+      "cadre_role": "Senior Statistical Officers / Section Officer / Senior Administrative Officer / Administrative Officer",
+      "course_name": "Microsoft Excel Advanced",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 7, Row 9)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-115",
+      "cadre_role": "Senior Statistical Officers / Section Officer / Senior Administrative Officer / Administrative Officer",
+      "course_name": "AL for Presentations",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 7, Row 10)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-116",
+      "cadre_role": "Senior Statistical Officers / Section Officer / Senior Administrative Officer / Administrative Officer",
+      "course_name": "Essential Tools for Monitoring and Management for Everyone",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 7, Row 11)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-117",
+      "cadre_role": "Senior Statistical Officers / Section Officer / Senior Administrative Officer / Administrative Officer",
+      "course_name": "Planning a Research Study: Data Collection Management Analysis",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 7, Row 12)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-118",
+      "cadre_role": "Senior Statistical Officers / Section Officer / Senior Administrative Officer / Administrative Officer",
+      "course_name": "TOTAL QUALITY MANAGEMENT",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 7, Row 13)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-119",
+      "cadre_role": "Senior Statistical Officers / Section Officer / Senior Administrative Officer / Administrative Officer",
+      "course_name": "Team Building and Team Management",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 7, Row 14)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-120",
+      "cadre_role": "Senior Statistical Officers / Section Officer / Senior Administrative Officer / Administrative Officer",
+      "course_name": "Iea: _ # RTeTAR",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 7, Row 15)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-121",
+      "cadre_role": "Senior Statistical Officers / Section Officer / Senior Administrative Officer / Administrative Officer",
+      "course_name": "Yoga: Pranayama",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 7, Row 16)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-122",
+      "cadre_role": "Senior Statistical Officers / Section Officer / Senior Administrative Officer / Administrative Officer",
+      "course_name": "Effective Stakeholder Engagement and Communication",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 7, Row 17)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-123",
+      "cadre_role": "Senior Statistical Officers / Section Officer / Senior Administrative Officer / Administrative Officer",
+      "course_name": "Developing a Positive Work Culture",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 7, Row 18)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-124",
+      "cadre_role": "Senior Statistical Officers / Section Officer / Senior Administrative Officer / Administrative Officer",
+      "course_name": "Revisiting Gender Equality through the Indian Spiritual_ Vision",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 7, Row 19)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-125",
+      "cadre_role": "Senior Statistical Officers / Section Officer / Senior Administrative Officer / Administrative Officer",
+      "course_name": "The Art of Listening",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 7, Row 20)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-126",
+      "cadre_role": "Junior Statistical Officers / Assistant Section Officers / Data Processing Assistant (All Grades)",
+      "course_name": "Know Your Ministry Ministry of Statistics and Programme Implementation",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 8, Row 1)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-127",
+      "cadre_role": "Junior Statistical Officers / Assistant Section Officers / Data Processing Assistant (All Grades)",
+      "course_name": "Handling Unit Level Data of Household Consumption Expenditure Survey",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 8, Row 2)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-128",
+      "cadre_role": "Junior Statistical Officers / Assistant Section Officers / Data Processing Assistant (All Grades)",
+      "course_name": "Handling Unit Level Data of Annual Survey of Industries",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 8, Row 3)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-129",
+      "cadre_role": "Junior Statistical Officers / Assistant Section Officers / Data Processing Assistant (All Grades)",
+      "course_name": "Overview of Basic Statistics",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 8, Row 4)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-130",
+      "cadre_role": "Junior Statistical Officers / Assistant Section Officers / Data Processing Assistant (All Grades)",
+      "course_name": "Arthashastra: A Beginner's Guide",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 8, Row 5)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-131",
+      "cadre_role": "Junior Statistical Officers / Assistant Section Officers / Data Processing Assistant (All Grades)",
+      "course_name": "Artificial Intelligence for Everyone",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 8, Row 6)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-132",
+      "cadre_role": "Junior Statistical Officers / Assistant Section Officers / Data Processing Assistant (All Grades)",
+      "course_name": "Fundamental Rules and Supplementary Rules (FRSR Part-III Leave Rules",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 8, Row 7)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-133",
+      "cadre_role": "Junior Statistical Officers / Assistant Section Officers / Data Processing Assistant (All Grades)",
+      "course_name": "Microsoft Excel Advanced",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 8, Row 8)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-134",
+      "cadre_role": "Junior Statistical Officers / Assistant Section Officers / Data Processing Assistant (All Grades)",
+      "course_name": "AI for Presentations",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 8, Row 9)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-135",
+      "cadre_role": "Junior Statistical Officers / Assistant Section Officers / Data Processing Assistant (All Grades)",
+      "course_name": "Essential Tools for Monitoring and Management for Everyone",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 8, Row 10)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-136",
+      "cadre_role": "Junior Statistical Officers / Assistant Section Officers / Data Processing Assistant (All Grades)",
+      "course_name": "Planning a Research Study: Data Collection Management Analysis_",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 8, Row 11)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-137",
+      "cadre_role": "Junior Statistical Officers / Assistant Section Officers / Data Processing Assistant (All Grades)",
+      "course_name": "Team Building and Team Management",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 8, Row 12)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-138",
+      "cadre_role": "Junior Statistical Officers / Assistant Section Officers / Data Processing Assistant (All Grades)",
+      "course_name": "Areaz: * RIETAR",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 8, Row 13)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-139",
+      "cadre_role": "Junior Statistical Officers / Assistant Section Officers / Data Processing Assistant (All Grades)",
+      "course_name": "Yoga: Pranayama",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 8, Row 14)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-140",
+      "cadre_role": "Junior Statistical Officers / Assistant Section Officers / Data Processing Assistant (All Grades)",
+      "course_name": "Effective Stakeholder Engagement and Communication",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 8, Row 15)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-141",
+      "cadre_role": "Junior Statistical Officers / Assistant Section Officers / Data Processing Assistant (All Grades)",
+      "course_name": "Developing a Positive Work Culture",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 8, Row 16)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-142",
+      "cadre_role": "Junior Statistical Officers / Assistant Section Officers / Data Processing Assistant (All Grades)",
+      "course_name": "Revisiting Gender Equality through the Indian Spiritual Vision",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 8, Row 17)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-143",
+      "cadre_role": "Junior Statistical Officers / Assistant Section Officers / Data Processing Assistant (All Grades)",
+      "course_name": "The Art of Listening",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 8, Row 18)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-144",
+      "cadre_role": "Junior Statistical Officers / Assistant Section Officers / Data Processing Assistant (All Grades)",
+      "course_name": "Noting and Drafting",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 8, Row 19)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-145",
+      "cadre_role": "Junior Statistical Officers / Assistant Section Officers / Data Processing Assistant (All Grades)",
+      "course_name": "Code of Conduct for Government Employees",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 8, Row 20)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-146",
+      "cadre_role": "AD(OL) / Senior Hindi Translator / Junior Hindi Translator",
+      "course_name": "Know Your Ministry Ministry of Statistics and Programme Implementation",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 9, Row 1)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-147",
+      "cadre_role": "AD(OL) / Senior Hindi Translator / Junior Hindi Translator",
+      "course_name": "Artificial Intelligence for Karmayogis_",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 9, Row 2)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-148",
+      "cadre_role": "AD(OL) / Senior Hindi Translator / Junior Hindi Translator",
+      "course_name": "Overview of Basic Statistics",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 9, Row 3)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-149",
+      "cadre_role": "AD(OL) / Senior Hindi Translator / Junior Hindi Translator",
+      "course_name": "Role of Official Languages Wing in Legislative Drafting_",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 9, Row 4)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-150",
+      "cadre_role": "AD(OL) / Senior Hindi Translator / Junior Hindi Translator",
+      "course_name": "Bhashini and Digital India: Bridging Languages in Citizen Services",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 9, Row 5)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-151",
+      "cadre_role": "AD(OL) / Senior Hindi Translator / Junior Hindi Translator",
+      "course_name": "3jala: faia 3ir %in41 (d ZEr",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 9, Row 6)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-152",
+      "cadre_role": "AD(OL) / Senior Hindi Translator / Junior Hindi Translator",
+      "course_name": "TNN4T *t",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 9, Row 7)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-153",
+      "cadre_role": "AD(OL) / Senior Hindi Translator / Junior Hindi Translator",
+      "course_name": "TFNHTHT fwqur Uat 3RqF",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 9, Row 8)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-154",
+      "cadre_role": "AD(OL) / Senior Hindi Translator / Junior Hindi Translator",
+      "course_name": "Artificial Intelligence Integration in Microsoft Office 365",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 9, Row 9)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-155",
+      "cadre_role": "AD(OL) / Senior Hindi Translator / Junior Hindi Translator",
+      "course_name": "qmv 4 rasrft Tyafloj",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 9, Row 10)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-156",
+      "cadre_role": "AD(OL) / Senior Hindi Translator / Junior Hindi Translator",
+      "course_name": "Happiness in Seva-Bhava: Lessons from Bhagavad-Gita",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 9, Row 11)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-157",
+      "cadre_role": "AD(OL) / Senior Hindi Translator / Junior Hindi Translator",
+      "course_name": "Understanding and Managing Stress",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 9, Row 12)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-158",
+      "cadre_role": "AD(OL) / Senior Hindi Translator / Junior Hindi Translator",
+      "course_name": "Revisiting Gender Equality through the Indian Spiritual Vision",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 9, Row 13)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-159",
+      "cadre_role": "AD(OL) / Senior Hindi Translator / Junior Hindi Translator",
+      "course_name": "Mastering Social Correspondence and Etiquette",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 9, Row 14)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-160",
+      "cadre_role": "AD(OL) / Senior Hindi Translator / Junior Hindi Translator",
+      "course_name": "Developing a Positive Work Culture",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 9, Row 15)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-161",
+      "cadre_role": "AD(OL) / Senior Hindi Translator / Junior Hindi Translator",
+      "course_name": "Seven Secrets to Mastering Quality Work",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 9, Row 16)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-162",
+      "cadre_role": "AD(OL) / Senior Hindi Translator / Junior Hindi Translator",
+      "course_name": "Leading from Within: Behavioural Strategies for Self-Leadership",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 9, Row 17)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-163",
+      "cadre_role": "AD(OL) / Senior Hindi Translator / Junior Hindi Translator",
+      "course_name": "9FUITR",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 9, Row 18)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-164",
+      "cadre_role": "AD(OL) / Senior Hindi Translator / Junior Hindi Translator",
+      "course_name": "Fn W <Nfq f4e 741 4 %ay;",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 9, Row 19)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-165",
+      "cadre_role": "AD(OL) / Senior Hindi Translator / Junior Hindi Translator",
+      "course_name": "Ieaau: _ # FETAR",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 9, Row 20)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-166",
+      "cadre_role": "Assistants / Upper Division Clerk / Lower Division Clerk",
+      "course_name": "Know Your Ministry Ministry of Statistics and Programme Implementation",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 10, Row 1)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-167",
+      "cadre_role": "Assistants / Upper Division Clerk / Lower Division Clerk",
+      "course_name": "Artificial Intelligence for Karmayogis",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 10, Row 2)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-168",
+      "cadre_role": "Assistants / Upper Division Clerk / Lower Division Clerk",
+      "course_name": "Overview of Basic Statistics",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 10, Row 3)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-169",
+      "cadre_role": "Assistants / Upper Division Clerk / Lower Division Clerk",
+      "course_name": "eOffice Learning Resources 2025",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 10, Row 4)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-170",
+      "cadre_role": "Assistants / Upper Division Clerk / Lower Division Clerk",
+      "course_name": "Noting and Drafting",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 10, Row 5)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-171",
+      "cadre_role": "Assistants / Upper Division Clerk / Lower Division Clerk",
+      "course_name": "Formalities of Joining Service",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 10, Row 6)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-172",
+      "cadre_role": "Assistants / Upper Division Clerk / Lower Division Clerk",
+      "course_name": "Records Management",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 10, Row 7)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-173",
+      "cadre_role": "Assistants / Upper Division Clerk / Lower Division Clerk",
+      "course_name": "Navigating Parliamentary Questions",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 10, Row 8)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-174",
+      "cadre_role": "Assistants / Upper Division Clerk / Lower Division Clerk",
+      "course_name": "Fundamental Rules and Supplementary Rules (FRSR Part-III Leave Rules",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 10, Row 9)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-175",
+      "cadre_role": "Assistants / Upper Division Clerk / Lower Division Clerk",
+      "course_name": "Pay Fixation Updated",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 10, Row 10)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-176",
+      "cadre_role": "Assistants / Upper Division Clerk / Lower Division Clerk",
+      "course_name": "Microsoft Word Beginners",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 10, Row 11)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-177",
+      "cadre_role": "Assistants / Upper Division Clerk / Lower Division Clerk",
+      "course_name": "Government e-Marketplace",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 10, Row 12)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-178",
+      "cadre_role": "Assistants / Upper Division Clerk / Lower Division Clerk",
+      "course_name": "Understanding and Managing Stress",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 10, Row 13)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-179",
+      "cadre_role": "Assistants / Upper Division Clerk / Lower Division Clerk",
+      "course_name": "Revisiting Gender Equality through the Indian Spiritual Vision_",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 10, Row 14)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-180",
+      "cadre_role": "Assistants / Upper Division Clerk / Lower Division Clerk",
+      "course_name": "Mastering Social Correspondence and Etiquette",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 10, Row 15)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-181",
+      "cadre_role": "Assistants / Upper Division Clerk / Lower Division Clerk",
+      "course_name": "Developing a Positive Work Culture",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 10, Row 16)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-182",
+      "cadre_role": "Assistants / Upper Division Clerk / Lower Division Clerk",
+      "course_name": "Seven Secrets to Mastering Quality Work",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 10, Row 17)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-183",
+      "cadre_role": "Assistants / Upper Division Clerk / Lower Division Clerk",
+      "course_name": "Leading From Within: Behavioural Strategies for Self-Leadership",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 10, Row 18)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-184",
+      "cadre_role": "Assistants / Upper Division Clerk / Lower Division Clerk",
+      "course_name": "The Art of Listening",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 10, Row 19)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-185",
+      "cadre_role": "Assistants / Upper Division Clerk / Lower Division Clerk",
+      "course_name": "#FT; YTT4MA",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 10, Row 20)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-186",
+      "cadre_role": "Stenographer (All Grades) / Data Entry Operator (All Grades)",
+      "course_name": "Artificial Intelligence for Karmayogis",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 11, Row 2)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-187",
+      "cadre_role": "Stenographer (All Grades) / Data Entry Operator (All Grades)",
+      "course_name": "Overview of Basic Statistics",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 11, Row 3)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-188",
+      "cadre_role": "Stenographer (All Grades) / Data Entry Operator (All Grades)",
+      "course_name": "Office Procedure and Dak Managements",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 11, Row 3)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-189",
+      "cadre_role": "Stenographer (All Grades) / Data Entry Operator (All Grades)",
+      "course_name": "Noting and Drafting",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 11, Row 5)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-190",
+      "cadre_role": "Stenographer (All Grades) / Data Entry Operator (All Grades)",
+      "course_name": "#rf<T4 %fenut",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 11, Row 5)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-191",
+      "cadre_role": "Stenographer (All Grades) / Data Entry Operator (All Grades)",
+      "course_name": "eOffice Learning Resources 2025",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 11, Row 7)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-192",
+      "cadre_role": "Stenographer (All Grades) / Data Entry Operator (All Grades)",
+      "course_name": "Microsoft Word Beginners",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 11, Row 8)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-193",
+      "cadre_role": "Stenographer (All Grades) / Data Entry Operator (All Grades)",
+      "course_name": "Government e-Marketplace",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 11, Row 8)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-194",
+      "cadre_role": "Stenographer (All Grades) / Data Entry Operator (All Grades)",
+      "course_name": "Records Management",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 11, Row 10)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-195",
+      "cadre_role": "Stenographer (All Grades) / Data Entry Operator (All Grades)",
+      "course_name": "AI for Presentations",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 11, Row 11)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-196",
+      "cadre_role": "Stenographer (All Grades) / Data Entry Operator (All Grades)",
+      "course_name": "Time Management",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 11, Row 12)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-197",
+      "cadre_role": "Stenographer (All Grades) / Data Entry Operator (All Grades)",
+      "course_name": "Developing a Positive Work Culture",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 11, Row 13)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-198",
+      "cadre_role": "Stenographer (All Grades) / Data Entry Operator (All Grades)",
+      "course_name": "Goal Setting for Workplace Success",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 11, Row 14)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-199",
+      "cadre_role": "Stenographer (All Grades) / Data Entry Operator (All Grades)",
+      "course_name": "THN Yt",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 11, Row 15)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-200",
+      "cadre_role": "Stenographer (All Grades) / Data Entry Operator (All Grades)",
+      "course_name": "Revisiting Gender Equality through the Indian Spiritual Vision",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 11, Row 16)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-201",
+      "cadre_role": "Stenographer (All Grades) / Data Entry Operator (All Grades)",
+      "course_name": "Mastering Social Correspondence and Etiquette",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 11, Row 17)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-202",
+      "cadre_role": "Stenographer (All Grades) / Data Entry Operator (All Grades)",
+      "course_name": "Developing a Positive Work Culture",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 11, Row 18)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-203",
+      "cadre_role": "Stenographer (All Grades) / Data Entry Operator (All Grades)",
+      "course_name": "Seven Secrets to Mastering Quality Work",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 11, Row 19)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-204",
+      "cadre_role": "Stenographer (All Grades) / Data Entry Operator (All Grades)",
+      "course_name": "Leading From Within: Behavioural Strategies for Self-Leadership",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 11, Row 20)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-205",
+      "cadre_role": "Stenographer (All Grades) / Data Entry Operator (All Grades)",
+      "course_name": "The Art of Listening",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 11, Row 21)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-206",
+      "cadre_role": "Stenographer (All Grades) / Data Entry Operator (All Grades)",
+      "course_name": "TTT: YFURYIR",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 11, Row 22)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-207",
+      "cadre_role": "MTS / Driver (All Grades)",
+      "course_name": "Know Your Ministry Ministry of Statistics and Programme [mplementation",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 12, Row 1)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-208",
+      "cadre_role": "MTS / Driver (All Grades)",
+      "course_name": "Artificial Intelligence for Karmayogis",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 12, Row 2)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-209",
+      "cadre_role": "MTS / Driver (All Grades)",
+      "course_name": "Overview of Basic Statistics",
+      "acbp_competency_category": "Domain",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 12, Row 3)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-210",
+      "cadre_role": "MTS / Driver (All Grades)",
+      "course_name": "Secretariat Functioning in File",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 12, Row 4)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-211",
+      "cadre_role": "MTS / Driver (All Grades)",
+      "course_name": "YM T afuar 34444 2005: 77 afrn &1 #4AT T 3rraifra",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 12, Row 5)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-212",
+      "cadre_role": "MTS / Driver (All Grades)",
+      "course_name": "eOffice Learning Resources 2025",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 12, Row 6)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-213",
+      "cadre_role": "MTS / Driver (All Grades)",
+      "course_name": "ayfa4 serurt",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 12, Row 7)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-214",
+      "cadre_role": "MTS / Driver (All Grades)",
+      "course_name": "#-aife 4at 4aw (a <all 5fxTeur",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 12, Row 8)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-215",
+      "cadre_role": "MTS / Driver (All Grades)",
+      "course_name": "uran #at 4 3d01 F4n W 544;",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 12, Row 9)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-216",
+      "cadre_role": "MTS / Driver (All Grades)",
+      "course_name": "#rert 4 Havin3n} * 4F 3r487 851 7i5rT4",
+      "acbp_competency_category": "Functional",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 12, Row 10)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-217",
+      "cadre_role": "MTS / Driver (All Grades)",
+      "course_name": "Time Management",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 12, Row 11)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-218",
+      "cadre_role": "MTS / Driver (All Grades)",
+      "course_name": "TH4 Ta;",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 12, Row 12)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-219",
+      "cadre_role": "MTS / Driver (All Grades)",
+      "course_name": "Revisiting Gender Equality through the Indian Spiritual Vision",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 12, Row 13)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-220",
+      "cadre_role": "MTS / Driver (All Grades)",
+      "course_name": "Mastering Social Correspondence and Etiquette _",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 12, Row 14)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-221",
+      "cadre_role": "MTS / Driver (All Grades)",
+      "course_name": "Developing a Positive Work Culture",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 12, Row 15)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-222",
+      "cadre_role": "MTS / Driver (All Grades)",
+      "course_name": "Seven Secrets to Mastering Quality Work",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 12, Row 16)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-223",
+      "cadre_role": "MTS / Driver (All Grades)",
+      "course_name": "Haaraer Va TarITt",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 12, Row 17)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-224",
+      "cadre_role": "MTS / Driver (All Grades)",
+      "course_name": "4T: YTUTNYI",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 12, Row 18)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-225",
+      "cadre_role": "MTS / Driver (All Grades)",
+      "course_name": "@fnta Ka T1If4rr farT # ft vfav akxTTT",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 12, Row 19)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    },
+    {
+      "course_record_id": "ACBP-CRS-226",
+      "cadre_role": "MTS / Driver (All Grades)",
+      "course_name": "#4any + T #4nT & TRTT JAN # 4T =1 44aaT",
+      "acbp_competency_category": "Behavioural",
+      "candidate_kcm_competency_id": null,
+      "candidate_kcm_competency_name": null,
+      "candidate_kcm_competency_type": null,
+      "mapping_method": "unresolved",
+      "evidence_or_rationale": "No explicit competency name stated in course title; requires formal curriculum mapping",
+      "source_references": [
+        "SRC-MOSPI-ACBP-2026-27 (Page 12, Row 20)"
+      ],
+      "confidence": null,
+      "validation_status": "pending_review"
+    }
+  ]
+}

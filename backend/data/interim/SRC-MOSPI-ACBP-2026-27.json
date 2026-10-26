@@ -1,0 +1,200 @@
+{
+  "document_id": "SRC-MOSPI-ACBP-2026-27",
+  "source_filename": "OM -Annual Capacity Building Plan (ACBP) for MoSPI officials employees for FY 2026–27.pdf",
+  "relative_path": "data\\raw\\OM -Annual Capacity Building Plan (ACBP) for MoSPI officials employees for FY 2026–27.pdf",
+  "file_size_bytes": 1055018,
+  "sha256": "73ee47e6809982b63ffe928e95e86e4084d33865d325876e0cb9ff755a634205",
+  "extraction_timestamp": "2026-10-18T04:58:16.045059+00:00",
+  "status": "success",
+  "total_pages": 13,
+  "total_characters": 3332,
+  "total_words": 390,
+  "flagged_pages_count": 13,
+  "pages_needing_ocr": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "error_message": null,
+  "pages": [
+    {
+      "page_number": 1,
+      "character_count": 256,
+      "word_count": 30,
+      "image_count": 2,
+      "needs_ocr_review": true,
+      "flags": [
+        "EOFFICE_WATERMARK_SCAN",
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": "Extracted text (256 chars) matches eOffice metadata/watermark header, while the body contains 2 image(s); substantive document content is scanned and requires OCR.",
+      "text": "1200351/2026/O/o NSSTA\n1\nFile No. Y-11011/01/2022-23/NSSTA-Part(i) (Computer No. 80529)\nGenerated from eOffice by Monika Chowdhry, SSO(NSSTA)MC, SENIOR STATISTICAL OFFICER, NATIONAL STATISTICAL SYSTEMS TRAINING ACADEMY, MINISTRY OF STATISTICS & P.I., GREAT\n"
+    },
+    {
+      "page_number": 2,
+      "character_count": 256,
+      "word_count": 30,
+      "image_count": 2,
+      "needs_ocr_review": true,
+      "flags": [
+        "EOFFICE_WATERMARK_SCAN",
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": "Extracted text (256 chars) matches eOffice metadata/watermark header, while the body contains 2 image(s); substantive document content is scanned and requires OCR.",
+      "text": "1200351/2026/O/o NSSTA\n2\nFile No. Y-11011/01/2022-23/NSSTA-Part(i) (Computer No. 80529)\nGenerated from eOffice by Monika Chowdhry, SSO(NSSTA)MC, SENIOR STATISTICAL OFFICER, NATIONAL STATISTICAL SYSTEMS TRAINING ACADEMY, MINISTRY OF STATISTICS & P.I., GREAT\n"
+    },
+    {
+      "page_number": 3,
+      "character_count": 256,
+      "word_count": 30,
+      "image_count": 2,
+      "needs_ocr_review": true,
+      "flags": [
+        "EOFFICE_WATERMARK_SCAN",
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": "Extracted text (256 chars) matches eOffice metadata/watermark header, while the body contains 2 image(s); substantive document content is scanned and requires OCR.",
+      "text": "1200351/2026/O/o NSSTA\n3\nFile No. Y-11011/01/2022-23/NSSTA-Part(i) (Computer No. 80529)\nGenerated from eOffice by Monika Chowdhry, SSO(NSSTA)MC, SENIOR STATISTICAL OFFICER, NATIONAL STATISTICAL SYSTEMS TRAINING ACADEMY, MINISTRY OF STATISTICS & P.I., GREAT\n"
+    },
+    {
+      "page_number": 4,
+      "character_count": 256,
+      "word_count": 30,
+      "image_count": 2,
+      "needs_ocr_review": true,
+      "flags": [
+        "EOFFICE_WATERMARK_SCAN",
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": "Extracted text (256 chars) matches eOffice metadata/watermark header, while the body contains 2 image(s); substantive document content is scanned and requires OCR.",
+      "text": "1200351/2026/O/o NSSTA\n4\nFile No. Y-11011/01/2022-23/NSSTA-Part(i) (Computer No. 80529)\nGenerated from eOffice by Monika Chowdhry, SSO(NSSTA)MC, SENIOR STATISTICAL OFFICER, NATIONAL STATISTICAL SYSTEMS TRAINING ACADEMY, MINISTRY OF STATISTICS & P.I., GREAT\n"
+    },
+    {
+      "page_number": 5,
+      "character_count": 256,
+      "word_count": 30,
+      "image_count": 2,
+      "needs_ocr_review": true,
+      "flags": [
+        "EOFFICE_WATERMARK_SCAN",
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": "Extracted text (256 chars) matches eOffice metadata/watermark header, while the body contains 2 image(s); substantive document content is scanned and requires OCR.",
+      "text": "1200351/2026/O/o NSSTA\n5\nFile No. Y-11011/01/2022-23/NSSTA-Part(i) (Computer No. 80529)\nGenerated from eOffice by Monika Chowdhry, SSO(NSSTA)MC, SENIOR STATISTICAL OFFICER, NATIONAL STATISTICAL SYSTEMS TRAINING ACADEMY, MINISTRY OF STATISTICS & P.I., GREAT\n"
+    },
+    {
+      "page_number": 6,
+      "character_count": 256,
+      "word_count": 30,
+      "image_count": 2,
+      "needs_ocr_review": true,
+      "flags": [
+        "EOFFICE_WATERMARK_SCAN",
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": "Extracted text (256 chars) matches eOffice metadata/watermark header, while the body contains 2 image(s); substantive document content is scanned and requires OCR.",
+      "text": "1200351/2026/O/o NSSTA\n6\nFile No. Y-11011/01/2022-23/NSSTA-Part(i) (Computer No. 80529)\nGenerated from eOffice by Monika Chowdhry, SSO(NSSTA)MC, SENIOR STATISTICAL OFFICER, NATIONAL STATISTICAL SYSTEMS TRAINING ACADEMY, MINISTRY OF STATISTICS & P.I., GREAT\n"
+    },
+    {
+      "page_number": 7,
+      "character_count": 256,
+      "word_count": 30,
+      "image_count": 2,
+      "needs_ocr_review": true,
+      "flags": [
+        "EOFFICE_WATERMARK_SCAN",
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": "Extracted text (256 chars) matches eOffice metadata/watermark header, while the body contains 2 image(s); substantive document content is scanned and requires OCR.",
+      "text": "1200351/2026/O/o NSSTA\n7\nFile No. Y-11011/01/2022-23/NSSTA-Part(i) (Computer No. 80529)\nGenerated from eOffice by Monika Chowdhry, SSO(NSSTA)MC, SENIOR STATISTICAL OFFICER, NATIONAL STATISTICAL SYSTEMS TRAINING ACADEMY, MINISTRY OF STATISTICS & P.I., GREAT\n"
+    },
+    {
+      "page_number": 8,
+      "character_count": 256,
+      "word_count": 30,
+      "image_count": 2,
+      "needs_ocr_review": true,
+      "flags": [
+        "EOFFICE_WATERMARK_SCAN",
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": "Extracted text (256 chars) matches eOffice metadata/watermark header, while the body contains 2 image(s); substantive document content is scanned and requires OCR.",
+      "text": "1200351/2026/O/o NSSTA\n8\nFile No. Y-11011/01/2022-23/NSSTA-Part(i) (Computer No. 80529)\nGenerated from eOffice by Monika Chowdhry, SSO(NSSTA)MC, SENIOR STATISTICAL OFFICER, NATIONAL STATISTICAL SYSTEMS TRAINING ACADEMY, MINISTRY OF STATISTICS & P.I., GREAT\n"
+    },
+    {
+      "page_number": 9,
+      "character_count": 256,
+      "word_count": 30,
+      "image_count": 2,
+      "needs_ocr_review": true,
+      "flags": [
+        "EOFFICE_WATERMARK_SCAN",
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": "Extracted text (256 chars) matches eOffice metadata/watermark header, while the body contains 2 image(s); substantive document content is scanned and requires OCR.",
+      "text": "1200351/2026/O/o NSSTA\n9\nFile No. Y-11011/01/2022-23/NSSTA-Part(i) (Computer No. 80529)\nGenerated from eOffice by Monika Chowdhry, SSO(NSSTA)MC, SENIOR STATISTICAL OFFICER, NATIONAL STATISTICAL SYSTEMS TRAINING ACADEMY, MINISTRY OF STATISTICS & P.I., GREAT\n"
+    },
+    {
+      "page_number": 10,
+      "character_count": 257,
+      "word_count": 30,
+      "image_count": 2,
+      "needs_ocr_review": true,
+      "flags": [
+        "EOFFICE_WATERMARK_SCAN",
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": "Extracted text (257 chars) matches eOffice metadata/watermark header, while the body contains 2 image(s); substantive document content is scanned and requires OCR.",
+      "text": "1200351/2026/O/o NSSTA\n10\nFile No. Y-11011/01/2022-23/NSSTA-Part(i) (Computer No. 80529)\nGenerated from eOffice by Monika Chowdhry, SSO(NSSTA)MC, SENIOR STATISTICAL OFFICER, NATIONAL STATISTICAL SYSTEMS TRAINING ACADEMY, MINISTRY OF STATISTICS & P.I., GREAT\n"
+    },
+    {
+      "page_number": 11,
+      "character_count": 257,
+      "word_count": 30,
+      "image_count": 2,
+      "needs_ocr_review": true,
+      "flags": [
+        "EOFFICE_WATERMARK_SCAN",
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": "Extracted text (257 chars) matches eOffice metadata/watermark header, while the body contains 2 image(s); substantive document content is scanned and requires OCR.",
+      "text": "1200351/2026/O/o NSSTA\n11\nFile No. Y-11011/01/2022-23/NSSTA-Part(i) (Computer No. 80529)\nGenerated from eOffice by Monika Chowdhry, SSO(NSSTA)MC, SENIOR STATISTICAL OFFICER, NATIONAL STATISTICAL SYSTEMS TRAINING ACADEMY, MINISTRY OF STATISTICS & P.I., GREAT\n"
+    },
+    {
+      "page_number": 12,
+      "character_count": 257,
+      "word_count": 30,
+      "image_count": 2,
+      "needs_ocr_review": true,
+      "flags": [
+        "EOFFICE_WATERMARK_SCAN",
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": "Extracted text (257 chars) matches eOffice metadata/watermark header, while the body contains 2 image(s); substantive document content is scanned and requires OCR.",
+      "text": "1200351/2026/O/o NSSTA\n12\nFile No. Y-11011/01/2022-23/NSSTA-Part(i) (Computer No. 80529)\nGenerated from eOffice by Monika Chowdhry, SSO(NSSTA)MC, SENIOR STATISTICAL OFFICER, NATIONAL STATISTICAL SYSTEMS TRAINING ACADEMY, MINISTRY OF STATISTICS & P.I., GREAT\n"
+    },
+    {
+      "page_number": 13,
+      "character_count": 257,
+      "word_count": 30,
+      "image_count": 2,
+      "needs_ocr_review": true,
+      "flags": [
+        "EOFFICE_WATERMARK_SCAN",
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": "Extracted text (257 chars) matches eOffice metadata/watermark header, while the body contains 2 image(s); substantive document content is scanned and requires OCR.",
+      "text": "1200351/2026/O/o NSSTA\n13\nFile No. Y-11011/01/2022-23/NSSTA-Part(i) (Computer No. 80529)\nGenerated from eOffice by Monika Chowdhry, SSO(NSSTA)MC, SENIOR STATISTICAL OFFICER, NATIONAL STATISTICAL SYSTEMS TRAINING ACADEMY, MINISTRY OF STATISTICS & P.I., GREAT\n"
+    }
+  ]
+}

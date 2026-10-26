@@ -1,0 +1,373 @@
+================================================================================
+           StatSkill AI — Project Workflow Document
+           MoSPI / Smart India Hackathon (SIH) 2026
+================================================================================
+
+1. PROJECT OVERVIEW
+================================================================================
+
+StatSkill AI is an AI-powered competency management, skill gap assessment, and
+personalized learning development platform designed for the Ministry of
+Statistics and Programme Implementation (MoSPI), Government of India.
+
+It addresses continuous professional upskilling and competency governance across
+India's National Statistical System (NSSO, National Accounts Division, Price
+Statistics Division, Field Operations Division).
+
+Core Capabilities:
+  • Cadre Competency Diagnostics across 4 official domains
+  • AI-Driven Skill Gap Analysis with Radar Chart visualization
+  • Personalized Learning Roadmaps with national platform integration
+  • Continuous Learning Audit with daily/weekly tracking
+  • Cadre Administration & Oversight for leadership
+
+================================================================================
+
+2. TECH STACK
+================================================================================
+
+  Framework        :  React 18 with TypeScript 5.7
+  Build Tool       :  Vite 6.0
+  Styling          :  Tailwind CSS v4
+  Icons            :  Lucide React
+  Charts           :  Recharts v2.15 (Bar, Radar, Line, Pie)
+  Animations       :  canvas-confetti (celebratory quiz feedback)
+  State Management :  React Context API (AppContext)
+  Utilities        :  clsx, tailwind-merge
+
+================================================================================
+
+3. PROJECT STRUCTURE
+================================================================================
+
+  HS202_SIH/
+  ├── src/
+  │   ├── main.tsx                        -- App entrypoint, wraps in AppProvider
+  │   ├── App.tsx                         -- Root shell & client-side router
+  │   ├── index.css                       -- Tailwind imports & global styles
+  │   │
+  │   ├── types/
+  │   │   └── index.ts                    -- All TypeScript interfaces & types
+  │   │
+  │   ├── context/
+  │   │   └── AppContext.tsx              -- Centralized global state & actions
+  │   │
+  │   ├── data/
+  │   │   └── mockData.ts                -- Realistic MoSPI mock data
+  │   │
+  │   ├── pages/
+  │   │   ├── LoginPage.tsx              -- Authentication portal
+  │   │   ├── DashboardPage.tsx          -- Officer landing hub
+  │   │   ├── WeeklyProgressPage.tsx     -- Daily/weekly learning audit
+  │   │   ├── CompetencyAssessmentPage.tsx -- Full competency directory
+  │   │   ├── SkillGapAnalysisPage.tsx   -- AI gap diagnostics
+  │   │   ├── RecommendationsPage.tsx    -- AI learning path engine
+  │   │   ├── CourseDetailPage.tsx       -- Syllabus & module viewer
+  │   │   ├── QuizPage.tsx              -- Interactive MCQ assessment
+  │   │   ├── LearningHistoryPage.tsx   -- Audit log / transcript
+  │   │   ├── ProfilePage.tsx           -- Officer profile management
+  │   │   └── AdminDashboardPage.tsx    -- Cadre administration portal
+  │   │
+  │   └── components/
+  │       ├── common/
+  │       │   ├── Header.tsx             -- Top bar, notifications, role switch
+  │       │   ├── Sidebar.tsx            -- Navigation drawer, progress widget
+  │       │   ├── DemoFlowBanner.tsx     -- Guided demo walkthrough stepper
+  │       │   ├── StatCard.tsx           -- Reusable KPI metric card
+  │       │   └── ProgressBar.tsx        -- Reusable progress meter
+  │       │
+  │       ├── dashboard/
+  │       │   ├── WeeklyChart.tsx         -- 7-day bar chart vs target
+  │       │   ├── SkillProgressList.tsx   -- Core skills progress bars
+  │       │   ├── WeeklyAchievements.tsx  -- Weekly milestone highlights
+  │       │   └── RecommendationPreview.tsx -- Top 3 AI course previews
+  │       │
+  │       ├── weekly/
+  │       │   ├── WeekSelector.tsx        -- Week date pagination
+  │       │   ├── DailyProgressChart.tsx  -- Interactive daily hours chart
+  │       │   ├── LearningBreakdownTable.tsx -- Course-wise time table
+  │       │   ├── ActivityTimeline.tsx    -- Chronological activity feed
+  │       │   └── AIInsightCard.tsx       -- AI feedback card
+  │       │
+  │       ├── competency/
+  │       │   └── CompetencyCategories.tsx -- Categorized competency directory
+  │       │
+  │       ├── skillgap/
+  │       │   ├── RadarGapChart.tsx       -- Current vs required radar chart
+  │       │   └── PriorityGaps.tsx        -- Urgency-ranked gap cards
+  │       │
+  │       ├── recommendations/
+  │       │   ├── LearningPathRoadmap.tsx -- Step-by-step curriculum roadmap
+  │       │   ├── CourseCard.tsx          -- Course preview card
+  │       │   └── ExternalIntegrations.tsx -- iGOT, NSSTA, NDAP links
+  │       │
+  │       ├── course/
+  │       │   └── CourseDetailView.tsx    -- Full syllabus with module toggles
+  │       │
+  │       ├── quiz/
+  │       │   └── InteractiveQuiz.tsx     -- MCQ test & result review
+  │       │
+  │       ├── history/
+  │       │   └── LearningHistoryTable.tsx -- Searchable audit log table
+  │       │
+  │       ├── profile/
+  │       │   └── EmployeeProfileView.tsx -- Profile editor
+  │       │
+  │       └── admin/
+  │           ├── AdminOverview.tsx       -- Macro KPIs & 4 analytics charts
+  │           └── AdminEmployeeTable.tsx  -- Filterable cadre roster
+
+================================================================================
+
+4. DATA FLOW ARCHITECTURE
+================================================================================
+
+  +-------------------------------------------+
+  |      mockData.ts (Initial Baseline)       |
+  +-------------------------------------------+
+                       |
+                       v
+          +----------------------------+
+          |       AppContext.tsx        |
+          |  (Centralized Global State)|
+          +----------------------------+
+             /         |          \
+            v          v           v
+       User State  Skills State  Course/Quiz State
+       (Profile)   (Gaps/Radar)  (Progress/History)
+            \          |          /
+             v         v         v
+  +-------------------------------------------+
+  |        Pages & Components (Views)         |
+  +-------------------------------------------+
+                       |
+            User Interaction Events
+   (submitQuizAnswers, toggleModuleCompletion,
+          loginAs, updateUserProfile)
+                       |
+                       v
+  +-------------------------------------------+
+  |        AppContext Dispatchers              |
+  +-------------------------------------------+
+                       |
+        Cascading Live State Updates:
+        - Skill scores recalculated
+        - Gap percentages updated
+        - Overall competency adjusted
+        - Weekly hours incremented
+        - History & timeline prepended
+        - Confetti animation triggered!
+                       |
+                       v
+  +-------------------------------------------+
+  |   All Views Re-render with Updated State  |
+  +-------------------------------------------+
+
+================================================================================
+
+5. COMPLETE OFFICER (EMPLOYEE) WORKFLOW — Step by Step
+================================================================================
+
+STEP 1: AUTHENTICATION (LoginPage)
+------------------------------------------------------------------------
+  • User opens the portal and sees MoSPI / Government of India branding.
+  • Enters credentials OR clicks the quick-demo button "Rahul (Officer)".
+  • loginAs('employee') sets isLoggedIn = true and navigates to Dashboard.
+
+STEP 2: DASHBOARD OVERVIEW (DashboardPage)
+------------------------------------------------------------------------
+  • Greeted with a personalized banner ("Good morning, Rahul").
+  • Reviews 4 key KPI cards:
+      - Overall Competency: 72%
+      - Weekly Learning: 6.5 / 8.0 hrs
+      - Courses Completed: 8 / 12
+      - Current Skill Gaps: 4
+  • Sees a 7-day weekly bar chart of daily study hours.
+  • Views skill progress bars with trend indicators (e.g., Python +7%).
+  • Previews top 3 AI-recommended courses.
+  • Clicks "Weekly Progress Hub" or uses the DemoFlowBanner stepper.
+
+STEP 3: WEEKLY PROGRESS AUDIT (WeeklyProgressPage)
+------------------------------------------------------------------------
+  • Reviews 7-day learning distribution:
+      Mon: 0.8h | Tue: 1.2h | Wed: 0.6h | Thu: 1.5h
+      Fri: 1.0h | Sat: 0.9h | Sun: 0.5h = 6.5 hrs total
+  • Reads the AI Learning Insight card:
+      - Praises statistical progress, notes Python +7%
+      - Warns that SQL has a 19% gap needing attention
+  • Clicks individual day bars to view specific activities completed.
+  • Views course-wise time breakdown table and activity timeline.
+  • Proceeds to Skill Gap Analysis via "Next Demo" button.
+
+STEP 4: SKILL GAP DIAGNOSTICS (SkillGapAnalysisPage)
+------------------------------------------------------------------------
+  • Analyzes multi-axis Radar Chart showing Current Competency (blue)
+    vs Required Benchmark (amber).
+  • Reviews Priority Skill Gaps:
+      HIGH PRIORITY:
+        - SQL: 19% gap (Current 61% vs Required 80%)
+        - AI/ML: 27% gap (Current 48% vs Required 75%)
+      MEDIUM PRIORITY:
+        - GIS: 15% gap (Current 55% vs Required 70%)
+  • Clicks "Generate Learning Path" to get AI remediation steps.
+
+STEP 5: PERSONALIZED LEARNING PATH (RecommendationsPage)
+------------------------------------------------------------------------
+  • Views a sequential AI-generated roadmap:
+      Step 1: SQL Fundamentals (Immediate Priority)
+      Step 2: SQL for Statistical Data
+      Step 3: Data Analytics with Python (Currently Active)
+      Step 4: Introduction to Machine Learning
+  • Browses curated course cards with instructor details and ratings.
+  • Explores external national training programs:
+      - iGOT Karmayogi Bharat
+      - NSSTA Greater Noida Academy
+      - NDAP (NITI Aayog)
+  • Clicks on a course card (e.g., Python) to view its syllabus.
+
+STEP 6: COURSE SYLLABUS & LEARNING (CourseDetailPage)
+------------------------------------------------------------------------
+  • Views full course metadata:
+      - Instructor, duration, difficulty, learning objectives.
+  • Interacts with module curriculum:
+      - Clicks module checkboxes to toggle completion.
+      - Course progress bar dynamically recalculates.
+  • Clicks the "Complete Quiz" call-to-action button.
+
+STEP 7: INTERACTIVE ASSESSMENT (QuizPage)
+------------------------------------------------------------------------
+  • Takes a 10-question MCQ assessment on Official Statistics & Python.
+  • Navigates between questions using Previous/Next buttons.
+  • Question indicator pills show answered/unanswered status.
+  • Clicks "Submit Assessment".
+  • LIVE CASCADING TRANSFORMATION occurs:
+      - Confetti explodes on screen!
+      - Score banner: Python 68% → 72% (+4% increase)
+      - Full question-by-question review with explanations displayed.
+      - Behind the scenes, AppContext updates:
+          * skills['Python'].current: 68% → 72%
+          * skills['Python'].gap: 12% → 8%
+          * overallCompetency: 72% → 74%
+          * weeklyHours: 6.5h → 7.0h
+          * Sunday hours: 0.5h → 1.0h
+          * New quiz record prepended to history
+          * New item prepended to activity timeline
+
+STEP 8: VERIFICATION (Dashboard & WeeklyProgress — Revisit)
+------------------------------------------------------------------------
+  • Returns to Dashboard or Weekly Progress page.
+  • Observes all metrics have been LIVE UPDATED:
+      - Overall Competency: 72% → 74%
+      - Weekly Learning: 6.5h → 7.0h
+      - Python skill bar reflects 72% (was 68%)
+      - Sunday hours updated to 1.0h (was 0.5h)
+      - History table shows newly completed assessment
+  • Confirms the closed-loop learning cycle is complete.
+
+================================================================================
+
+6. COMPLETE ADMIN WORKFLOW — Step by Step
+================================================================================
+
+STEP 1: ADMIN ACCESS
+------------------------------------------------------------------------
+  • From Login page: Click "Cadre Director (Admin)" quick-demo button.
+  • From Officer view: Click "Admin View" toggle in the Header bar.
+  • Routes to AdminDashboardPage.
+
+STEP 2: MACRO ORGANIZATIONAL INTELLIGENCE (AdminOverview)
+------------------------------------------------------------------------
+  • Reviews high-level cadre KPIs across 1,248 officers:
+      - Active Learners: 934 (74.8%)
+      - Average Competency: 68%
+      - Training Completion: 74%
+  • Reads AI Executive Advisory:
+      "Bulk nominations for NSSTA Bootcamps can shrink cadre
+       deficits by 32% in 60 days."
+  • Evaluates 4 Macro Analytics Charts:
+      1. Competency Distribution (Officer tiers):
+         Strong: 342 | Developing: 588 | Needs Imp: 218 | Critical: 100
+      2. Skill Gap Distribution (Cadre deficits):
+         AI/ML: 27% | SQL: 19% | GIS: 15% | Python: 12%
+      3. Weekly Learning Hours by Division:
+         Data Analytics: 7.2h | NSSO: 6.8h | National Accounts: 7.6h
+         Price Statistics: 5.9h | FOD: 4.8h | Computer Centre: 7.9h
+      4. Course Completion Rates:
+         Curriculum graduation metrics by subject area.
+
+STEP 3: EMPLOYEE FILTERING & AUDIT (AdminEmployeeTable)
+------------------------------------------------------------------------
+  • Searches for officers by name or Employee ID.
+  • Applies simultaneous filters:
+      - Department (NSSO, National Accounts, etc.)
+      - Designation / Role
+      - Competency Tier (High / Medium / Low)
+      - Training Compliance Status
+  • Identifies officers marked "Needs Attention" for targeted training.
+  • Switches back to Officer view via "Switch Back to Officer View".
+
+================================================================================
+
+7. KEY FEATURES & PROTOTYPE HIGHLIGHTS
+================================================================================
+
+  1. STATEFUL REACTIVE LOOP
+     Taking a quiz or toggling lessons instantly mutates global state,
+     recalculating competencies, hours, timelines, and course progress
+     across ALL screens in real-time.
+
+  2. MoSPI / GOVERNMENT CADRE CONTEXTUALIZATION
+     Authentic government terminology and structure: National Accounts
+     Division, NSSO, NSSTA Academy, iGOT Karmayogi, NDAP, ISS cadres.
+
+  3. MULTI-DIMENSIONAL VISUAL ANALYTICS
+     Rich Recharts integrations: 7-day daily bar charts with target
+     reference lines, radar charts for current vs required benchmarks,
+     and multi-chart organizational dashboards.
+
+  4. INTERACTIVE DEMO WALKTHROUGH (DemoFlowBanner)
+     Built-in stepper guide allowing evaluators to step through the
+     entire 6-stage demo story without getting lost:
+       Dashboard → Weekly Progress → Competency Gap →
+       AI Recommendations → Course Details → Assessment Quiz
+
+  5. FAIL-SAFE PROTOTYPE RESET
+     Sidebar "Reset Prototype State" button restores all metrics to
+     baseline for repeated demonstrations.
+
+  6. ACCESSIBLE & RESPONSIVE DESIGN
+     Works seamlessly across mobile drawers, desktop viewports, with
+     clean government-standard high-contrast color palettes.
+
+  7. NATIONAL PLATFORM INTEGRATION
+     Interoperability with Mission Karmayogi (iGOT), NSSTA, and
+     NITI Aayog NDAP for comprehensive upskilling ecosystem.
+
+================================================================================
+
+8. HOW TO RUN THE PROJECT
+================================================================================
+
+  Prerequisites:
+    • Node.js (v18 or later)
+    • npm
+
+  Steps:
+    1. Install dependencies:
+         npm install
+
+    2. Start development server:
+         npm run dev
+
+    3. Open in browser:
+         http://localhost:5173
+
+    4. Build for production:
+         npm run build
+
+    5. Preview production build:
+         npm run preview
+
+================================================================================
+                    End of Workflow Document
+================================================================================

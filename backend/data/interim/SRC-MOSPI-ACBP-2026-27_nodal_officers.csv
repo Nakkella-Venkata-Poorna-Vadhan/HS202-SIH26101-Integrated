@@ -1,0 +1,31 @@
+record_id,source_page,sr_no,division,officer_name,designation,email,avg_confidence,is_uncertain,uncertainty_flags,provenance,validation_status
+ACBP-NODAL-001,13,1,Household Survey Division; Kolkata,Ms. Sutapa Ghosh,[Deputy Director,Isutapa ghosh28@mospigovin,0.8798,True,email_ocr_noise: 'Isutapa ghosh28@mospigovin',official_public,pending_review
+ACBP-NODAL-002,13,2,EEnterprise Survey Division _,Shri_Sujit Mallick,Assistant Director,Isujit mallick@gov W,0.7675,True,email_ocr_noise: 'Isujit mallick@gov W',official_public,pending_review
+ACBP-NODAL-003,13,3,Field Operations Division,Shri Ajay Kumar,Assitant Director,pajay kumarl975@gov.in,0.7783,True,email_ocr_noise: 'pajay kumarl975@gov.in',official_public,pending_review
+ACBP-NODAL-004,13,4,ICoordination and Quality Control Division,Niret K Kurian,JJoint Director,piretkurian@govin,0.7905,False,,official_public,pending_review
+ACBP-NODAL-005,13,5,Economic Statistics Division,Smt_Pankhudi Pandey_,Joint Director,pankhudi shukla@gov i,0.6938,True,email_ocr_noise: 'pankhudi shukla@gov i',official_public,pending_review
+ACBP-NODAL-006,13,6,National Accounts Division,ShDipankar Mitra,Deputy Director,Jdipankar mitra22@gov in,0.8858,True,email_ocr_noise: 'Jdipankar mitra22@gov in',official_public,pending_review
+ACBP-NODAL-007,13,7,ISocial Statistics Division,JMs_Saumya Sakshi,Joint Director,Jdir3 ssdiv@mospi gov i,0.6515,True,email_ocr_noise: 'Jdir3 ssdiv@mospi gov i',official_public,pending_review
+ACBP-NODAL-008,13,8,[Price Statistics Division,Shri Sanjeev Kumar,Deputy Secretary,kkumar sanjeev89@nicin,0.8527,True,email_ocr_noise: 'kkumar sanjeev89@nicin',official_public,pending_review
+ACBP-NODAL-009,13,9,Capacity Development [Division_,Shri Santosh Kumar Gupta,Director,Isantoshkr gupta@nic i,0.8815,True,email_ocr_noise: 'Isantoshkr gupta@nic i',official_public,pending_review
+ACBP-NODAL-010,13,10,ICoordination & International Cooperation Unit,Sh. Shantanu Dixit,Deputy Director,Jdixit shantanu@govin,0.8352,True,email_ocr_noise: 'Jdixit shantanu@govin',official_public,pending_review
+ACBP-NODAL-011,13,11,Administrative Statistics and Policy_Division,Ms. Pooja Verma,JJoint Director,Ipooja.verma89@gov.in,0.7792,False,,official_public,pending_review
+ACBP-NODAL-012,13,12,DData Informatics and [Innovation Division,Sh. Anil Chopra,JJoint Director,Ichopra anil@nici,0.8361,True,email_ocr_noise: 'Ichopra anil@nici',official_public,pending_review
+ACBP-NODAL-013,13,13,Members of Parliament Locall Area Development Scheme,Shri Yashwant Kumar,DeputyDirector,lyash kumar@mospigovi,0.878,True,email_ocr_noise: 'lyash kumar@mospigovi',official_public,pending_review
+ACBP-NODAL-014,13,[4,Budget & Finance Division,Shri Kushal Singh Meena,Section Officer,kkushhal sm@mospi gOvin,0.8815,True,email_ocr_noise: 'kkushhal sm@mospi gOvin',official_public,pending_review
+ACBP-NODAL-015,13,15,Administration Division,Shri Dharam Veer,Under Secretary_,dharamveer@prasarbharatigov_in,0.8544,False,,official_public,pending_review
+ACBP-NODAL-016,13,16,{Infrastructure and Project Monitoring Division,Ms. Neelima Elizabeth Beck,Under Secretary,pebeck@prasarbharati govin,0.8518,True,email_ocr_noise: 'pebeck@prasarbharati govin',official_public,pending_review
+ACBP-NODAL-017,13,17,NSC Secretariat,MsNeha Singh,Deputy Director,Isingh neha09@gov in,0.8095,True,email_ocr_noise: 'Isingh neha09@gov in',official_public,pending_review
+ACBP-NODAL-018,13,18,State Unit,Shri Harshit Agrawal,Deputy Director,hharshit agrawal@nic_i,0.8474,True,email_ocr_noise: 'hharshit agrawal@nic_i',official_public,pending_review
+ACBP-NODAL-019,13,19,HISI Unit,Shri Rang_Lal Meena_,Under Secretary,panglal_meena62@nic in,0.7574,True,email_ocr_noise: 'panglal_meena62@nic in',official_public,pending_review
+ACBP-NODAL-020,13,20,"Household Survey Division, Nagpur",Shri A S NM Rao,[Director,lasnm rao76@gov.in,0.805,True,email_ocr_noise: 'lasnm rao76@gov.in',official_public,pending_review
+ACBP-NODAL-021,13,2,HHousehold Survey Division; Bengaluru,Smt R Vijaya Nirmala |Deputy Director,,lvijaya nirmalar69@gov.in,0.8138,True,email_ocr_noise: 'lvijaya nirmalar69@gov.in'; missing_or_blank_designation,official_public,pending_review
+ACBP-NODAL-022,13,22,"EnSU, Delhi",Shri Gangadhar [Sharma,Assistant Director,lgangadhar sharmaZW@nic_in,0.7009,True,email_ocr_noise: 'lgangadhar sharmaZW@nic_in',official_public,pending_review
+ACBP-NODAL-023,13,p23,EnSU Ahmedabad,Shri Sujeet Bapurao Pujari,Joint Director,sujeet pujari88@gov in,0.7466,True,email_ocr_noise: 'sujeet pujari88@gov in',official_public,pending_review
+ACBP-NODAL-024,13,24,"EnSU, Giridih",Shri. Manish Anand,Director,pmanand@dgms gov_in,0.7768,True,email_ocr_noise: 'pmanand@dgms gov_in',official_public,pending_review
+ACBP-NODAL-025,13,ps,"Izonal office, WZ, Nagpur",Shri LM Jadeja,[Director; CQCD,Ilm jadeja@gov in,0.706,True,email_ocr_noise: 'Ilm jadeja@gov in',official_public,pending_review
+ACBP-NODAL-026,13,26,"Zonal office, CZ, Lucknow",Sh. Purushottam Verma,[Director,purushottam verma84@nic_in,0.8492,True,email_ocr_noise: 'purushottam verma84@nic_in',official_public,pending_review
+ACBP-NODAL-027,13,p27,"(zonal Office, South Zone; BBengaiuru",Shri A. Abdul Rahman |Assistant Director,,lrahman.a@gov.in,0.5412,True,missing_or_blank_designation,official_public,pending_review
+ACBP-NODAL-028,13,28,"EZonal Office,NEZ_GuwahatiSmt Pavitra Sewa",,Assistant Director,[pavitra sewa72@gov in,0.7956,True,email_ocr_noise: '[pavitra sewa72@gov in'; missing_or_blank_officer_name,official_public,pending_review
+ACBP-NODAL-029,13,29,Zonal officeNZ__Jaipur_,Shri. Santosh kumar,Assistant Director,Isantosh ku2o66@gov.in,0.7625,True,email_ocr_noise: 'Isantosh ku2o66@gov.in',official_public,pending_review
+ACBP-NODAL-030,13,30,"Zonal office, EZ, Kolkata",Shri. Suman Chandra Rox,Assistant Director,"Isc roy7l @gov in,_zo ezfod@nic in",0.7411,True,"email_ocr_noise: 'Isc roy7l @gov in,_zo ezfod@nic in'",official_public,pending_review

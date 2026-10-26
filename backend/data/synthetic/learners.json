@@ -1,0 +1,206 @@
+{
+  "metadata": {
+    "provenance": "synthetic",
+    "is_synthetic": true,
+    "warning": "PROTOTYPE DEMONSTRATION DATA ONLY. These roles and learner assessments are synthetic fixtures generated for the SIH26101 prototype. They do not represent real civil servants, official personnel records, or authenticated iGOT Karmayogi learner data.",
+    "generated_for": "SIH26101 Stage 4.1 Prototype Slice"
+  },
+  "total_learners": 4,
+  "learners": [
+    {
+      "learner_id": "LEARNER-001",
+      "name": "Arun Kumar",
+      "role_id": "ROLE-SSO-SO",
+      "cadre_role": "Senior Statistical Officers / Section Officer / Senior Administrative Officer / Administrative Officer",
+      "department": "Field Operations Division (FOD), MoSPI",
+      "is_synthetic": true,
+      "provenance": "synthetic",
+      "assessed_competencies": [
+        {
+          "competency_id": "KCM-FUNC-11",
+          "estimated_level": 2,
+          "assessment_status": "assessed",
+          "confidence": 0.85,
+          "evidence_sources": [
+            "synthetic_statistical_coding_quiz_score_68pct",
+            "synthetic_in_service_refresher_2025"
+          ],
+          "last_assessed_date": "2026-08-15T10:00:00Z"
+        },
+        {
+          "competency_id": "KCM-FUNC-21",
+          "estimated_level": 3,
+          "assessment_status": "assessed",
+          "confidence": 0.9,
+          "evidence_sources": [
+            "synthetic_supervisor_annual_evaluation_satisfactory"
+          ],
+          "last_assessed_date": "2026-07-20T14:30:00Z"
+        },
+        {
+          "competency_id": "KCM-BEH-04",
+          "estimated_level": 2,
+          "assessment_status": "assessed",
+          "confidence": 0.7,
+          "evidence_sources": [
+            "synthetic_peer_feedback_survey_communication_q2"
+          ],
+          "last_assessed_date": "2026-06-10T09:15:00Z"
+        },
+        {
+          "competency_id": "KCM-BEH-02",
+          "estimated_level": null,
+          "assessment_status": "unassessed",
+          "confidence": 0.0,
+          "evidence_sources": [],
+          "last_assessed_date": null
+        }
+      ]
+    },
+    {
+      "learner_id": "LEARNER-002",
+      "name": "Dr. Meenakshi Sundaram",
+      "role_id": "ROLE-DIR-JD",
+      "cadre_role": "Director / Joint Director",
+      "department": "National Accounts Division (NAD), MoSPI",
+      "is_synthetic": true,
+      "provenance": "synthetic",
+      "assessed_competencies": [
+        {
+          "competency_id": "KCM-FUNC-05",
+          "estimated_level": 2,
+          "assessment_status": "assessed",
+          "confidence": 0.8,
+          "evidence_sources": [
+            "synthetic_management_assessment_simulation_mid_score"
+          ],
+          "last_assessed_date": "2026-09-01T11:00:00Z"
+        },
+        {
+          "competency_id": "KCM-BEH-10",
+          "estimated_level": 3,
+          "assessment_status": "assessed",
+          "confidence": 0.85,
+          "evidence_sources": [
+            "synthetic_executive_leadership_360_feedback"
+          ],
+          "last_assessed_date": "2026-08-25T16:00:00Z"
+        },
+        {
+          "competency_id": "KCM-BEH-06",
+          "estimated_level": 3,
+          "assessment_status": "assessed",
+          "confidence": 0.9,
+          "evidence_sources": [
+            "synthetic_inter_ministerial_working_group_chair_appraisal"
+          ],
+          "last_assessed_date": "2026-07-30T10:00:00Z"
+        },
+        {
+          "competency_id": "KCM-FUNC-01",
+          "estimated_level": 3,
+          "assessment_status": "assessed",
+          "confidence": 0.85,
+          "evidence_sources": [
+            "synthetic_public_data_portal_user_satisfaction_audit"
+          ],
+          "last_assessed_date": "2026-07-15T15:00:00Z"
+        }
+      ]
+    },
+    {
+      "learner_id": "LEARNER-003",
+      "name": "Pooja Verma",
+      "role_id": "ROLE-JSO-ASO",
+      "cadre_role": "Junior Statistical Officers / Assistant Section Officers / Data Processing Assistant (All Grades)",
+      "department": "Survey Design & Research Division (SDRD), MoSPI",
+      "is_synthetic": true,
+      "provenance": "synthetic",
+      "assessed_competencies": [
+        {
+          "competency_id": "KCM-FUNC-11",
+          "estimated_level": null,
+          "assessment_status": "unassessed",
+          "confidence": 0.0,
+          "evidence_sources": [],
+          "last_assessed_date": null
+        },
+        {
+          "competency_id": "KCM-BEH-01",
+          "estimated_level": null,
+          "assessment_status": "unassessed",
+          "confidence": 0.0,
+          "evidence_sources": [],
+          "last_assessed_date": null
+        },
+        {
+          "competency_id": "KCM-BEH-04",
+          "estimated_level": null,
+          "assessment_status": "unassessed",
+          "confidence": 0.0,
+          "evidence_sources": [],
+          "last_assessed_date": null
+        },
+        {
+          "competency_id": "KCM-FUNC-21",
+          "estimated_level": null,
+          "assessment_status": "unassessed",
+          "confidence": 0.0,
+          "evidence_sources": [],
+          "last_assessed_date": null
+        }
+      ]
+    },
+    {
+      "learner_id": "LEARNER-004",
+      "name": "Rajesh Sharma",
+      "role_id": "ROLE-DDG-JS",
+      "cadre_role": "Deputy Director General / Joint Secretary Equivalent and Above",
+      "department": "Economic Statistics Division (ESD), MoSPI",
+      "is_synthetic": true,
+      "provenance": "synthetic",
+      "assessed_competencies": [
+        {
+          "competency_id": "KCM-BEH-10",
+          "estimated_level": 4,
+          "assessment_status": "assessed",
+          "confidence": 0.85,
+          "evidence_sources": [
+            "synthetic_executive_mentorship_panel_review"
+          ],
+          "last_assessed_date": "2026-08-10T12:00:00Z"
+        },
+        {
+          "competency_id": "KCM-BEH-06",
+          "estimated_level": 2,
+          "assessment_status": "assessed",
+          "confidence": 0.75,
+          "evidence_sources": [
+            "synthetic_inter_agency_stakeholder_survey_2026"
+          ],
+          "last_assessed_date": "2026-07-12T14:00:00Z"
+        },
+        {
+          "competency_id": "KCM-FUNC-17",
+          "estimated_level": 4,
+          "assessment_status": "assessed",
+          "confidence": 0.9,
+          "evidence_sources": [
+            "synthetic_inquiry_officer_empanelment_certificate"
+          ],
+          "last_assessed_date": "2026-06-25T11:00:00Z"
+        },
+        {
+          "competency_id": "KCM-FUNC-09",
+          "estimated_level": 3,
+          "assessment_status": "assessed",
+          "confidence": 0.8,
+          "evidence_sources": [
+            "synthetic_budget_standing_committee_appraisal"
+          ],
+          "last_assessed_date": "2026-05-18T16:30:00Z"
+        }
+      ]
+    }
+  ]
+}

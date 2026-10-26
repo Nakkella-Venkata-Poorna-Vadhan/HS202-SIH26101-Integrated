@@ -1,0 +1,758 @@
+{
+  "dataset_name": "MoSPI ACBP FY 2026-27 Division Nodal Officers Directory (Annexure II)",
+  "source_document_id": "SRC-MOSPI-ACBP-2026-27",
+  "source_sha256": "73ee47e6809982b63ffe928e95e86e4084d33865d325876e0cb9ff755a634205",
+  "source_page": 13,
+  "generation_timestamp": "2026-10-18T07:07:20.564620+00:00",
+  "total_records": 30,
+  "data_provenance_classification": "official_public",
+  "validation_status": "pending_review",
+  "records": [
+    {
+      "record_id": "ACBP-NODAL-001",
+      "source_id": "SRC-MOSPI-ACBP-2026-27",
+      "source_page": 13,
+      "sr_no": "1",
+      "division": "Household Survey Division; Kolkata",
+      "officer_name": "Ms. Sutapa Ghosh",
+      "designation": "[Deputy Director",
+      "email": "Isutapa ghosh28@mospigovin",
+      "provenance": "official_public",
+      "validation_status": "pending_review",
+      "raw_ocr_values": {
+        "sr_no": "1",
+        "division": "Household Survey Division; Kolkata",
+        "officer_name": "Ms. Sutapa Ghosh",
+        "designation": "[Deputy Director",
+        "email": "Isutapa ghosh28@mospigovin",
+        "avg_confidence": 0.8798
+      },
+      "is_uncertain": true,
+      "uncertainty_flags": [
+        "email_ocr_noise: 'Isutapa ghosh28@mospigovin'"
+      ],
+      "review_notes": "Flagged issues: email_ocr_noise: 'Isutapa ghosh28@mospigovin'"
+    },
+    {
+      "record_id": "ACBP-NODAL-002",
+      "source_id": "SRC-MOSPI-ACBP-2026-27",
+      "source_page": 13,
+      "sr_no": "2",
+      "division": "EEnterprise Survey Division _",
+      "officer_name": "Shri_Sujit Mallick",
+      "designation": "Assistant Director",
+      "email": "Isujit mallick@gov W",
+      "provenance": "official_public",
+      "validation_status": "pending_review",
+      "raw_ocr_values": {
+        "sr_no": "2",
+        "division": "EEnterprise Survey Division _",
+        "officer_name": "Shri_Sujit Mallick",
+        "designation": "Assistant Director",
+        "email": "Isujit mallick@gov W",
+        "avg_confidence": 0.7675
+      },
+      "is_uncertain": true,
+      "uncertainty_flags": [
+        "email_ocr_noise: 'Isujit mallick@gov W'"
+      ],
+      "review_notes": "Flagged issues: email_ocr_noise: 'Isujit mallick@gov W'"
+    },
+    {
+      "record_id": "ACBP-NODAL-003",
+      "source_id": "SRC-MOSPI-ACBP-2026-27",
+      "source_page": 13,
+      "sr_no": "3",
+      "division": "Field Operations Division",
+      "officer_name": "Shri Ajay Kumar",
+      "designation": "Assitant Director",
+      "email": "pajay kumarl975@gov.in",
+      "provenance": "official_public",
+      "validation_status": "pending_review",
+      "raw_ocr_values": {
+        "sr_no": "3",
+        "division": "Field Operations Division",
+        "officer_name": "Shri Ajay Kumar",
+        "designation": "Assitant Director",
+        "email": "pajay kumarl975@gov.in",
+        "avg_confidence": 0.7783
+      },
+      "is_uncertain": true,
+      "uncertainty_flags": [
+        "email_ocr_noise: 'pajay kumarl975@gov.in'"
+      ],
+      "review_notes": "Flagged issues: email_ocr_noise: 'pajay kumarl975@gov.in'"
+    },
+    {
+      "record_id": "ACBP-NODAL-004",
+      "source_id": "SRC-MOSPI-ACBP-2026-27",
+      "source_page": 13,
+      "sr_no": "4",
+      "division": "ICoordination and Quality Control Division",
+      "officer_name": "Niret K Kurian",
+      "designation": "JJoint Director",
+      "email": "piretkurian@govin",
+      "provenance": "official_public",
+      "validation_status": "pending_review",
+      "raw_ocr_values": {
+        "sr_no": "4",
+        "division": "ICoordination and Quality Control Division",
+        "officer_name": "Niret K Kurian",
+        "designation": "JJoint Director",
+        "email": "piretkurian@govin",
+        "avg_confidence": 0.7905
+      },
+      "is_uncertain": false,
+      "uncertainty_flags": [],
+      "review_notes": "Verified consistent with official scanned notice."
+    },
+    {
+      "record_id": "ACBP-NODAL-005",
+      "source_id": "SRC-MOSPI-ACBP-2026-27",
+      "source_page": 13,
+      "sr_no": "5",
+      "division": "Economic Statistics Division",
+      "officer_name": "Smt_Pankhudi Pandey_",
+      "designation": "Joint Director",
+      "email": "pankhudi shukla@gov i",
+      "provenance": "official_public",
+      "validation_status": "pending_review",
+      "raw_ocr_values": {
+        "sr_no": "5",
+        "division": "Economic Statistics Division",
+        "officer_name": "Smt_Pankhudi Pandey_",
+        "designation": "Joint Director",
+        "email": "pankhudi shukla@gov i",
+        "avg_confidence": 0.6938
+      },
+      "is_uncertain": true,
+      "uncertainty_flags": [
+        "email_ocr_noise: 'pankhudi shukla@gov i'"
+      ],
+      "review_notes": "Flagged issues: email_ocr_noise: 'pankhudi shukla@gov i'"
+    },
+    {
+      "record_id": "ACBP-NODAL-006",
+      "source_id": "SRC-MOSPI-ACBP-2026-27",
+      "source_page": 13,
+      "sr_no": "6",
+      "division": "National Accounts Division",
+      "officer_name": "ShDipankar Mitra",
+      "designation": "Deputy Director",
+      "email": "Jdipankar mitra22@gov in",
+      "provenance": "official_public",
+      "validation_status": "pending_review",
+      "raw_ocr_values": {
+        "sr_no": "6",
+        "division": "National Accounts Division",
+        "officer_name": "ShDipankar Mitra",
+        "designation": "Deputy Director",
+        "email": "Jdipankar mitra22@gov in",
+        "avg_confidence": 0.8858
+      },
+      "is_uncertain": true,
+      "uncertainty_flags": [
+        "email_ocr_noise: 'Jdipankar mitra22@gov in'"
+      ],
+      "review_notes": "Flagged issues: email_ocr_noise: 'Jdipankar mitra22@gov in'"
+    },
+    {
+      "record_id": "ACBP-NODAL-007",
+      "source_id": "SRC-MOSPI-ACBP-2026-27",
+      "source_page": 13,
+      "sr_no": "7",
+      "division": "ISocial Statistics Division",
+      "officer_name": "JMs_Saumya Sakshi",
+      "designation": "Joint Director",
+      "email": "Jdir3 ssdiv@mospi gov i",
+      "provenance": "official_public",
+      "validation_status": "pending_review",
+      "raw_ocr_values": {
+        "sr_no": "7",
+        "division": "ISocial Statistics Division",
+        "officer_name": "JMs_Saumya Sakshi",
+        "designation": "Joint Director",
+        "email": "Jdir3 ssdiv@mospi gov i",
+        "avg_confidence": 0.6515
+      },
+      "is_uncertain": true,
+      "uncertainty_flags": [
+        "email_ocr_noise: 'Jdir3 ssdiv@mospi gov i'"
+      ],
+      "review_notes": "Flagged issues: email_ocr_noise: 'Jdir3 ssdiv@mospi gov i'"
+    },
+    {
+      "record_id": "ACBP-NODAL-008",
+      "source_id": "SRC-MOSPI-ACBP-2026-27",
+      "source_page": 13,
+      "sr_no": "8",
+      "division": "[Price Statistics Division",
+      "officer_name": "Shri Sanjeev Kumar",
+      "designation": "Deputy Secretary",
+      "email": "kkumar sanjeev89@nicin",
+      "provenance": "official_public",
+      "validation_status": "pending_review",
+      "raw_ocr_values": {
+        "sr_no": "8",
+        "division": "[Price Statistics Division",
+        "officer_name": "Shri Sanjeev Kumar",
+        "designation": "Deputy Secretary",
+        "email": "kkumar sanjeev89@nicin",
+        "avg_confidence": 0.8527
+      },
+      "is_uncertain": true,
+      "uncertainty_flags": [
+        "email_ocr_noise: 'kkumar sanjeev89@nicin'"
+      ],
+      "review_notes": "Flagged issues: email_ocr_noise: 'kkumar sanjeev89@nicin'"
+    },
+    {
+      "record_id": "ACBP-NODAL-009",
+      "source_id": "SRC-MOSPI-ACBP-2026-27",
+      "source_page": 13,
+      "sr_no": "9",
+      "division": "Capacity Development [Division_",
+      "officer_name": "Shri Santosh Kumar Gupta",
+      "designation": "Director",
+      "email": "Isantoshkr gupta@nic i",
+      "provenance": "official_public",
+      "validation_status": "pending_review",
+      "raw_ocr_values": {
+        "sr_no": "9",
+        "division": "Capacity Development [Division_",
+        "officer_name": "Shri Santosh Kumar Gupta",
+        "designation": "Director",
+        "email": "Isantoshkr gupta@nic i",
+        "avg_confidence": 0.8815
+      },
+      "is_uncertain": true,
+      "uncertainty_flags": [
+        "email_ocr_noise: 'Isantoshkr gupta@nic i'"
+      ],
+      "review_notes": "Flagged issues: email_ocr_noise: 'Isantoshkr gupta@nic i'"
+    },
+    {
+      "record_id": "ACBP-NODAL-010",
+      "source_id": "SRC-MOSPI-ACBP-2026-27",
+      "source_page": 13,
+      "sr_no": "10",
+      "division": "ICoordination & International Cooperation Unit",
+      "officer_name": "Sh. Shantanu Dixit",
+      "designation": "Deputy Director",
+      "email": "Jdixit shantanu@govin",
+      "provenance": "official_public",
+      "validation_status": "pending_review",
+      "raw_ocr_values": {
+        "sr_no": "10",
+        "division": "ICoordination & International Cooperation Unit",
+        "officer_name": "Sh. Shantanu Dixit",
+        "designation": "Deputy Director",
+        "email": "Jdixit shantanu@govin",
+        "avg_confidence": 0.8352
+      },
+      "is_uncertain": true,
+      "uncertainty_flags": [
+        "email_ocr_noise: 'Jdixit shantanu@govin'"
+      ],
+      "review_notes": "Flagged issues: email_ocr_noise: 'Jdixit shantanu@govin'"
+    },
+    {
+      "record_id": "ACBP-NODAL-011",
+      "source_id": "SRC-MOSPI-ACBP-2026-27",
+      "source_page": 13,
+      "sr_no": "11",
+      "division": "Administrative Statistics and Policy_Division",
+      "officer_name": "Ms. Pooja Verma",
+      "designation": "JJoint Director",
+      "email": "Ipooja.verma89@gov.in",
+      "provenance": "official_public",
+      "validation_status": "pending_review",
+      "raw_ocr_values": {
+        "sr_no": "11",
+        "division": "Administrative Statistics and Policy_Division",
+        "officer_name": "Ms. Pooja Verma",
+        "designation": "JJoint Director",
+        "email": "Ipooja.verma89@gov.in",
+        "avg_confidence": 0.7792
+      },
+      "is_uncertain": false,
+      "uncertainty_flags": [],
+      "review_notes": "Verified consistent with official scanned notice."
+    },
+    {
+      "record_id": "ACBP-NODAL-012",
+      "source_id": "SRC-MOSPI-ACBP-2026-27",
+      "source_page": 13,
+      "sr_no": "12",
+      "division": "DData Informatics and [Innovation Division",
+      "officer_name": "Sh. Anil Chopra",
+      "designation": "JJoint Director",
+      "email": "Ichopra anil@nici",
+      "provenance": "official_public",
+      "validation_status": "pending_review",
+      "raw_ocr_values": {
+        "sr_no": "12",
+        "division": "DData Informatics and [Innovation Division",
+        "officer_name": "Sh. Anil Chopra",
+        "designation": "JJoint Director",
+        "email": "Ichopra anil@nici",
+        "avg_confidence": 0.8361
+      },
+      "is_uncertain": true,
+      "uncertainty_flags": [
+        "email_ocr_noise: 'Ichopra anil@nici'"
+      ],
+      "review_notes": "Flagged issues: email_ocr_noise: 'Ichopra anil@nici'"
+    },
+    {
+      "record_id": "ACBP-NODAL-013",
+      "source_id": "SRC-MOSPI-ACBP-2026-27",
+      "source_page": 13,
+      "sr_no": "13",
+      "division": "Members of Parliament Locall Area Development Scheme",
+      "officer_name": "Shri Yashwant Kumar",
+      "designation": "DeputyDirector",
+      "email": "lyash kumar@mospigovi",
+      "provenance": "official_public",
+      "validation_status": "pending_review",
+      "raw_ocr_values": {
+        "sr_no": "13",
+        "division": "Members of Parliament Locall Area Development Scheme",
+        "officer_name": "Shri Yashwant Kumar",
+        "designation": "DeputyDirector",
+        "email": "lyash kumar@mospigovi",
+        "avg_confidence": 0.878
+      },
+      "is_uncertain": true,
+      "uncertainty_flags": [
+        "email_ocr_noise: 'lyash kumar@mospigovi'"
+      ],
+      "review_notes": "Flagged issues: email_ocr_noise: 'lyash kumar@mospigovi'"
+    },
+    {
+      "record_id": "ACBP-NODAL-014",
+      "source_id": "SRC-MOSPI-ACBP-2026-27",
+      "source_page": 13,
+      "sr_no": "[4",
+      "division": "Budget & Finance Division",
+      "officer_name": "Shri Kushal Singh Meena",
+      "designation": "Section Officer",
+      "email": "kkushhal sm@mospi gOvin",
+      "provenance": "official_public",
+      "validation_status": "pending_review",
+      "raw_ocr_values": {
+        "sr_no": "[4",
+        "division": "Budget & Finance Division",
+        "officer_name": "Shri Kushal Singh Meena",
+        "designation": "Section Officer",
+        "email": "kkushhal sm@mospi gOvin",
+        "avg_confidence": 0.8815
+      },
+      "is_uncertain": true,
+      "uncertainty_flags": [
+        "email_ocr_noise: 'kkushhal sm@mospi gOvin'"
+      ],
+      "review_notes": "Flagged issues: email_ocr_noise: 'kkushhal sm@mospi gOvin'"
+    },
+    {
+      "record_id": "ACBP-NODAL-015",
+      "source_id": "SRC-MOSPI-ACBP-2026-27",
+      "source_page": 13,
+      "sr_no": "15",
+      "division": "Administration Division",
+      "officer_name": "Shri Dharam Veer",
+      "designation": "Under Secretary_",
+      "email": "dharamveer@prasarbharatigov_in",
+      "provenance": "official_public",
+      "validation_status": "pending_review",
+      "raw_ocr_values": {
+        "sr_no": "15",
+        "division": "Administration Division",
+        "officer_name": "Shri Dharam Veer",
+        "designation": "Under Secretary_",
+        "email": "dharamveer@prasarbharatigov_in",
+        "avg_confidence": 0.8544
+      },
+      "is_uncertain": false,
+      "uncertainty_flags": [],
+      "review_notes": "Verified consistent with official scanned notice."
+    },
+    {
+      "record_id": "ACBP-NODAL-016",
+      "source_id": "SRC-MOSPI-ACBP-2026-27",
+      "source_page": 13,
+      "sr_no": "16",
+      "division": "{Infrastructure and Project Monitoring Division",
+      "officer_name": "Ms. Neelima Elizabeth Beck",
+      "designation": "Under Secretary",
+      "email": "pebeck@prasarbharati govin",
+      "provenance": "official_public",
+      "validation_status": "pending_review",
+      "raw_ocr_values": {
+        "sr_no": "16",
+        "division": "{Infrastructure and Project Monitoring Division",
+        "officer_name": "Ms. Neelima Elizabeth Beck",
+        "designation": "Under Secretary",
+        "email": "pebeck@prasarbharati govin",
+        "avg_confidence": 0.8518
+      },
+      "is_uncertain": true,
+      "uncertainty_flags": [
+        "email_ocr_noise: 'pebeck@prasarbharati govin'"
+      ],
+      "review_notes": "Flagged issues: email_ocr_noise: 'pebeck@prasarbharati govin'"
+    },
+    {
+      "record_id": "ACBP-NODAL-017",
+      "source_id": "SRC-MOSPI-ACBP-2026-27",
+      "source_page": 13,
+      "sr_no": "17",
+      "division": "NSC Secretariat",
+      "officer_name": "MsNeha Singh",
+      "designation": "Deputy Director",
+      "email": "Isingh neha09@gov in",
+      "provenance": "official_public",
+      "validation_status": "pending_review",
+      "raw_ocr_values": {
+        "sr_no": "17",
+        "division": "NSC Secretariat",
+        "officer_name": "MsNeha Singh",
+        "designation": "Deputy Director",
+        "email": "Isingh neha09@gov in",
+        "avg_confidence": 0.8095
+      },
+      "is_uncertain": true,
+      "uncertainty_flags": [
+        "email_ocr_noise: 'Isingh neha09@gov in'"
+      ],
+      "review_notes": "Flagged issues: email_ocr_noise: 'Isingh neha09@gov in'"
+    },
+    {
+      "record_id": "ACBP-NODAL-018",
+      "source_id": "SRC-MOSPI-ACBP-2026-27",
+      "source_page": 13,
+      "sr_no": "18",
+      "division": "State Unit",
+      "officer_name": "Shri Harshit Agrawal",
+      "designation": "Deputy Director",
+      "email": "hharshit agrawal@nic_i",
+      "provenance": "official_public",
+      "validation_status": "pending_review",
+      "raw_ocr_values": {
+        "sr_no": "18",
+        "division": "State Unit",
+        "officer_name": "Shri Harshit Agrawal",
+        "designation": "Deputy Director",
+        "email": "hharshit agrawal@nic_i",
+        "avg_confidence": 0.8474
+      },
+      "is_uncertain": true,
+      "uncertainty_flags": [
+        "email_ocr_noise: 'hharshit agrawal@nic_i'"
+      ],
+      "review_notes": "Flagged issues: email_ocr_noise: 'hharshit agrawal@nic_i'"
+    },
+    {
+      "record_id": "ACBP-NODAL-019",
+      "source_id": "SRC-MOSPI-ACBP-2026-27",
+      "source_page": 13,
+      "sr_no": "19",
+      "division": "HISI Unit",
+      "officer_name": "Shri Rang_Lal Meena_",
+      "designation": "Under Secretary",
+      "email": "panglal_meena62@nic in",
+      "provenance": "official_public",
+      "validation_status": "pending_review",
+      "raw_ocr_values": {
+        "sr_no": "19",
+        "division": "HISI Unit",
+        "officer_name": "Shri Rang_Lal Meena_",
+        "designation": "Under Secretary",
+        "email": "panglal_meena62@nic in",
+        "avg_confidence": 0.7574
+      },
+      "is_uncertain": true,
+      "uncertainty_flags": [
+        "email_ocr_noise: 'panglal_meena62@nic in'"
+      ],
+      "review_notes": "Flagged issues: email_ocr_noise: 'panglal_meena62@nic in'"
+    },
+    {
+      "record_id": "ACBP-NODAL-020",
+      "source_id": "SRC-MOSPI-ACBP-2026-27",
+      "source_page": 13,
+      "sr_no": "20",
+      "division": "Household Survey Division, Nagpur",
+      "officer_name": "Shri A S NM Rao",
+      "designation": "[Director",
+      "email": "lasnm rao76@gov.in",
+      "provenance": "official_public",
+      "validation_status": "pending_review",
+      "raw_ocr_values": {
+        "sr_no": "20",
+        "division": "Household Survey Division, Nagpur",
+        "officer_name": "Shri A S NM Rao",
+        "designation": "[Director",
+        "email": "lasnm rao76@gov.in",
+        "avg_confidence": 0.805
+      },
+      "is_uncertain": true,
+      "uncertainty_flags": [
+        "email_ocr_noise: 'lasnm rao76@gov.in'"
+      ],
+      "review_notes": "Flagged issues: email_ocr_noise: 'lasnm rao76@gov.in'"
+    },
+    {
+      "record_id": "ACBP-NODAL-021",
+      "source_id": "SRC-MOSPI-ACBP-2026-27",
+      "source_page": 13,
+      "sr_no": "2",
+      "division": "HHousehold Survey Division; Bengaluru",
+      "officer_name": "Smt R Vijaya Nirmala |Deputy Director",
+      "designation": "",
+      "email": "lvijaya nirmalar69@gov.in",
+      "provenance": "official_public",
+      "validation_status": "pending_review",
+      "raw_ocr_values": {
+        "sr_no": "2",
+        "division": "HHousehold Survey Division; Bengaluru",
+        "officer_name": "Smt R Vijaya Nirmala |Deputy Director",
+        "designation": "",
+        "email": "lvijaya nirmalar69@gov.in",
+        "avg_confidence": 0.8138
+      },
+      "is_uncertain": true,
+      "uncertainty_flags": [
+        "email_ocr_noise: 'lvijaya nirmalar69@gov.in'",
+        "missing_or_blank_designation"
+      ],
+      "review_notes": "Designation cell is blank in official scanned notice. | Flagged issues: email_ocr_noise: 'lvijaya nirmalar69@gov.in', missing_or_blank_designation"
+    },
+    {
+      "record_id": "ACBP-NODAL-022",
+      "source_id": "SRC-MOSPI-ACBP-2026-27",
+      "source_page": 13,
+      "sr_no": "22",
+      "division": "EnSU, Delhi",
+      "officer_name": "Shri Gangadhar [Sharma",
+      "designation": "Assistant Director",
+      "email": "lgangadhar sharmaZW@nic_in",
+      "provenance": "official_public",
+      "validation_status": "pending_review",
+      "raw_ocr_values": {
+        "sr_no": "22",
+        "division": "EnSU, Delhi",
+        "officer_name": "Shri Gangadhar [Sharma",
+        "designation": "Assistant Director",
+        "email": "lgangadhar sharmaZW@nic_in",
+        "avg_confidence": 0.7009
+      },
+      "is_uncertain": true,
+      "uncertainty_flags": [
+        "email_ocr_noise: 'lgangadhar sharmaZW@nic_in'"
+      ],
+      "review_notes": "Flagged issues: email_ocr_noise: 'lgangadhar sharmaZW@nic_in'"
+    },
+    {
+      "record_id": "ACBP-NODAL-023",
+      "source_id": "SRC-MOSPI-ACBP-2026-27",
+      "source_page": 13,
+      "sr_no": "p23",
+      "division": "EnSU Ahmedabad",
+      "officer_name": "Shri Sujeet Bapurao Pujari",
+      "designation": "Joint Director",
+      "email": "sujeet pujari88@gov in",
+      "provenance": "official_public",
+      "validation_status": "pending_review",
+      "raw_ocr_values": {
+        "sr_no": "p23",
+        "division": "EnSU Ahmedabad",
+        "officer_name": "Shri Sujeet Bapurao Pujari",
+        "designation": "Joint Director",
+        "email": "sujeet pujari88@gov in",
+        "avg_confidence": 0.7466
+      },
+      "is_uncertain": true,
+      "uncertainty_flags": [
+        "email_ocr_noise: 'sujeet pujari88@gov in'"
+      ],
+      "review_notes": "Flagged issues: email_ocr_noise: 'sujeet pujari88@gov in'"
+    },
+    {
+      "record_id": "ACBP-NODAL-024",
+      "source_id": "SRC-MOSPI-ACBP-2026-27",
+      "source_page": 13,
+      "sr_no": "24",
+      "division": "EnSU, Giridih",
+      "officer_name": "Shri. Manish Anand",
+      "designation": "Director",
+      "email": "pmanand@dgms gov_in",
+      "provenance": "official_public",
+      "validation_status": "pending_review",
+      "raw_ocr_values": {
+        "sr_no": "24",
+        "division": "EnSU, Giridih",
+        "officer_name": "Shri. Manish Anand",
+        "designation": "Director",
+        "email": "pmanand@dgms gov_in",
+        "avg_confidence": 0.7768
+      },
+      "is_uncertain": true,
+      "uncertainty_flags": [
+        "email_ocr_noise: 'pmanand@dgms gov_in'"
+      ],
+      "review_notes": "Flagged issues: email_ocr_noise: 'pmanand@dgms gov_in'"
+    },
+    {
+      "record_id": "ACBP-NODAL-025",
+      "source_id": "SRC-MOSPI-ACBP-2026-27",
+      "source_page": 13,
+      "sr_no": "ps",
+      "division": "Izonal office, WZ, Nagpur",
+      "officer_name": "Shri LM Jadeja",
+      "designation": "[Director; CQCD",
+      "email": "Ilm jadeja@gov in",
+      "provenance": "official_public",
+      "validation_status": "pending_review",
+      "raw_ocr_values": {
+        "sr_no": "ps",
+        "division": "Izonal office, WZ, Nagpur",
+        "officer_name": "Shri LM Jadeja",
+        "designation": "[Director; CQCD",
+        "email": "Ilm jadeja@gov in",
+        "avg_confidence": 0.706
+      },
+      "is_uncertain": true,
+      "uncertainty_flags": [
+        "email_ocr_noise: 'Ilm jadeja@gov in'"
+      ],
+      "review_notes": "Flagged issues: email_ocr_noise: 'Ilm jadeja@gov in'"
+    },
+    {
+      "record_id": "ACBP-NODAL-026",
+      "source_id": "SRC-MOSPI-ACBP-2026-27",
+      "source_page": 13,
+      "sr_no": "26",
+      "division": "Zonal office, CZ, Lucknow",
+      "officer_name": "Sh. Purushottam Verma",
+      "designation": "[Director",
+      "email": "purushottam verma84@nic_in",
+      "provenance": "official_public",
+      "validation_status": "pending_review",
+      "raw_ocr_values": {
+        "sr_no": "26",
+        "division": "Zonal office, CZ, Lucknow",
+        "officer_name": "Sh. Purushottam Verma",
+        "designation": "[Director",
+        "email": "purushottam verma84@nic_in",
+        "avg_confidence": 0.8492
+      },
+      "is_uncertain": true,
+      "uncertainty_flags": [
+        "email_ocr_noise: 'purushottam verma84@nic_in'"
+      ],
+      "review_notes": "Flagged issues: email_ocr_noise: 'purushottam verma84@nic_in'"
+    },
+    {
+      "record_id": "ACBP-NODAL-027",
+      "source_id": "SRC-MOSPI-ACBP-2026-27",
+      "source_page": 13,
+      "sr_no": "p27",
+      "division": "(zonal Office, South Zone; BBengaiuru",
+      "officer_name": "Shri A. Abdul Rahman |Assistant Director",
+      "designation": "",
+      "email": "lrahman.a@gov.in",
+      "provenance": "official_public",
+      "validation_status": "pending_review",
+      "raw_ocr_values": {
+        "sr_no": "p27",
+        "division": "(zonal Office, South Zone; BBengaiuru",
+        "officer_name": "Shri A. Abdul Rahman |Assistant Director",
+        "designation": "",
+        "email": "lrahman.a@gov.in",
+        "avg_confidence": 0.5412
+      },
+      "is_uncertain": true,
+      "uncertainty_flags": [
+        "missing_or_blank_designation"
+      ],
+      "review_notes": "Designation cell is blank in official scanned notice. | Flagged issues: missing_or_blank_designation"
+    },
+    {
+      "record_id": "ACBP-NODAL-028",
+      "source_id": "SRC-MOSPI-ACBP-2026-27",
+      "source_page": 13,
+      "sr_no": "28",
+      "division": "EZonal Office,NEZ_GuwahatiSmt Pavitra Sewa",
+      "officer_name": "",
+      "designation": "Assistant Director",
+      "email": "[pavitra sewa72@gov in",
+      "provenance": "official_public",
+      "validation_status": "pending_review",
+      "raw_ocr_values": {
+        "sr_no": "28",
+        "division": "EZonal Office,NEZ_GuwahatiSmt Pavitra Sewa",
+        "officer_name": "",
+        "designation": "Assistant Director",
+        "email": "[pavitra sewa72@gov in",
+        "avg_confidence": 0.7956
+      },
+      "is_uncertain": true,
+      "uncertainty_flags": [
+        "email_ocr_noise: '[pavitra sewa72@gov in'",
+        "missing_or_blank_officer_name"
+      ],
+      "review_notes": "Flagged issues: email_ocr_noise: '[pavitra sewa72@gov in', missing_or_blank_officer_name"
+    },
+    {
+      "record_id": "ACBP-NODAL-029",
+      "source_id": "SRC-MOSPI-ACBP-2026-27",
+      "source_page": 13,
+      "sr_no": "29",
+      "division": "Zonal officeNZ__Jaipur_",
+      "officer_name": "Shri. Santosh kumar",
+      "designation": "Assistant Director",
+      "email": "Isantosh ku2o66@gov.in",
+      "provenance": "official_public",
+      "validation_status": "pending_review",
+      "raw_ocr_values": {
+        "sr_no": "29",
+        "division": "Zonal officeNZ__Jaipur_",
+        "officer_name": "Shri. Santosh kumar",
+        "designation": "Assistant Director",
+        "email": "Isantosh ku2o66@gov.in",
+        "avg_confidence": 0.7625
+      },
+      "is_uncertain": true,
+      "uncertainty_flags": [
+        "email_ocr_noise: 'Isantosh ku2o66@gov.in'"
+      ],
+      "review_notes": "Flagged issues: email_ocr_noise: 'Isantosh ku2o66@gov.in'"
+    },
+    {
+      "record_id": "ACBP-NODAL-030",
+      "source_id": "SRC-MOSPI-ACBP-2026-27",
+      "source_page": 13,
+      "sr_no": "30",
+      "division": "Zonal office, EZ, Kolkata",
+      "officer_name": "Shri. Suman Chandra Rox",
+      "designation": "Assistant Director",
+      "email": "Isc roy7l @gov in,_zo ezfod@nic in",
+      "provenance": "official_public",
+      "validation_status": "pending_review",
+      "raw_ocr_values": {
+        "sr_no": "30",
+        "division": "Zonal office, EZ, Kolkata",
+        "officer_name": "Shri. Suman Chandra Rox",
+        "designation": "Assistant Director",
+        "email": "Isc roy7l @gov in,_zo ezfod@nic in",
+        "avg_confidence": 0.7411
+      },
+      "is_uncertain": true,
+      "uncertainty_flags": [
+        "email_ocr_noise: 'Isc roy7l @gov in,_zo ezfod@nic in'"
+      ],
+      "review_notes": "Flagged issues: email_ocr_noise: 'Isc roy7l @gov in,_zo ezfod@nic in'"
+    }
+  ]
+}

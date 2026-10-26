@@ -1,0 +1,363 @@
+{
+  "benchmark_name": "SIH26101 Recommendation Evaluation Benchmark",
+  "version": "1.1.0",
+  "generation_date": "2026-10-25",
+  "total_scenarios": 10,
+  "grading_scale": {
+    "3": "Highly Relevant (exact competency, exact cadre, validated/curated mapping)",
+    "2": "Moderately Relevant (aligned category/cadre or cross-cadre utility)",
+    "1": "Marginally Relevant (broad category relevance, unverified/general)",
+    "0": "Irrelevant (mismatched cadre, domain, or seniority)"
+  },
+  "disclaimer": "Synthetic evaluation benchmark. Labels constructed from official MoSPI ACBP schedule and CBC competency frameworks for quantitative IR benchmarking.",
+  "scenarios": [
+    {
+      "scenario_id": "REC-SCN-001",
+      "title": "Director (Statistics) - Project Management & Indic Leadership Gaps",
+      "learner_profile": {
+        "learner_id": "LEARNER-002",
+        "name": "Dr. Meenakshi Sundaram",
+        "cadre_role": "Director / Joint Director",
+        "role_id": "ROLE-DIR-JD"
+      },
+      "skill_gaps": [
+        {
+          "competency_id": "KCM-FUNC-05",
+          "competency_name": "Project Management",
+          "competency_type": "Functional",
+          "gap": 2,
+          "priority": "critical"
+        },
+        {
+          "competency_id": "KCM-BEH-10",
+          "competency_name": "Strategic Leadership",
+          "competency_type": "Behavioural",
+          "gap": 1,
+          "priority": "high"
+        }
+      ],
+      "ground_truth_relevance": {
+        "ACBP-CRS-036": 3,
+        "ACBP-CRS-040": 3,
+        "ACBP-CRS-035": 2,
+        "ACBP-CRS-041": 2,
+        "ACBP-CRS-060": 2,
+        "ACBP-CRS-034": 1,
+        "ACBP-CRS-038": 1,
+        "ACBP-CRS-144": 0,
+        "ACBP-CRS-175": 0,
+        "ACBP-CRS-001": 0
+      },
+      "rationale": "Direct competency title and cadre matches for Director in MoSPI ACBP catalogue."
+    },
+    {
+      "scenario_id": "REC-SCN-002",
+      "title": "Deputy Director General - Policy Formulation & Strategic Governance",
+      "learner_profile": {
+        "learner_id": "LEARNER-004",
+        "name": "Rajesh Sharma",
+        "cadre_role": "Deputy Director General / Joint Secretary Equivalent and Above",
+        "role_id": "ROLE-DDG-JS"
+      },
+      "skill_gaps": [
+        {
+          "competency_id": "KCM-BEH-10",
+          "competency_name": "Strategic Leadership",
+          "competency_type": "Behavioural",
+          "gap": 2,
+          "priority": "critical"
+        },
+        {
+          "competency_id": "KCM-FUNC-03",
+          "competency_name": "Public Policy & Governance",
+          "competency_type": "Functional",
+          "gap": 1,
+          "priority": "high"
+        }
+      ],
+      "ground_truth_relevance": {
+        "ACBP-CRS-016": 3,
+        "ACBP-CRS-010": 3,
+        "ACBP-CRS-017": 3,
+        "ACBP-CRS-007": 2,
+        "ACBP-CRS-015": 2,
+        "ACBP-CRS-040": 2,
+        "ACBP-CRS-009": 1,
+        "ACBP-CRS-022": 1,
+        "ACBP-CRS-133": 0,
+        "ACBP-CRS-175": 0
+      },
+      "rationale": "High-level strategic governance and Indic leadership courses aligned with DDG/JS cadre."
+    },
+    {
+      "scenario_id": "REC-SCN-003",
+      "title": "Junior Statistical Officer - Sample Survey Design & Field Data Collection",
+      "learner_profile": {
+        "learner_id": "LEARNER-003",
+        "name": "Pooja Verma",
+        "cadre_role": "Junior Statistical Officers / Assistant Section Officers / Data Processing Assistant (All Grades)",
+        "role_id": "ROLE-JSO-ASO"
+      },
+      "skill_gaps": [
+        {
+          "competency_id": "KCM-DOM-01",
+          "competency_name": "Official Statistics & Survey Methodology",
+          "competency_type": "Domain",
+          "gap": 2,
+          "priority": "critical"
+        },
+        {
+          "competency_id": "KCM-FUNC-01",
+          "competency_name": "Office Procedure and Noting/Drafting",
+          "competency_type": "Functional",
+          "gap": 1,
+          "priority": "medium"
+        }
+      ],
+      "ground_truth_relevance": {
+        "ACBP-CRS-127": 3,
+        "ACBP-CRS-144": 3,
+        "ACBP-CRS-129": 3,
+        "ACBP-CRS-128": 2,
+        "ACBP-CRS-136": 2,
+        "NSSTA-ACBP-CRS-005": 2,
+        "ACBP-CRS-133": 1,
+        "ACBP-CRS-131": 1,
+        "ACBP-CRS-016": 0,
+        "ACBP-CRS-036": 0
+      },
+      "rationale": "Operational statistical survey modules and essential noting/drafting for JSO cadre."
+    },
+    {
+      "scenario_id": "REC-SCN-004",
+      "title": "Senior Statistical Officer - Industrial Statistics & Data Management",
+      "learner_profile": {
+        "learner_id": "LEARNER-001",
+        "name": "Arun Kumar",
+        "cadre_role": "Senior Statistical Officers / Section Officer / Senior Administrative Officer / Administrative Officer",
+        "role_id": "ROLE-SSO-SO"
+      },
+      "skill_gaps": [
+        {
+          "competency_id": "KCM-DOM-01",
+          "competency_name": "Official Statistics & Survey Methodology",
+          "competency_type": "Domain",
+          "gap": 2,
+          "priority": "critical"
+        },
+        {
+          "competency_id": "KCM-FUNC-04",
+          "competency_name": "Research Methodology & Data Management",
+          "competency_type": "Functional",
+          "gap": 1,
+          "priority": "high"
+        }
+      ],
+      "ground_truth_relevance": {
+        "ACBP-CRS-108": 3,
+        "ACBP-CRS-109": 3,
+        "ACBP-CRS-117": 3,
+        "ACBP-CRS-107": 2,
+        "ACBP-CRS-114": 2,
+        "NSSTA-ACBP-CRS-008": 2,
+        "ACBP-CRS-110": 1,
+        "ACBP-CRS-118": 1,
+        "ACBP-CRS-044": 0,
+        "ACBP-CRS-013": 0
+      },
+      "rationale": "Annual Survey of Industries (ASI) and enterprise data management modules for SSO/SO cadre."
+    },
+    {
+      "scenario_id": "REC-SCN-005",
+      "title": "Deputy Secretary - Financial Management & Public Procurement",
+      "learner_profile": {
+        "learner_id": "LEARNER-SYN-005",
+        "name": "Sanjay Deshmukh",
+        "cadre_role": "Deputy Secretary / Under Secretary",
+        "role_id": "ROLE-DS-US"
+      },
+      "skill_gaps": [
+        {
+          "competency_id": "KCM-FUNC-02",
+          "competency_name": "Financial Management & Procurement",
+          "competency_type": "Functional",
+          "gap": 2,
+          "priority": "critical"
+        }
+      ],
+      "ground_truth_relevance": {
+        "ACBP-CRS-055": 3,
+        "IGOT-ACBP-CRS-011": 3,
+        "ACBP-CRS-050": 2,
+        "ACBP-CRS-052": 2,
+        "ACBP-CRS-051": 2,
+        "ACBP-CRS-058": 1,
+        "ACBP-CRS-129": 0,
+        "ACBP-CRS-175": 0
+      },
+      "rationale": "Project appraisal, financial evaluation, and GeM procurement courses tailored for DS/US cadre."
+    },
+    {
+      "scenario_id": "REC-SCN-006",
+      "title": "Assistant Director - Big Data in Governance & Data Analytics",
+      "learner_profile": {
+        "learner_id": "LEARNER-SYN-006",
+        "name": "Kavita Nair",
+        "cadre_role": "Assistant Director / Deputy Director",
+        "role_id": "ROLE-AD-DD"
+      },
+      "skill_gaps": [
+        {
+          "competency_id": "KCM-DOM-02",
+          "competency_name": "Big Data Analytics & Emerging Technologies",
+          "competency_type": "Domain",
+          "gap": 2,
+          "priority": "critical"
+        }
+      ],
+      "ground_truth_relevance": {
+        "ACBP-CRS-066": 3,
+        "ACBP-CRS-067": 3,
+        "ACBP-CRS-068": 2,
+        "NSSTA-ACBP-CRS-001": 2,
+        "ACBP-CRS-072": 1,
+        "ACBP-CRS-144": 0,
+        "ACBP-CRS-036": 0
+      },
+      "rationale": "Big data and governance analytics modules tailored for Assistant Director cadre."
+    },
+    {
+      "scenario_id": "REC-SCN-007",
+      "title": "Upper Division Clerk - Office Procedures & Conduct Rules",
+      "learner_profile": {
+        "learner_id": "LEARNER-SYN-007",
+        "name": "Manoj Tiwari",
+        "cadre_role": "Assistants / Upper Division Clerk / Lower Division Clerk",
+        "role_id": "ROLE-UDC-LDC"
+      },
+      "skill_gaps": [
+        {
+          "competency_id": "KCM-FUNC-01",
+          "competency_name": "Office Procedure and Noting/Drafting",
+          "competency_type": "Functional",
+          "gap": 2,
+          "priority": "critical"
+        },
+        {
+          "competency_id": "KCM-BEH-01",
+          "competency_name": "Civil Service Conduct & Ethics",
+          "competency_type": "Behavioural",
+          "gap": 1,
+          "priority": "high"
+        }
+      ],
+      "ground_truth_relevance": {
+        "ACBP-CRS-175": 3,
+        "ACBP-CRS-176": 3,
+        "ACBP-CRS-169": 2,
+        "ACBP-CRS-170": 2,
+        "ACBP-CRS-174": 1,
+        "ACBP-CRS-001": 0,
+        "ACBP-CRS-040": 0
+      },
+      "rationale": "Secretariat noting, drafting, and conduct modules tailored for Clerical cadre."
+    },
+    {
+      "scenario_id": "REC-SCN-008",
+      "title": "Director - Collaborative Governance (Sahakaryata)",
+      "learner_profile": {
+        "learner_id": "LEARNER-002",
+        "name": "Dr. Meenakshi Sundaram",
+        "cadre_role": "Director / Joint Director",
+        "role_id": "ROLE-DIR-JD"
+      },
+      "skill_gaps": [
+        {
+          "competency_id": "KCM-BEH-05",
+          "competency_name": "Collaboration and Teamwork",
+          "competency_type": "Behavioural",
+          "gap": 2,
+          "priority": "critical"
+        }
+      ],
+      "ground_truth_relevance": {
+        "ACBP-CRS-041": 3,
+        "ACBP-CRS-017": 2,
+        "ACBP-CRS-039": 2,
+        "ACBP-CRS-040": 2,
+        "ACBP-CRS-038": 1,
+        "ACBP-CRS-132": 0,
+        "ACBP-CRS-175": 0
+      },
+      "rationale": "Sahakaryata and negotiation in public governance tailored for Director cadre."
+    },
+    {
+      "scenario_id": "REC-SCN-009",
+      "title": "Statistical Enumerator - Primary Data Collection & Field Survey Methods",
+      "learner_profile": {
+        "learner_id": "LEARNER-SYN-009",
+        "name": "Sunita Rao",
+        "cadre_role": "Junior Statistical Officers / Assistant Section Officers / Data Processing Assistant (All Grades)",
+        "role_id": "ROLE-JSO-ASO"
+      },
+      "skill_gaps": [
+        {
+          "competency_id": "KCM-DOM-01",
+          "competency_name": "Official Statistics & Survey Methodology",
+          "competency_type": "Domain",
+          "gap": 2,
+          "priority": "critical"
+        }
+      ],
+      "ground_truth_relevance": {
+        "ACBP-CRS-127": 3,
+        "ACBP-CRS-136": 3,
+        "ACBP-CRS-129": 2,
+        "ACBP-CRS-128": 2,
+        "ACBP-CRS-135": 1,
+        "ACBP-CRS-034": 0,
+        "ACBP-CRS-001": 0
+      },
+      "rationale": "Field survey management and unit data collection for primary statistical officers."
+    },
+    {
+      "scenario_id": "REC-SCN-010",
+      "title": "Senior Statistical Officer - Price Statistics & Index Number Compilation",
+      "learner_profile": {
+        "learner_id": "LEARNER-001",
+        "name": "Arun Kumar",
+        "cadre_role": "Senior Statistical Officers / Section Officer / Senior Administrative Officer / Administrative Officer",
+        "role_id": "ROLE-SSO-SO"
+      },
+      "skill_gaps": [
+        {
+          "competency_id": "KCM-DOM-01",
+          "competency_name": "Official Statistics & Survey Methodology",
+          "competency_type": "Domain",
+          "gap": 2,
+          "priority": "critical"
+        }
+      ],
+      "ground_truth_relevance": {
+        "ACBP-CRS-106": 3,
+        "ACBP-CRS-108": 3,
+        "ACBP-CRS-109": 3,
+        "ACBP-CRS-107": 2,
+        "NSSTA-ACBP-CRS-001": 2,
+        "ACBP-CRS-111": 1,
+        "ACBP-CRS-013": 0,
+        "ACBP-CRS-036": 0
+      },
+      "rationale": "Official statistics datasets (ASI, ASUSE, MoSPI framework) for SSO cadre."
+    }
+  ],
+  "label_provenance": "Synthetic offline Information Retrieval benchmark created for algorithmic verification. Relevance grades were manually authored by mapping ACBP course titles to KCM competencies based on domain keywords and cadre seniority. These labels DO NOT represent independent external SME adjudication, empirical field trials, or real-world learner evaluations.",
+  "methodology_and_construction": "Each scenario defines a synthetic learner profile representing a standard MoSPI cadre (e.g., Director, SSS JSO, ISS STS, Administrative Officer) with 2-3 target competency gaps. Ground truth relevances (0-3) were graded based on: Grade 3 (exact competency and cadre match), Grade 2 (aligned competency across adjacent cadre or strong domain utility), Grade 1 (category match only), Grade 0 (unrelated domain or cadre mismatch).",
+  "assumptions_and_limitations": [
+    "Evaluated exclusively against the static 226-course MoSPI ACBP FY 2026-27 catalogue.",
+    "Relevance grades reflect offline topical relevance rather than empirical learning efficacy or post-training assessment gains.",
+    "No statistical significance testing is claimed given the small sample size (N=10 scenarios).",
+    "Local latency metrics measure CPU execution time of in-memory ranking functions and do not account for database transactions or HTTP network round-trips."
+  ],
+  "warning": "SYNTHETIC/CURATED OFFLINE BENCHMARK ONLY. NOT TESTED ON LIVE GOVERNMENT LEARNERS."
+}

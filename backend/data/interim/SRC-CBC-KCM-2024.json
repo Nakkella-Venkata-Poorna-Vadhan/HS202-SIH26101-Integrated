@@ -1,0 +1,1188 @@
+{
+  "document_id": "SRC-CBC-KCM-2024",
+  "source_filename": "KCM-Output_RestructuredOct17.pdf",
+  "relative_path": "data\\raw\\KCM-Output_RestructuredOct17.pdf",
+  "file_size_bytes": 40211406,
+  "sha256": "4af22b02eb10cba483844e47b9ad08b5eb48f97b63375868576846c95a0a7ec7",
+  "extraction_timestamp": "2026-10-18T04:58:13.925060+00:00",
+  "status": "success",
+  "total_pages": 107,
+  "total_characters": 85103,
+  "total_words": 12168,
+  "flagged_pages_count": 3,
+  "pages_needing_ocr": [
+    1,
+    36,
+    37
+  ],
+  "error_message": null,
+  "pages": [
+    {
+      "page_number": 1,
+      "character_count": 30,
+      "word_count": 4,
+      "image_count": 9,
+      "needs_ocr_review": true,
+      "flags": [
+        "LOW_TEXT_DENSITY",
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": "Very low text density (30 chars < threshold 50) with 9 embedded image(s); likely a cover header, divider graphic, or stamp requiring inspection.",
+      "text": "Karmayogī\nCompetency Model\nThe\n"
+    },
+    {
+      "page_number": 2,
+      "character_count": 81,
+      "word_count": 10,
+      "image_count": 6,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "Table of Contents\nKarmayogī Competency Model\nKarmayogī Competency Model: \nContext \n"
+    },
+    {
+      "page_number": 3,
+      "character_count": 54,
+      "word_count": 18,
+      "image_count": 3,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nThe \nContext \n"
+    },
+    {
+      "page_number": 4,
+      "character_count": 1193,
+      "word_count": 173,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "When addressing the nation from the Red Fort on the 76th Independence Day, Prime Minister \nShri Narendra Modi envisioned the next 25 years as Bhārata’s/India’s ‘Amrit Kaal’/Amṛt-Kāl and made a \ncommitment to transform India into a self-reliant (Ātma-Nirbhar/Ātmanirbhar)and developed country \n(Vikasita-Bhārata) by embracing the principles of ‘Sabkā Sāth, Sabkā Vikās, Sabkā Viśhvās, Sabkā Prayās’ \nby the year 2047. To realize this vision for Bhārata/India@100, he introduced the concept of ‘Pāñch \nPraṇ’**or Five Pledges for every citizen of India. \nThe Karmayogī Competency Model takes inspiration from this vision. The ‘Pāñch Praṇ,’ which directly \ntranslates into the duties or the ‘Chār Saṅkalp’ (four resolves) represents a set of principles that every \nKarmayogī, as a representative of the government, should internalize and actively demonstrate by \nembodying the ‘Chār Guṇ’ (four virtues) through their associated competencies.\nKey Components\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n*Domain Competencies is outside the scope of this document\n** The spelling of term “Pañch Praṇ” validated from Press Information Bureau website: https://pib.gov.in/PressReleasePage.aspx?PRID=1954278\n"
+    },
+    {
+      "page_number": 5,
+      "character_count": 619,
+      "word_count": 100,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nBhārata’s/India’s vision \nof becoming “Ātma-\nNirbhar-Bhārat”/”Ātma-\nNirbhara-Bhārata” & “ \nVikasita-Bhārata” by \n2047 and make India \n“Viśhva-Guru”\nBhārata\n/India@100\nThe ‘Chār Saṅkalp,’ (four resolves)  identified based on the articulation of the strategy for \nachieving the vision of Bhārata/India@100, aims to inspire action and a drive to ensure and \nenable the public good through every decision and action made.\n4\n1\nVikasa\nResolve for \nDeveloped \nIndia\n2\nGarva\nBe proud \nof India’s \nlegacy\n3\nKartavya\nFulfil \nDuties\nEkata\nStrength \nin Unity\nAMRIT KAAL \nKE CHAAR \nSANKALPA\n"
+    },
+    {
+      "page_number": 6,
+      "character_count": 791,
+      "word_count": 130,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nResolve for a developed Bhārata/India\nVIKĀSA\nLeverage the benefits \nfrom Bhārata/\nIndia’s demographic \ndividend for \ncollective Vikāsa \n– development. \nHarness our Yuvā-\nŚhakti - skill & \ngainfully employ \nIndia’s youth\nUse \ntechnology \nto innovate \n& overcome \nchallenges\nEncourage an \nentrepreneurial \nspirit and \npractice in \ncitizens\nInvest & \npromote \ndevelopment \nof Indian \nstart-ups\nEnable India \nto be globally \ncompetitive & \nset standards \nfor the world\nPromote \nNari Shakti \nfor holistic \ndevelopment\nPromote \nLiFE \neconomy\nChaar Sankalpa Explained\nI\nB H Ā R A T A / I N D I A @ 1 0 0 : Ātma-Nirbhara & Vikasita Bhārata\nBuild human and social \ncapital to produce inclusive \neconomic consequences\nBuild infrastructure for \neconomic growth\n"
+    },
+    {
+      "page_number": 7,
+      "character_count": 882,
+      "word_count": 144,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nBe proud of Bhārata’s/India’s legacy\nGARVA\nHave Garva \n- Pride in \nBhārata’s \ntangible and \nintangible \nheritage \nbased \non Indian \nKnowledge \nSystems \n(IKS) and \npromote it\nLearn about \nthe Bhāratīya-\nJīvana-\nDrshti /Indian \nworldview and \nnurture our \ncivilizational \nspirit in your \nlife through \nyour thoughts, \nspeech, \ndecisions and \nactions\nBe proficient \nin Bhāratīya-\nBhāshās/\nIndian \nlanguages\nAcquire \nknowledge \nof \nBhārata’s/\nIndia’s \ndiverse \nculture, \nrespect \nit and \npreserve it\nEnsure \nprotection \nof \nBhārata’s/\nIndia’s rich \nheritage \nand natural \nresources\nConsciously \nseek to drive \nyour thinking \nand actions \nfor Jana-Hita \n- societal \ngood and \nfor Loka-\nKalyāna - \nwell-being \nof all \nDevelop a \ndecolonised \nmindset\nChaar Sankalpa Explained\nII\nB H Ā R A T A / I N D I A @ 1 0 0 : Ātma-Nirbhara & Vikasita Bhārata\n"
+    },
+    {
+      "page_number": 8,
+      "character_count": 897,
+      "word_count": 137,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nKARTAVYA\nUnderstand and \nfulfil your Kartavya \nor Duties\n•\t Towards your \nduties and \nresponsibilities \n•\t Towards yourself\n•\t Towards your \nTeam\n•\t Towards the \nPublic’s Greater \nGood\nMove from a \n“Rule-based” \nto “Role-\nbased” \nsystem of \nworking\nPrioritize \nJana-Hita \n- citizen’s \nwell-being, \nĀtma-Jñāna - \nself-knowledge \nand the \npursuit of self-\nimprovement/\ndevelopment \nand growth\nBe \naccountable \nto the \ncitizens of \nthe country\nBuild trust and \ntransparency \nand have a \nstrong work-\nethic/integrity \nin the details \nof the task \ngiven\nUndertake \nand \nencourage \ndialogues & \nconsultations \nwith citizens \nregularly to \nmake “Sabkā-\nPrayās” \npossible\nStrive towards \nefficient \nservice \ndelivery. Strive \nfor excellence \nin your work \nand take pride \nin providing the \nbest service to \ncitizens\nChaar Sankalpa Explained\nFulfil your duties\nIII\n"
+    },
+    {
+      "page_number": 9,
+      "character_count": 758,
+      "word_count": 127,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nStrength in unity\nEKATĀ\nFocus on the \nfactors of \nEkatā – unity, \nunderlying our \nnational diversity \nfor making \ndecisions \ninvolving \ncommon good\nMove forward \nwith collective \nresolve to \nachieve the \nvision of Bhārata/\nIndia@2047 \nOvercome/ \nResolve \ndisputes to \nwork toward \ncommon \ngoals\nEliminate \nany form of \ndiscrimination \nfrom the \nmind / Deal \nwith citizens \nwith respect \nand without \ndiscrimination\nAddress complex \nissues with  \ncompassion and \nsensitivity involving \nall genders, and \nother diverse & \nvulnerable groups \nof people and \nfellow creatures\nPromote \ncomponents \nof cooperative \nfederation\nIV\nB H Ā R A T A / I N D I A @ 1 0 0 : \nĀtma-Nirbhara & Vikasita Bhārata\nChaar Sankalpa Explained\n"
+    },
+    {
+      "page_number": 10,
+      "character_count": 123,
+      "word_count": 44,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nHow can this \nSankalpa be \nachieved? \nB Y E N S U R I N G F O U R O U T C O M E S\n"
+    },
+    {
+      "page_number": 11,
+      "character_count": 253,
+      "word_count": 37,
+      "image_count": 2,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "The key objectives of the \nprogram are fourfold. \nIt endeavours to…\nThese four outcomes are central to \nMission Karmayogi\nENHANCE \nPERFORMANCE\nENSURE \nACCOUNTABILITY\nDELIVER \nCITIZEN CENTRIC \nGOVERNANCE\nCREATE A \nFUTURE READY \nCIVIL SERVICES\nI\nII\nIII\nIV\n"
+    },
+    {
+      "page_number": 12,
+      "character_count": 370,
+      "word_count": 58,
+      "image_count": 1,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": " …Mission Karmayogī is a new \nexperiment of its kind in the \ndirection of capacity building. \nThrough the mission, the \ngovernment employees have to \nmodernize thinking, approach \nand improve their skill set. It is \nto give them an opportunity to \nbecome a Karmayogī…\nPM Shri Narendra Modi, \nat Aarambh Foundation Course on Rashtriya \nEkta Divas (National Unity Day) 2020\n"
+    },
+    {
+      "page_number": 13,
+      "character_count": 843,
+      "word_count": 154,
+      "image_count": 2,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "Mission Karmayogī\nA N E W PA R A D I G M I N C A PA C I T Y B U I L D I N G\nThe Government of India embarked on a first of its kind initiative – National Programme \nfor Civil service Capacity Building (NPSCSB) /Mission Karmayogī towards building capacity \nof all civil service officers by improving efficiency in bureaucracy and developing a \npeople centric approach in governance rooted in Indian civilisation ethos\nyad yad ācharati śhreṣhṭhas tat tad evetaro janaḥ\nsa yat pramāṇaṁ kurute lokas tad anuvartate\n- B H A G A V A D G I T A 3 . 2 1\nWhatsoever the Shrestha or the \nBest does, that the others put into \npractice; the standard he creates, \nthe people follow.\nCORE PRINCIPLE OF \nMISSION KARMAYOGĪ\nYADYADACHARATI SHRESTHA\nWhatever actions great persons perform, common people follow. Whatever standards they set, all the world pursues.\n"
+    },
+    {
+      "page_number": 14,
+      "character_count": 922,
+      "word_count": 120,
+      "image_count": 2,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "The Mission Karmayogī \nencapsulates three transitions…\nTransition from Karmachari to \nKarmayogī: a shift in the mindset \nof government officials, where \nthey no longer view themselves \nas Karmacharis (salaried \nEmployees) but instead as \nKarmayogīs (individuals imbued \nwith the spirit of action, service, \nand humility)\nWorkplace transformation: \nFostering a transition from \nthe allocation of individual \nperformance responsibility to \nthe identification of constraints \ninfluencing a civil servant’s \nperformance through \nthe Means, Motives, and \nOpportunity (MMO) framework. \nShift from rule-based to role-based: \nThe shift from a rule-based to \na role-based HR management \nsystem empowers officials to \ncultivate the skills, knowledge, and \nattitudes necessary to fulfil their \ngovernment roles throughout \ntheir careers, rather than provide \nthem capacity-building resources \nbased on one-size-fits-all rules. \n1\n2\n3\n"
+    },
+    {
+      "page_number": 15,
+      "character_count": 120,
+      "word_count": 29,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nHow can we achieve \nthe objective of \nMission Karmayogī in \na tangible manner? \n"
+    },
+    {
+      "page_number": 16,
+      "character_count": 762,
+      "word_count": 112,
+      "image_count": 2,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "Building \ncompetencies \nby identification \nof existing \nand emerging \ncapacity-building \nneeds aligned to \nnational priorities\nIdentification \n& assessment \nof skill needs \nof civil service \nofficers based \non objective \ncriteria \nEnhancing \nfocus on \nbehavioural \nand functional \ncapacity \nbuilding \nneeds\nEnabling role-\nbased capacity \nbuilding and \nempowering \nofficials to take \ncharge of own \nprofessional \njourney\nDrive \nstandardisation, \nharmonisation & \nshared learning in \ncapacity building \npractices across \nthe Government \necosystem\nDemand-\ndriven capacity \nbuilding\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n1\n2\n3\n4\n5\n6\nKarmayogī Competency Model is the model for public human resource \nmanagement based on Indic wisdom & tenets of Mission Karmayogī\n"
+    },
+    {
+      "page_number": 17,
+      "character_count": 593,
+      "word_count": 90,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "What do these Behavioral and \nFunctional competencies do? \nWhat is achieved through these? \nChār Saṅkalp implies the inculcation of key virtues (Guṇas) and indicates the personification of good \ngovernance to enhance the world’s perception of India as a ‘Viśhva-Guru.’ These virtues form the core \nof the ‘Karmayogī Competency Model’ and serve as the foundation of Indian Civil Services culture.\n1\n2\n3\n4\nSvādhyāya\n(Self)\nSahakāryatā\n(Team)\nRājyakarma\n (System)\nSvadharma\n(Citizen)\nVIRTUES \n(GUṆAS) \nOF A \nKARMAYOGĪ\n4 GUNAS ARE BUILT, WHICH HELP IN ACHIEVING THE 4 OUTCOMES OF MISSION KARMAYOGĪ\n"
+    },
+    {
+      "page_number": 18,
+      "character_count": 61,
+      "word_count": 19,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nGuṇas \nElaborated\n4\n"
+    },
+    {
+      "page_number": 19,
+      "character_count": 945,
+      "word_count": 139,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n(Self)\nSVĀDHYĀYA\nDefine \npersonal \ngoals/\naspirations \nand use \nthose to \ninspire \nothers\nMake a \ncommitment \nto/for \npersonal \ngrowth, self-\nimprovement, \nand overall \nwell-being\nDeliver my \njourney \neffectively \nand \nconfidently \nHave \nawareness \nof one’s/\nyour duties \n& taking \nownership \nfor them\n Resolve/\nOwnership \nto improve \nor remove \nunproductive \nprocesses, \npolicies, rules \netc. and adopt \nemerging \n& frontier \ntechnologies\n Fulfil your \nduties as \nan officer \nand as a \ncitizen\nUnderstand \nyourself, \nyour role and \nthe learning \njourney to \nplay my role\nCultivate the \ndiscretion/\nwisdom/\nPrudence to \ndistinguish \nbetween ethical \nand unethical, \nproductive & \nnon-productive \ndecisions \nfor Bharat’s \nprosperity\nSvādhyāya: A Karmayogī is self-aware and knows his/her strengths, weaknesses, aspirations and inspires people towards the shared goal\n Virtues (Guṇas) of a Karmayogī\nV G\nI\n"
+    },
+    {
+      "page_number": 20,
+      "character_count": 907,
+      "word_count": 125,
+      "image_count": 1,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "K E V\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nSAHAKĀRYATĀ\n Ensure \ncollective \nownership and \nwell-being of \ndiverse groups \nfor inclusion \n(seems \nincomplete) in \nthe workspace \nand for \ncommunity \naction\n Promote \nCooperative \nFederalism \nExhibit \nsensitivity \nwhen \ndealing with \ncolleagues \nand guide \nother \nstakeholders\nCreating an \norganisational \nculture and \ncollective \nidentity\n Create/\nWork \ntowards - \n‘Ek Bhārat \nŚhreshth \nBhārat’.\n Build consensus \nby resolving any \nconflicts in the \nGovernment  \necosystem\n Focus on \nachieving \nsuccess of \ncommon goals \ncollaboratively\n Have an understanding \nof interdependencies and \nthe  interconnectedness of \nmultiple stakeholders\nCollaborate & integrate resources and \npromote collective learning\nSahakäryatā: A Karmayogī encourages collaborative working ensuring inclusion of a diverse set of stakeholders\n(Team)\nII\n Virtues (Guṇas) of a Karmayogī\n"
+    },
+    {
+      "page_number": 21,
+      "character_count": 1004,
+      "word_count": 148,
+      "image_count": 1,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nRĀJYAKARMA\nTake pride in systems \nand processes of the \nGovernment of India.\nCreate sustainable & \nhygienic workplace / \nsystems / operating \nenvironment and \nprocesses aimed at \nenhancing the public \ngood.\nContribute \ntowards system \nimprovement in \ninnovative ways \nsuch as building \ninstitutional \nmemory, training \ninterventions \nand \naccountability \nframeworks\nEmploy Data \nAnalytics and \nVisualization \nusing frontier \ntechnologies\nInterpret & \ncomply to the \nprescribed \nRules, \nRegulations etc.\nWorking to \nconstantly \nevolve systems \n& processes to \ndeliver on good \ngovernance\nEnsure simplification \nand sturdiness of \nprocesses for ease \nof accessibility and \nusage by all\nBe transparent \nwhile \nundertaking set \nprocesses of \nthe system\nRājyakarma: A Karmayogī should comply to the rules & regulations, is committed to promote \ntransparency and ensures that outputs created are sustainable\nK V\n Virtues (Guṇas) of a Karmayogī\n(Workplace / System)\nIII\n"
+    },
+    {
+      "page_number": 22,
+      "character_count": 885,
+      "word_count": 131,
+      "image_count": 1,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nSVADHARMA\nDisplay commitment \n& perform one’s/your \nduties by citizen-\ncentric governance\nJanbhagidari: \nEngaging with \ncitizens as \nequal partners.\nAct as a trusted \nadvisor to all \nstakeholders in \nnation building\nFormulate and \nimplement citizen-\ncentric policies \nthrough diverse \nand integrated \nGovernment \nPrograms\nEnsure social, human \n& economic progress \nis shared across all \nregions of India\nLeverage local wisdom \nalong with global practices \nto adopt innovative, creative \nand constructive ways to \ncreate newer benchmarks \nin service delivery and good \ngovernance\nSvadharma: A Karmayogī persistently works for all by providing timely and helpful advice, creating mission-\noriented reforms and formulating progressive & transformative policies and is citizen centric in all approaches\n(Citizen)\nIV\n Virtues (Guṇas) of a Karmayogī\n"
+    },
+    {
+      "page_number": 23,
+      "character_count": 148,
+      "word_count": 49,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nThese virtues can be \nattained by aquiring \ncompetencies\nW H A T A R E T H E S E C O M P E T E N C I E S ?\n"
+    },
+    {
+      "page_number": 24,
+      "character_count": 980,
+      "word_count": 158,
+      "image_count": 2,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nA Karmayogī will be able to inculcate the Virtues (Guṇas) and strive towards the vision by attaining Competencies\n1\nBehavioural \nCompetencies\n2\nFunctional \nCompetencies\n3\nDomain\nCompetencies*\n*Domain Competencies is outside the \nscope of this document\nKey behavioural traits that Government of India officials \nshould display to perform effectively in a range of jobs\nThe knowledge or skills required to perform effectively in a specific role or \ngroup of jobs which are common across most Ministries / Departments/ \nOrganizations in the Government of India. (e.g., “Project Management”)\nThese competencies are shared by a family of related jobs that have common \nfunctions and form a logical career path. These are defined for a specific \ndepartment or business unit and typically categorized by knowledge areas \nthat a role holder needs to carry out activities of specific domain such as: \nagriculture, economy, health etc.\nCompetencies\n"
+    },
+    {
+      "page_number": 25,
+      "character_count": 1306,
+      "word_count": 185,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n1. Self-\nAwareness\n5. Outcome \nOrientation\n3. Solution \nOrientation\n7. Service \nOrientation\n2. Personal \nEffectiveness\n6. Collaboration\n4. Communication\n8. Operational \nExcellence\n•\tSelf-Analysis\n•\tSelf Confidence\n•\tPurposefulness\n•\tSelf-Learning\n•\t Goal Setting\n•\t Accountability\n•\t Initiative & Drive\n•\t Commitment to Quality\n•\t Analytical Thinking\n•\t Attention to Detail\n•\t Systems thinking\n•\t Empathy\n•\t Responsiveness\n•\t Service Excellence \n(wrt Citizens)\n•\t Stress Management\n•\t Resilience\n•\t Navigating Ambiguity\n•\t Relationship Management\n•\t Diversity & Inclusion\n•\t Knowledge Sharing\n•\t Active Listening\n•\t Reading & Comprehension\n•\t Verbal and Non-verbal Fluency\n•\t Presentation Skills\n•\t Planning & Prioritization\n•\t Resource Management\n•\t Process Excellence\n•\t Continuous Improvement\nThe Karmayogī Competency Model consists of 13 Behavioural Competencies split across 8 Core Competencies \n(and 28 associated sub-themes) and 5 Leadership Competencies (and 13 associated sub-themes)\nCore Competencies \ninclude fundamental skills, \nknowledge, and attitudes \nwhich are expected to \nbe demonstrated by \nall officials across the \nhierarchy across the \nGovernment ecosystem for \ncontributing to effective \npublic service delivery\nCORE\nBehavioural Competencies\n"
+    },
+    {
+      "page_number": 26,
+      "character_count": 432,
+      "word_count": 65,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nMatrix Mapping the competencies with the Gunas\n1\t\nCore\t\nSelf-Awareness\n2\t\nCore\t\nPersonal Effectiveness\n3\t\nCore\t\nSolution Orientation\n4\t\nCore\t\nCommunication\n5\t\nCore\t\nOutcome Orientation\n6\t\nCore\t\nCollaboration\n7\t\nCore\t\nService Orientation\n8\t\nCore\t\nOperational Excellence\nSVĀDHYĀYA\n(SELF)\nCOMPETENCY NAME\nCOMPETENCY \nTYPE\nSAHAKĀRYATĀ \n(TEAM/COLLAB)\nRAJYAKARMA \n(SYSTEMS)\nSVADHARMA \n(MY DHARMA)\n"
+    },
+    {
+      "page_number": 27,
+      "character_count": 815,
+      "word_count": 117,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "Behavioural Competencies\n 9. Creativity \n& Innovation\n12. Team \nLeadership\n11. Collaborative \nLeadership\n10. Strategic \nLeadership\n13.  Decision \nMaking\n•\t Lateral Thinking\n•\tTransformation \nOrientation\n•\t Mentoring\n•\t Sharing Constructive \nFeedback\n•\t Inspiring Others\n•\t Influencing & \nNegotiation\n•\t Conflict \nManagement\n•\t Global Mindset\n•\t Forward Thinking\n•\t Executive Presence\n•\t Sustainable Mindset\n•\t Logical Reasoning\n•\t Sound Judgement\nLeadership Competencies  are a \nspecific set of skills, behaviours, \nand attitudes that are associated \nwith effective leadership and \nmanagement of their respective \nteams. These competencies are \nessential for leaders to achieve \norganizational goals, foster a \npositive work environment, and \ninspire their teams\nLEADERSHIP\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n"
+    },
+    {
+      "page_number": 28,
+      "character_count": 391,
+      "word_count": 57,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nMatrix Mapping the competencies with the Gunas\n9\t\nLeadership\t\nCreativity & Innovation\n10\t\nLeadership\t\nStrategic Leadership\n11\t\nLeadership\t\nCollaborative Leadership\n12\t\nLeadership\t\nTeam Leadership\n13\t\nLeadership\t\nDecision Making\nSVĀDHYĀYA\n(SELF)\nCOMPETENCY NAME\nCOMPETENCY \nTYPE\nSAHAKĀRYATĀ \n(TEAM/COLLAB)\nRAJYAKARMA \n(SYSTEMS)\nSVADHARMA \n(MY DHARMA)\n"
+    },
+    {
+      "page_number": 29,
+      "character_count": 690,
+      "word_count": 103,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "1. Citizen Centricity\n2. Policy \nArchitecture\n3. Cabinet Note \nPreparation\n4. Government Program \nFormulation \n•\t Design Thinking \n•\t Citizen Partnering & \nCollaboration\n•\tPolitical, Economic, \nSocial, Technological \nConsciousness\n•\t Research & Need Analysis \n•\t Policy Design/\nAmendment\n•\t Policy Implementation\n•\t Policy Monitoring & \nImpact Assessment\n•\t Rules of business \n(AoB/ToB)\n•\t Cabinet Note Writing\n•\t Research & Need Analysis\n•\t Scheme/Program Design\n•\t Feasibility & Risk Assessment\n•\t Implementation & Outreach\nThe Karmayogī Competency Model consists of 21 Functional Competencies and 68 associated sub-themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nFunctional Competencies\n"
+    },
+    {
+      "page_number": 30,
+      "character_count": 619,
+      "word_count": 93,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "Functional Competencies\n5. Project \nManagement \n6. Public \nProcurement (GFR)\n7. Material \nManagement (GFR)\n8. Monitoring \n& Evaluation\n•\t Project Planning\n•\t Project Implementation\n•\t Project Evaluation & \nMonitoring\n•\t Procurement Mgt. through GeM\n•\t Procurement of Services/ \nGoods/Works\n•\t Contract Management\n•\t Vendor/Consultant Management\n•\t Maintenance and \nDisposal of materials\n•\t Inventory Management\n•\t Creation of M&E \nFramework \n•\t Evaluation of \noutcomes / outputs\nThe Karmayogī Competency Model consists of 21 Functional Competencies and 68 associated sub-themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n"
+    },
+    {
+      "page_number": 31,
+      "character_count": 815,
+      "word_count": 126,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nFunctional Competencies\n9. Financial \nManagement\n10. Digital \nFluency\n11. Data \nAnalytics\n12. Establishment & HR\n•\t Budget Formulation & \nImplementation\n•\t Expenditure Management\n•\t Government accounts\n•\t PFMS Portal Management\n•\t Digital Tools ( MS office, \nExcel & PPT.)  & Platforms\n•\t Digital Service Design\n•\tAI/ML tools\n•\tEmerging technology\n•\t Data Management \n•\t Data Analysis & \nVisualization\n•\t Data led Decision making\n•\t Data Use and Governance\n•\t Handling Establishment Matters\n•\t Handling matters of Reservations\n•\t Handling Fundamental Rules/\nSupplementary Rules\n•\t Handling matters of Prevention of \nSexual Harassment Policy\n•\t Handling performance appraisal\nThe Karmayogī Competency Model consists of 21 Functional Competencies and 68 associated sub-themes\n"
+    },
+    {
+      "page_number": 32,
+      "character_count": 814,
+      "word_count": 117,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nFunctional Competencies\n13. Office \nManagement\n14. Handling \nParliamentary \nMatters\n15. Handling \nRTI Matters\n16. Grievance \nRedressal\n17. Vigilance \nAdministration\n•\t E-Office\n•\t File/DAK Management\n•\t Office Procedures\n•\t Noting & Drafting of \nofficial Communications\n•\t Technical Proposal / \nReport writing\n•\t Submission of \nbriefs, supply of \ninformation\n•\t Maintaining records \nof parliamentary \nmatters\n•\t RTI Responsiveness\n•\t RTI Records \nManagement \n•\t CPGRAMS Portal \nManagement \n•\t Public Grievance \nHandling\n•\t Conduct Rules\n•\t Provisions on Suspension\n•\t Proposal preparation for \ndisciplinary proceedings\n•\t Handling prosecution \ncases\n•\t Preventive Vigilance\nThe Karmayogī Competency Model consists of 21 Functional Competencies and 68 associated sub-themes\n"
+    },
+    {
+      "page_number": 33,
+      "character_count": 709,
+      "word_count": 104,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nFunctional Competencies\n18. Litigation \nManagement\n19. Information & \nCommunication \nManagement\n20. Change \nManagement\n•\t Legal Know-How\n•\t Court case management\n•\t LIMBS Portal Management\n•\t Dissemination of \nInformation\n•\t Handling social media\n•\t Management of \ninformation on official \nwebsites\n•\t Change Readiness\n•\t Change Implementation\n•\t Change Impact Assessment\nThe Karmayogī Competency Model consists of 21 Functional Competencies and 68 associated sub-themes\n21. Administration \nMatters\n•\t Handling Allowances & \nReimbursement\n•\t Handling Leave and Travel\n•\t Handling misc Matters \n(car, residence, personal \nstaff etc.)\n•\t Implementing Official \nLanguage\n"
+    },
+    {
+      "page_number": 34,
+      "character_count": 456,
+      "word_count": 69,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nMatrix Mapping the Functional Competencies with the Gunas\n1\t\nCitizen Centricity\n2\t\nPolicy Architecture\n3\t\nCabinet note preparation\n4\t\nGovernment Program Formulation\n5\t\nProject Management\n6\t\nPublic Procurement (GFR)\n7\t\nMaterial Management\n8\t\nMonitoring & Evaluation\n9\t\nFinancial Management\t\n10\t\nDigital Fluency\nSVĀDHYĀYA\n(SELF)\nCOMPETENCY NAME\nSAHAKĀRYATĀ \n(TEAM/COLLAB)\nRAJYAKARMA \n(SYSTEMS)\nSVADHARMA \n(MY DHARMA)\n"
+    },
+    {
+      "page_number": 35,
+      "character_count": 452,
+      "word_count": 57,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "11\t\nData Analytics\n12\t\nEstablishment & HR\n13\t\nOffice Management\n14\t\nHandling Parliamentary Matters\n15\t\nHandling RTI Matters\n16\t\nGrievance Redressal\n17\t\nVigilance Administration\n18\t\nLitigation Management\n19\t\nInformation & Communication Mgt\n20\t\nChange Management\t\n21\t\nAdministration Matters\t\nSVĀDHYĀYA\n(SELF)\nCOMPETENCY NAME\nSAHAKĀRYATĀ \n(TEAM/COLLAB)\nRAJYAKARMA \n(SYSTEMS)\nSVADHARMA \n(MY DHARMA)\nMatrix Mapping the Functional Competencies with the Gunas\n"
+    },
+    {
+      "page_number": 36,
+      "character_count": 26,
+      "word_count": 5,
+      "image_count": 7,
+      "needs_ocr_review": true,
+      "flags": [
+        "LOW_TEXT_DENSITY",
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": "Very low text density (26 chars < threshold 50) with 7 embedded image(s); likely a cover header, divider graphic, or stamp requiring inspection.",
+      "text": "End of Document.\nThank You\n"
+    },
+    {
+      "page_number": 37,
+      "character_count": 9,
+      "word_count": 1,
+      "image_count": 6,
+      "needs_ocr_review": true,
+      "flags": [
+        "LOW_TEXT_DENSITY",
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": "Very low text density (9 chars < threshold 50) with 6 embedded image(s); likely a cover header, divider graphic, or stamp requiring inspection.",
+      "text": "Annexures\n"
+    },
+    {
+      "page_number": 38,
+      "character_count": 68,
+      "word_count": 18,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "Behavioural  \nCompetencies\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n"
+    },
+    {
+      "page_number": 39,
+      "character_count": 431,
+      "word_count": 69,
+      "image_count": 1,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "Self-Awareness\nDefinition\nConscious recognition of one’s thoughts, \nemotions, and behaviours, driven by a clear \nsense of purpose and values. It involves a \nconfident understanding of one’s strengths \nand weaknesses, fostering the ability to align \nactions with goals and a  commitment to \nongoing self-learning and personal growth.\nBehavioural Competencies with Definitions & Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n1\n"
+    },
+    {
+      "page_number": 40,
+      "character_count": 1077,
+      "word_count": 156,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "Self-Awareness Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nSelf-Learning \nSelf-Analysis \nSelf Confidence\nPurposefulness\nExhibits a commitment to addressing the \nDepartment’s, Ministry’s, or Organization’s \nneeds now and, in the future, through \nfocusing on learning by identifying one’s \nown learning needs, setting a learning plan \nand choosing the appropriate learning \nresources. Focuses on learning how \nnew and innovative ideas and emerging \ntechnologies can be adopted to contribute \ntowards successful completion of tasks.\nAbility to critically \nexamine and \nevaluate their \nown thoughts, \nbehaviors, \nemotions, \nstrengths, \nweaknesses for \nintrospection and \nself-reflection. \nAbility to believe in ones \nown abilities, judgment, \nand skills and have \npositive and realistic \nself-perception and \nassurance to tackle \nchallenges. Take \ncalculated risks and \npersist in the face of \nsetbacks.\nAbility to align their \nactions, decisions, \nand goals with \na clear sense \nof purpose or a \nhigher meaning for \nworking towards \nthe goal of greater \ngood of citizens. \n"
+    },
+    {
+      "page_number": 41,
+      "character_count": 668,
+      "word_count": 92,
+      "image_count": 1,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "Personal Effectiveness\nDefinition\nRecognizes one’s emotional triggers and controls \nemotional reactions for retaining professionalism while \nworking under pressure and heightened stress. Shows \nperseverance, self-control, and professional toughness \nwhen facing challenges and recovering from setbacks \nby adapting attitude and behaviour to meet a particular \ncircumstance or in response to shifting working \nconditions and dynamics. Shows adaptability in fulfilling \na given responsibility, navigating through uncertain \nsituations with limited knowledge or resources.\nBehavioural Competencies with Definitions & Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n2\n"
+    },
+    {
+      "page_number": 42,
+      "character_count": 835,
+      "word_count": 110,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "Personal Effectiveness Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nStress Management\nNavigating Ambiguity\nResilience\nIdentifies one’s \nemotional triggers, \nregulating emotional \nresponses through \nself-control, and \nmaintaining dignity \nof the office and the \nposition.\nAbility to effectively operate \nin situations characterized \nby uncertainty, complexity, \nand a lack of clear \ninformation or direction \nby adapting quickly to \nchanging circumstances, be \nthey new policy directives, \nunexpected challenges, or \nshifts in political priorities. \nExhibits competence, \nconfidence, coping skills, self-\ncontrol through awareness and \nmindfulness of shared purpose \nof good governance and \nmaintaining positive relations. \nDemonstrating professional \nperseverance by modifying \napproach while working under \nincreased pressure.\n"
+    },
+    {
+      "page_number": 43,
+      "character_count": 615,
+      "word_count": 92,
+      "image_count": 1,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "Solution Orientation\nDefinition\nDisplays a sense of carefulness and practicality in \nemploying both creative and reflective problem-\nsolving methods. Conducts thorough root-cause \nanalyses and collaborate with experts and \nstakeholders to generate a range of hypotheses \nbased on historical precedents, data, reports, with \na goal to anticipate potential issues and suggest \npractical and alternative solutions that are based \non insights gained from a comprehensive analysis \nof all relevant available information. \nBehavioural Competencies with Definitions & Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n3\n"
+    },
+    {
+      "page_number": 44,
+      "character_count": 1147,
+      "word_count": 164,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "Solution Orientation Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nAttention to Detail\nSystems Thinking\nAnalytical Thinking\nDisplays the quality of \nthoroughly, meticulously and \naccurately examining all aspects \nof a problem or task such as \ndocument creation to data \nanalysis, budget management, \nand project implementation by \nemploying keen eye to detail \nfor their screening and scrutiny \nusing functional expertise and \ndomain credibility.\nRecognize one’s area of responsibility as a \ncritical component of the larger system of \nthe Government machinery and understand \nits interrelatedness and interoperability with \nother areas. This involves perceiving and \ncomprehending complex problems and systems, \nsuch as processes and policies, as a whole and \nin parts simultaneously. It also involves devising \nstrategies that would impact the dynamics of the \nwhole by synthesizing complex problems, creating \nfeedback loops, and comprehending causality.\nDemonstrates ability to \nextract key information \nfrom data, reports, \nprecedence through \nthorough examination, \nscrutiny, and analysis using \nlogic to address issues and \nproblems. \n"
+    },
+    {
+      "page_number": 45,
+      "character_count": 598,
+      "word_count": 85,
+      "image_count": 1,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "Communication\nDefinition\nExhibits the ability to speak, read and interpret \nofficial communications such as English/Hindi/ \nState specific in respect to their context, message, \nand intent. Displays positive non-verbal cues, \nactively practices attentive listening, endeavours \nto understand the viewpoints of others, and \nresponds respectfully and humbly. Presents \ninformation with conviction, fluency, rationality, \nand persuasion while using a communication \ntechniques tailored to the audience.\nBehavioural Competencies with Definitions & Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n4\n"
+    },
+    {
+      "page_number": 46,
+      "character_count": 1000,
+      "word_count": 143,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "Communication Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nReading & \nComprehension\nActive \nListening\nVerbal & Non-verbal \ncommunication\nPresentation \nskills\nExhibits elevated reading \nskills, possesses a firm \nlinguistic command \nand knowledge. \nDemonstrates the ability \nto absorb information, \nunderstand it, and \nintegrate it with existing \nknowledge.\nDemonstrates the \ncapacity to pay close \nattention to what \nis being said and to \ninterpret the spirit and \nintent of the speaker \nfrom other cues such \nas body language and \nfacial expressions.\nDemonstrates ability to \narticulate thoughts and express/\npresent ideas clearly and \neffectively using oral, non-verbal \ncommunication skills aiming \nto inform, instruct, or persuade \naudience/ stakeholders and \naugments credibility of the \nposition and the office.\nDisplays the ability to \ncreate documents \nand presentations \nthat highlight the \nkey points, details, \naccomplishments, \nand difficulties \nassociated with the \ntopic at hand. \n"
+    },
+    {
+      "page_number": 47,
+      "character_count": 514,
+      "word_count": 80,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "Outcome Orientation\nDefinition\nDemonstrates an intense motivation to \nset goals and be responsible for their \nachievement while striving for quality \nexcellence. Possesses the capacity to \nidentify problems and gaps during service \ndelivery and to proactively analyse and \nassess different options to ensure best \nresult. Drives systemic changes to increase \neffectiveness and efficiency in line with \nfuture needs.\nBehavioural Competencies with Definitions & Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n5\n"
+    },
+    {
+      "page_number": 48,
+      "character_count": 1119,
+      "word_count": 156,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "Outcome Orientation Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nInitiative & Drive\nGoal Setting \nAccountability\nCommitment \nto Quality\nDisplays a profound \ndrive to conduct oneself \nmeticulously, following \nprocesses, norms, and other \nguidelines as one makes \nimprovements by voluntarily \nand consciously putting \nforth the effort required by \na task or activity despite \ndifficulties, hardships, \nfailures, or obstacles.\nDisplays an underlying \ndesire to be thorough \nand accurate when \ndetermining clear, \nchallenging, & SMART \n(specific, measurable, \nachievable, relevant & \ntime-bound) objectives or \ntargets to guide actions \nas per set procedures, \nrules & guidelines.\nDemonstrates \nthe ability to take \nresponsibility and make \nteam accountable \nfor measurable, high-\nquality, timely, and \ncost-effective delivery. \nAccepts responsibility \nfor mistakes and takes \ninitiatives for correcting \nthem. \nFacilitates in building \na culture of delivering \nhigh quality outputs \nthrough consistent \nfocus on creating new \nbenchmarks in quality \nand maintaining it \nfor both internal and \nexternal stakeholders.\n"
+    },
+    {
+      "page_number": 49,
+      "character_count": 551,
+      "word_count": 81,
+      "image_count": 1,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "Collaboration\nDefinition\nWorking in tandem with others as an \nintegral unit, establishing partnerships and \ncooperative working relationships toward \nrealizing Division / Department / Ministry \ngoals. Proactively sharing relevant and \nuseful knowledge, experience, or expertise \nwith peers/team to strengthen knowledge \nbase. It also refers to leveraging diverse \nstrengths and contribution of every officer/\nstaff for timely and high-quality delivery.\nBehavioural Competencies with Definitions & Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n6\n"
+    },
+    {
+      "page_number": 50,
+      "character_count": 996,
+      "word_count": 127,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "Collaboration Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nRelationship Management \nKnowledge Sharing\nDiversity & Inclusion\nActively establishes connections, \nnurtures relationships, and capitalizes \non opportunities to identify intelligence \nand insights into existing or potential \nchallenges. Additionally, builds \npartnerships and public-private \ncollaborations to leverage expertise in the \nnational and global ecosystem, enhancing \nefficiency and promoting social inclusion \nfor pro-people governance.\nExchanges explicit and \nimplicit knowledge with \nstakeholders at the \ninter-, intra-, divisional, \ndepartmental, and \nministerial levels in \norder to improve output \nthat leverages multiple \nviewpoints.\nCreate an inclusive work \nenvironment that values and \nembraces diverse perspectives, \nbackgrounds, and experiences \nby actively promoting diversity, \nequity, and inclusion (DEI) within \nthe Ministry/Department/\nOrganization and integrating it into \nvarious aspects of working.\n"
+    },
+    {
+      "page_number": 51,
+      "character_count": 593,
+      "word_count": 87,
+      "image_count": 1,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "Service Orientation\nDefinition\nDemonstrates the ability to focus one’s efforts on \ndiscovering and meeting needs of stakeholder(s) \nby establishing a rapport, putting oneself into \nthe mindset of the stakeholder and facilitating \ndelivery of services that meet their underlying \nand unexpressed needs. Demonstrates the \nability to provide excellent service delivery while \ndeveloping and maintaining strong relationships \nwith citizens and balancing the government’s \nkey  strategic priorities.\nBehavioural Competencies with Definitions & Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n7\n"
+    },
+    {
+      "page_number": 52,
+      "character_count": 592,
+      "word_count": 90,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "Service Orientation Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nResponsiveness\nDemonstrate the ability  \nto respond respectfully \nand effectively and \nensure highest level of \ncare and satisfaction of \ncitizens.\nEmpathy\nAbility to understand and \nconnect with the emotions, \nperspectives, and feelings \nof others and take actions \nto support them through \nchallenging situations.\nService Excellence\nDemonstrating professional \nperseverance by focusing one’s \nefforts on meeting the set goals of \nthe government as well as needs \nof the citizen while maintaining \nquality of delivery.\n"
+    },
+    {
+      "page_number": 53,
+      "character_count": 587,
+      "word_count": 82,
+      "image_count": 1,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "Operational Excellence\nDefinition\nEstablishes plans, defines milestones, and allots \nresources for regularly producing high-quality, \ncost-effective results that are in accordance \nwith the department’s or ministry’s overall \nobjectives. Focuses on tasks that will increase \neffectiveness, efficiency, and production \nthrough planning, intentional effort, and control. \nDetermines goals, assigns tasks, and establishes \npriorities based on skill levels and the availability \nof resources.\nBehavioural Competencies with Definitions & Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n8\n"
+    },
+    {
+      "page_number": 54,
+      "character_count": 821,
+      "word_count": 113,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "Operational Excellence Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nProcess \nExcellence\nResource \nManagement\nContinuous \nImprovement\nPlanning & \nPrioritization\nAnalyse and implement \ngovernment processes \nand procedures to \nensure alignment to the \ndepartment’s strategic \nobjectives and ensure \nvalue to both internal and \nexternal stakeholders\nDemonstrate the \nability to effectively \nand efficiently \nallocate, utilize, and \noptimize various \nresources to \nachieve strategic \ngoals and objectives\nDemonstrate the \nability to deliver high-\nquality services through \nimprovement of existing \nprocesses, systems, \nand practices within \nthe sections, divisions or \ndepartments.\nDemonstrates the \nability to effectively \nmanage tasks \nand reorder \npriorities in order \nto make the most \nuse of available \nresources.\n"
+    },
+    {
+      "page_number": 55,
+      "character_count": 519,
+      "word_count": 71,
+      "image_count": 1,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "Creativity & Innovation\nDefinition\nChampions ‘out-of-the-box’ thinking, and \nsupports experimentation of new ideas, \nutilizing technological advancements \nwith the aim of transforming operations \nto enhance governance efficiency. \nSynthesizes insights and concepts \nfrom diverse disciplines to drive the \ndecision-making process, promote wider \nacceptance, and encourage cooperation \nto ensure successful implementation.\nBehavioural Competencies with Definitions & Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n9\n"
+    },
+    {
+      "page_number": 56,
+      "character_count": 806,
+      "word_count": 111,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "Creativity & Innovation Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nLateral Thinking\nTransformation Orientation\nDemonstrates awareness of key emerging \ntrends on a national and global scale. Utilizes \ncross functional knowledge to develop innovative \nstrategies and approaches to solving real-\nworld problems for the Ministry / Department. \nEnabling problem solving through consideration \nof broader perspectives and looking beyond \nstandard reasoning & conventional ideas.\nAbility to drive cultural, attitudinal, and \noperational transformation within a \nDepartment or Ministry is demonstrated \nby fostering innovative thinking that \nutilizes emerging technological and digital \nadvances, while also mitigating potential \nrisks and capitalizing on opportunities to \nenhance governance efficiency.\n"
+    },
+    {
+      "page_number": 57,
+      "character_count": 619,
+      "word_count": 89,
+      "image_count": 1,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "Strategic Leadership\nDefinition\nAbility to foresee future challenges and identify \nopportunities by discerning the operating \nenvironment holistically and being cognizant of \nemerging dynamics and trends globally, locally, \nand internally. Creates and communicates a vision \nof success, coupled with a progressive outlook \nand aligning strategic goals with operational plans \nto achieve the vision. Exhibits prudence, credibility \nand authority for shaping strategic direction to \nachieve Department/ Ministry mandates.\nBehavioural Competencies with Definitions & Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n10\n"
+    },
+    {
+      "page_number": 58,
+      "character_count": 1536,
+      "word_count": 207,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "Strategic Leadership Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nGlobal Mindset\nForward Thinking\nExecutive Presence\nSustainable Mindset \nDemonstrates the ability \nto enhance Departmental \nprocesses aligned to global \nstandards by staying well-\nversed with the evolving \ndynamics at the global level, \nincluding those related to \ngeo-politics, economics, \nsociety, and technology. \nUnderstands and keeps up-\nto-date on international \npolicies and trends that affect \nthe organization and shape \nstakeholders’ views.\nDemonstrates the ability to \ncomprehend the internal \nand external environmental \ndynamics and their effect \non both the short-term goals \nand long-term mandates of \nthe Department/ Ministry/ \nOrganization. This entails \nachieving a strategic balance \nwith multiple stakeholders \non sensitive issues while \nmaintaining a clear focus on \nthe mandate of the future for \npro-people governance.\nExhibits a blend of \nprofessional charismatic \npersona that exudes \ncalmness, composure, \nconfidence, effective \ncommunication, and \ncommanding presence in \nthe room while engaging \nin inter-Ministerial, National \nand Global forums \nintending to promote \nGovernment Programmes, \nSchemes and Strategies.\nAdopting a mindset of \nimplementing rigorous \nand comprehensive \nhuman, financial, and \nenvironmental resource \naccountability systems \nto ensure that resources \nare managed effectively \nand with integrity, \nand that these are \ncarefully considered in \nthe development and \nimplementation of all \npolicies and programs \n"
+    },
+    {
+      "page_number": 59,
+      "character_count": 705,
+      "word_count": 90,
+      "image_count": 1,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "Collaborative Leadership\nDefinition\nDemonstrates the ability to seek and establish alliances, \ncollaborations, and partnerships with stakeholders, both \ninternal and external, such as inter- and intra-Department \n/Ministerial officers, corporations, institutions, influencers, \ntrusted advisors, and citizens. This includes creating a \nprogressive roadmap for multifaceted development \naligned with Atma Nirbhar Bharat. Shows expertise in \nmanoeuvring diplomatic deliberations, persuading, \nconverging divergent views and interests, reconciling \nconflicts, and facilitating mutually beneficial agreements.\nBehavioural Competencies with Definitions & Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n11\n"
+    },
+    {
+      "page_number": 60,
+      "character_count": 713,
+      "word_count": 102,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "Collaborative Leadership Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nInfluencing & Negotiation\nConflict Management\nDemonstrates a high level of proficiency \nin shaping the stance and perspectives \nof stakeholders into acceptance of the \nproposed approach for the benefit of the \ncitizens. Engage in discussions with partners \nand stakeholders and achieve a mutually \nagreeable and appropriate consensus.\nDemonstrates the capability to recognize \ndisparities or conflicts that arise from varying \nopinions, objectives, and interests among \ndifferent stakeholders, and effectively manages \nsuch situations in a rational, equitable, and \nefficient manner while strictly adhering to \ncompliance requirements.\n"
+    },
+    {
+      "page_number": 61,
+      "character_count": 523,
+      "word_count": 76,
+      "image_count": 1,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "Team Leadership\nDefinition\nFosters a positive work environment \nby actively engaging with the team, \nenabling their growth and enhancing their \nproficiency. This involves identifying and \ncreating opportunities to enhance officers’ \nskills and competencies through timely \nfeedback, guidance, and mentoring. \nAdditionally, promoting a culture of trust, \nopenness, appreciation, recognition, \nparity, and leading by example.\nBehavioural Competencies with Definitions & Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n12\n"
+    },
+    {
+      "page_number": 62,
+      "character_count": 1097,
+      "word_count": 153,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "Team Leadership Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nMentoring\nInspiring Others\nSharing Constructive \nFeedback\nDemonstrates the capability \nto foster team development \nby creating a supportive \nenvironment and dedicating \nefforts to patiently train, provide \nopportunities, instil discipline \nand commitment, and offer \ntimely monitoring and guidance \nto enhance their functional \nefficiency and professional agility\nDemonstrates the characteristics and traits of \nKarmayogis, including fulfilling commitments \non every task, recognizing, appreciating, and \nencouraging each team member, stakeholder, \nand partner, and staying true to the principles \nof good governance and encourages others \nin inculcating them. Displaying a high level of \nemotional intelligence and being alert, careful, \norganized, and diligent for setting the right \nexample for the team.\nProvides timely feedback \nin a helpful, supportive, \nand constructive manner \nto others in a way that \npromotes their personal \nand professional growth \nwhile maintaining a \npositive and respectful \nworking relationship.\n"
+    },
+    {
+      "page_number": 63,
+      "character_count": 567,
+      "word_count": 94,
+      "image_count": 1,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "Decision Making\nDefinition\nPossess the ability to analyse facts, \nreports, policies, precedents, constraints, \nrisks, and conflicting points of view in a \ncomprehensive and logical manner to gain \na holistic perspective and arrive at a timely-\ndecision. It involves weighing the pros and \ncons of various options to arrive at the best \npossible decision that would lead to the \nwelfare of citizens and contribute towards \nattainment of Aatma Nirbhar & Viksit Bharat. \nBehavioural Competencies with Definitions & Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n13\n"
+    },
+    {
+      "page_number": 64,
+      "character_count": 483,
+      "word_count": 72,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "Decision Making Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nLogical Reasoning\nSound Judgement\nObjectively analyse, evaluate, and \ninterpret information and arguments \nin a logical and systematic manner in \norder to arrive at conclusions. \nAbility to make well-informed, rational, and \nbalanced decisions based on a thorough \nanalysis of available information, careful \nconsideration of potential consequences, \nand alignment with ethical principles and \norganizational goals\n"
+    },
+    {
+      "page_number": 65,
+      "character_count": 67,
+      "word_count": 18,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "Functional  \nCompetencies\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n"
+    },
+    {
+      "page_number": 66,
+      "character_count": 914,
+      "word_count": 119,
+      "image_count": 1,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "Citizen Centricity\nDefinition\nEnsures citizens’ welfare and citizens’ satisfaction, by improving \nthe standards of accountable and transparent governance, \nimplementing result-oriented administration through innovative \ninterventions based on design thinking, and enhancing citizen-\ncentric decision-making. Implements Open Government \npolicies and practices, which include collaborating and \nforming partnerships with informed citizens, leveraging social \ncapital, and promoting participative public service delivery by \nensuring freedom and ease of access to information. Establish \nan efficient framework that ensures timely and transparent \ndelivery of services by various government departments through \nawareness of various social, political, economic and technological \ndevelopments that may impact citizens. \nFunctional Competencies with Definitions & Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n1\n"
+    },
+    {
+      "page_number": 67,
+      "character_count": 1500,
+      "word_count": 199,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "Citizen Centricity Sub-Themes\nDesign Thinking\nCitizen Partnering & \nCollaboration\nPolitical, Economic, \nSocial, Technological \nConsciousness\nDemonstrates ability to decode \nintertwined administrative \nsystems, understand dynamic and \nmultifaceted situations, based on \nsolid foundation of study of need \n& demand of target population. \nApproaches problems with an \nempathic, “beginner’s mind”, \nopenness,  & optimism for creative \nand human cantered solutions. \nFollows systematic and conscious \napproach to public service delivery \nthat involves being open and impartial \nto the perspectives, grievances, and \nrecommendations of service users \nand stakeholders, especially those \nfrom diverse social groups. \nDemonstrates proficiency in mediating and \nengaging with various segments and groups \nof society to establish a common ground \non issues and actions that benefit the entire \ncommunity. Display “Good Governance” by \naiming to  enhance effectiveness, efficiency, \nand accountability through a consensus-\nbased approach that emphasizes equity, \ninclusivity, and active participation, resulting \nin increased public satisfaction at lower costs.\nMaintains awareness of the national \npolitical leadership’s vision for the \ncountry, as well as its strategic \ncommunications and collaborations \nwith various national and global entities \nrevolving around the economic, social or \ntechnological domains, in relation to the \nDepartment/Ministry/Organization.\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n"
+    },
+    {
+      "page_number": 68,
+      "character_count": 769,
+      "word_count": 117,
+      "image_count": 1,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "Policy Architecture\nDefinition\nDemonstrates the capacity to detect gaps and \nimprovement needs in existing policies in order to \ntranslate policy concepts into policy formulation for \naddressing existing and emerging needs of the citizens. \nConducts thorough study and analysis of best practises \nat State, National, or Global levels, takes use of modern \ninnovation and the most recent advancements in the \nsocial, economic, technological, and legal spheres while \ncreating & implementing policies. Focuses on monitoring \nthe application of policy and evaluating its impact and \nefficacy using a variety of instruments for responsible, \nopen, and sustainable governance.\nFunctional Competencies with Definitions & Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n2\n"
+    },
+    {
+      "page_number": 69,
+      "character_count": 1253,
+      "word_count": 173,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nPolicy Architecture Sub-Themes\nResearch & \nNeeds Analysis \nPolicy Design\n/Amendment\nPolicy \nImplementation\nPolicy Monitoring & \nImpact Assessment\nDemonstrates the ability to undertake \nprimary and secondary research on a \nvariety of aspects. Analyses and assesses a \nrange of data points and reports produced \nby or obtained from a spectrum of sources \n(including but not limited to the subject of \ncomplaints, proposals by stakeholders, a \nrange of appropriate indices, reports by \ngovernmental/non-governmental agencies, \nand gaps indicated in the course of \ninterpretation and/or implementation).\nDemonstrates the \nability to draft or amend \ngovernment policies \nfor delivering citizen \ncentric civil service \nbasis feasibility analysis \nand risk assessment \nof various policy \nalternatives.\nEstablishes and \nimplements appropriate \nprocedures to facilitate the \nimplementation of central \npolicies within the context \nof good governance, \nsuch as government \nprogrammes, schemes, \nmissions, initiatives, etc.\nCreates and implements \neffective and practical \nmonitoring & evaluation \nframework for assessing \nimpact of policy \nimplementation for \nmaximizing the impact \nand benefits for target \nstakeholders.\n"
+    },
+    {
+      "page_number": 70,
+      "character_count": 760,
+      "word_count": 114,
+      "image_count": 1,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "Cabinet Note Preparation\nDefinition\nDemonstrates comprehension of the significance of \nCabinet Notes in policymaking, where the Cabinet and \nits committees make vital decisions that are crucial \nfor efficient governance. This includes the ability to \nprepare Cabinet Notes that address various national \nand international matters affecting different areas \nof governance and present them to the Cabinet for \nconsideration and decision-making. Therefore, a deep \nunderstanding of the AoB Rules, 1961 & ToB Rules, 1961 \nis essential, along with exceptional skills in preparing \ncomprehensive Cabinet Notes that provide pertinent \ndetails and the right perspective.\nFunctional Competencies with Definitions & Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n3\n"
+    },
+    {
+      "page_number": 71,
+      "character_count": 1272,
+      "word_count": 192,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nCabinet Note Preparation Sub-Themes\nRules of Business\nCabinet Note Writing\nDemonstrates a high level of proficiency in conducting the official business \nof the Government of India, as specified in the first schedule of the Allocation \nof Business Rules (AoB), 1961, which define the Ministries, Departments, \nSecretariats, and offices where the government business is transacted and \noutline the distribution of subjects among various departments, as specified \nin the second schedule of the rules. Demonstrates comprehension of the \nTransaction of Business (ToB) Rules, 1961, which outline the procedures for \nhandling the business of the Government of India, including consultation \nwith other departments and submission of cases to the Prime Minister, \nCabinet and its Committees, and the President. \nEnsures adherence to the procedures for \npreparing and submitting papers to be considered \nby the Cabinet, Cabinet Committees, and \nCommittee of Secretaries (CoS) Notes, including \nthe use of the prescribed format, inclusion of all \nnecessary elements, and appropriate presentation \nof the Cabinet Note. Capable of grading the Notes \nand taking into account any special circumstances \nwhile being aware of common deficiencies.\n"
+    },
+    {
+      "page_number": 72,
+      "character_count": 800,
+      "word_count": 107,
+      "image_count": 1,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "Govt Program Formulation\nDefinition\nDemonstrates knowledge and ability to identify, define, \nplan, develop, deliver & monitor government programs, \nschemes to realize the agreed benefits for the citizens \nwithin prescribed timeframe. Oversees and coordinates \na group of related projects within a government \nprogram to achieve specific benefits and maintain \ncontrol. Demonstrates the ability in Program Selection, \nProgram Planning, Program/ Project Transitions, Program \nImplementation, Strategic Program Management, \nProgram Progress Monitoring and Review, Program \nAnalysis, Program Financing, Program/ Project Change \nManagement, Benefits Management, Stakeholder \nRelationships and Collaboration.\nFunctional Competencies with Definitions & Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n4\n"
+    },
+    {
+      "page_number": 73,
+      "character_count": 1286,
+      "word_count": 177,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nGovt Program Formulation Sub-Themes\nResearch & \nNeeds Analysis\nScheme / \nProgram Design\nFeasibility and \nRisk Assessment\nImplementation \n& Outreach\nAnalyses relevant \nreports, surveys, \npapers etc. to identify \nthe needs, the \nbeneficiaries, returns \nor strategic benefits \nto the citizens and \nNation at large (both in \ntangible and intangible \nterms).\nDemonstrates the ability to \ndesign central government \nschemes and draft contours of \nprograms (constituent projects), \npreparation of necessary contract \ndocuments for procurement of \nMaterials, Equipment and Services, \nindigenous & imported in line \nwith the policies and schemes \nfor development of the intended \nstakeholders .\nPrepares and analyses feasibility \nstudy reports (FR), Detailed Project \nReports (DPR), Environmental \nImpact Assessment (EIA) & \nEnvironmental Management \nPlan (EMP) Reports to identify \npotential risks (Governance Risks, \nStatutory Risks, Contractual Risks, \nOperational Risks, Financial Risks, \nSocio-economic Risks, Geopolitical \nRisks) and proposes suitable \nsolutions for their mitigation.\nEmphasizes the use of \nappropriate methods for \nexecution of government \nprograms to ensure \nachievement of intended \noutcomes and impact to the \ntarget audience.\n"
+    },
+    {
+      "page_number": 74,
+      "character_count": 668,
+      "word_count": 92,
+      "image_count": 1,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "Project Management\nDefinition\nDemonstrates ability to plan phases/stages \nand identify key activities, dependencies, and \nmilestones for driving projects. Utilizes & creates \nvarious standard framework / mechanisms to \ndetermine project mode, vendor selection & \nengagement, implementation, communication, \nknowledge transition, and risk mitigation.  \nEvaluates progress against KPIs and ensures \nadherence to relevant guidelines & policies \netc. for ensuring optimization of resource \nutilization,and driving realization of intended \nbenefit for the intended audience. \nFunctional Competencies with Definitions & Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n5\n"
+    },
+    {
+      "page_number": 75,
+      "character_count": 2192,
+      "word_count": 262,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nProject Management Sub-Themes\nProject \nPlanning\nProject \nImplementation\nProject \nEvaluation\nProject KPIs \nMonitoring\nDefine various aspects of \nproject including creating \nproposal, defining \nobjectives, deliverables, \ntimelines, intended \nbenefits, mode of project \n(PPP, BOOT etc.), costing, \nfunding schedule, \ntechnology, and process \nfor selecting consultants, \nprocurement, \nadvisors, stakeholder \nmanagement \nframework, reporting, \nmonitoring, assessment, \nknowledge management \nmechanism etc.\nDriving \nimplementation \nof projects \nby leveraging \npartnerships with \npublic community/ \nprivate sector \netc and ensuring \nadherence to the \nschedule, procedural \nCodes & Manuals \nrelevant to the \nsector/project and \nany related policies, \nguidelines, and \nstandards. \nEvaluate project progress with respect \nto contractual obligations and various \nparameters like, governance, communication \nmanagement, standardization, Crisis \nManagement Plan, Project Risk Management, \nIntegrated Risk Management, HSE Bottom \nLine, DCMA 14-point Schedule Health Check, \nfund release & utilization,  Sustainability \n(like, Biodegradable, Carbon footprint, \nDematerialization, Design for the Environment \n(DfE), Environmentally preferable products \n(EPP), Life-Cycle Assessment (LCA) etc.), \nGovernance Risks, Statutory Risks, Contractual \nRisks, Operational Risks, Social Bottom Line \netc. Proposes necessary adjustments to \nimplementation timelines, utilizing efficient and \neconomical methods to accelerate progress.\nSelects  and implements the effective \nproject monitoring tools suiting \ncontract /project requirements. \nEstablishes Key Performance Indicators \n(like, Safety KPIs. Schedule KPIs, Cost \nKPIs, Procurement/ Contract KPI, \nQuality KPIs) and sets up reporting, \nmonitoring, assessment mechanism, \ndashboards etc. until project \ncompletion, final validation, litigation, \nand financial close-outs. Ensures \ncontinuous monitoring of alignment \nwith the baseline requirement of \nproject design/ scope with respect to \nexecution and identifies the deviation. \nApplies technology for capturing real \ntime information/data, performing \ndata analytics. \n"
+    },
+    {
+      "page_number": 76,
+      "character_count": 812,
+      "word_count": 121,
+      "image_count": 1,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "Public Procurement (GFR)\nDefinition\nDemonstrates the ability to procure goods, services, or \nworks using GeM (Government eMarketplace, National \nPublic Procurement Portal) and other electronic portals, \ndirectly or through empanelled agencies, whether by \nway of purchase, lease, licence, or another method \nbased on fundamental principles of transparency, \nfairness, competition, economy, efficiency, and \naccountability with respect to procurement.  Ensures \njudicious use of public funds or any other source of \nfunds (such as grants, loans, donations, or private \ninvestment), in accordance with GFR 2017, DFPR, 1978 \n(DFPR Rule 21, 21(a), 21(b), Manual of Procurement 2022 \nand their amendments, AOB, TOB, ToR\nFunctional Competencies with Definitions & Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n6\n"
+    },
+    {
+      "page_number": 77,
+      "character_count": 2069,
+      "word_count": 284,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nPublic Procurement (GFR) Sub-Themes\nProcurement \nmanagement \nthrough GeM\nProcurement of \nGoods / Services / \nWorks\nContract \nManagement\nVendor / \nConsultant \nManagement\nDemonstrates practical \nknowledge and \nability in leveraging \nGeM (Government \neMarketplace) as per \nRule 149 of GFR, 2017 for \nprocurement of common \nuse goods, services and \nuses its tools of e-bidding, \nreverse e-auction, and \ndemand aggregation, \nGuideline on Government \neMarketplace (GeM) for \nall procurement needs of \nthe Ministry / Department \n/ Organization.\nDemonstrates practical \nknowledge in the effective \nand timely procurement of \ngoods / services / works  for \nthe department, by following \nthe Rules & Regulations, Policies \n& Principles, and procedures in \naccordance with the “Manual \non Procurement of Goods \n2017” “Manual for Procurement \nof Services, 2022”, General \nFinancial Rules (GFR) 2017 and \nits amendments, and the \nDFPR (Indents, Contracts and \nPurchases for public service) \nguidelines.\nOversee and execute contractual \nagreements, characterized by \npractical expertise in various facets \nof the contracting process. Has \nthe ability to conducting contract \nscoping, formulating well-defined \nTerms & Conditions, considering \nattached commercial nuances and \nlegal aspects, and implementing \npractices for risk mitigation in pursuit \nof the Public Good. Leverages domain \nknowledge to evaluate technical \nproficiency, skilfully negotiate \ncontracts, and select the most \nsuitable vendor, guided by principles \nsuch as transparency, fairness, \ncompetition, economy, efficiency, \nand accountability.\nDemonstrates the ability \nto identify suitable vendors \nthrough established processes \n(e.g., GeM) by adhering \nto Ministry/Departmental \nguidelines, the “Manual for \nProcurement of Consultancy \nand other Services 2022,” and \nthe “Manual on Procurement \nof Works 2022” for the \neffective procurement of \ngoods and services. Ensuring \nthat agreements are \nproperly executed before \ncommencement of all services \nby the vendors.\n"
+    },
+    {
+      "page_number": 78,
+      "character_count": 611,
+      "word_count": 95,
+      "image_count": 1,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "Material Management (GFR)\nDefinition\nDemonstrates ability to maintain accurate \nrecords of goods and materials in the Ministry \n/ Department / Organization. Ensures proper \ncustody of delivered items, conducts physical \nverification of assets, and identifies surplus and \nobsolete materials. Determines appropriate \ncategories and modes of disposal for goods, \nsuch as auction or e-auction, in compliance \nwith GFR, DFPR 1978, and Manual for Procurement \nof Goods 2017, to minimize losses due to various \nreasons.\nFunctional Competencies with Definitions & Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n7\n"
+    },
+    {
+      "page_number": 79,
+      "character_count": 719,
+      "word_count": 106,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nMaterial Management (GFR) Sub-Themes\nInventory Management\nMaintenance and Disposal of \nmaterials\nManage assets and inventories in central \ngovernment offices including issuing, handling \nreceipts implementation of verification / \ninspection procedures ensuring control \nof movement of goods in the Ministry / \nDepartment / Organization in accordance \nwith established guidelines and procedures.\nOversees and conducts accurate physical \nverification of materials, valuation of \nmaterial, analysis of losses etc., and \naccordingly take required actions for \ndisposal of assets, as per laid down \nprocesses/ guidelines in GFR 2017, Manual of \nProcurement of Goods, 2017, DFPR etc.\n"
+    },
+    {
+      "page_number": 80,
+      "character_count": 957,
+      "word_count": 134,
+      "image_count": 1,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "Monitoring & Evaluation\nDefinition\nDemonstrates the ability to develop monitoring and evaluation \nframework for tracking implementation of central government \npolicies, schemes, and projects for the Department/ Ministry/ \nOrganization. Identifies right set of data, information, and relevant \nparameters to evaluate. Undertakes qualitative and quantitative \nassessments to determine the progress of a government policy, \nschemes and project towards pre-specified goals and objectives, \nand to highlight any alarming gap that may hamper the slated \noutcomes & outputs. Facilitates in making informed decisions and \nadjustments to improve policy effectiveness, ensuring policies lead \nto desired outcomes and benefits. Identify successes, challenges, \nand lessons learned to enhance future policymaking and \nimplementation processes for the Government of India.\nFunctional Competencies with Definitions & Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n8\n"
+    },
+    {
+      "page_number": 81,
+      "character_count": 552,
+      "word_count": 87,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nMonitoring & Evaluation Sub-Themes\nCreation of M&E \nFramework\nEvaluation and output /\noutcome\nDemonstrates the ability to collect \nand collate data based on defined \nM&E framework and conduct analysis \nto outline the performance of \ngovernment programs in accordance \nwith defined objectives and outcomes.\nConducts assessment based on \nthe data to identify strengths and \nshortfalls in intended outcomes \nand formulates remedial actions to \ncorrect deficiencies in delivery of \nschemes and government programs.\n"
+    },
+    {
+      "page_number": 82,
+      "character_count": 638,
+      "word_count": 93,
+      "image_count": 1,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "Financial Management\nDefinition\nFormulates budget and expenditure plans \naligned to the objectives and budget allocation \nof the Ministry / Department / Organization, in \naccordance with the rules and guidelines of the \nMinistry of Finance, while also forecasting future \nexpenditures. Manages and monitors the Division/ \nDepartment’s budget, accounts & expenditure, \nwhile promoting financial prudence within the \nDepartment to enhance its overall efficiencies. \nDevelops proficiency in handling PFMS (Public \nFinancial Management System).\nFunctional Competencies with Definitions & Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n9\n"
+    },
+    {
+      "page_number": 83,
+      "character_count": 1287,
+      "word_count": 176,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nFinancial Management Sub-Themes\nBudget Formulation \n& Implementation\nPFMS Portal \nManagement\nExpenditure \nManagement\nGovernment \nAccounts\nDemonstrates the ability to \nforecast and prepare budget \nfor Division / Department / \nMinistry / Organization, for \nspecified period, aligned to \nthe guidelines and standards \nformulated by Ministry of \nFinance.\nUtilizes the Public Financial \nManagement System (PFMS) to \nenrol implementing agencies \nand recipients, analyse various \nadministrative reports (e.g., \noperational, performance, daily \ntransaction reports), perform \naccounting, reconciliation, and \naudit trail, and monitor expenses, \nprograms, and grants relevant \nto the Ministry / Department / \nOrganization.\nDemonstrates the ability \nto adopt internal control \nmechanisms for efficient & \neffective financial operations \nas well as identify potential \nthreats & opportunities for \nthe Ministry / Department / \nOrganization.\nPrepares and presents accounts \nas per Government Accounting \nRules, 1990; Accounting Rules for \nTreasuries; and Account Code \nVolume III and classify transactions \nin Government Accounts. Ensures \nthat budget heads adhere to \nthe classification rules and other \nguidelines of GFR 2017 and its \nrelevant amendments.\n"
+    },
+    {
+      "page_number": 84,
+      "character_count": 447,
+      "word_count": 64,
+      "image_count": 1,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "Digital Fluency\nDefinition\nUnderstands, identifies, implements, \nand utilizes digital tools for accurate, \nspeedy, and effective delivery for \nsuperior visualization and decision \nmaking at different levels of the \norganization. Leverages digital \ntechnologies and platforms to \ncollaborate effectively and efficiently \nwith multiple stakeholders. \nFunctional Competencies with Definitions & Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n10\n"
+    },
+    {
+      "page_number": 85,
+      "character_count": 1017,
+      "word_count": 130,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nDigital Fluency Sub-Themes\nDigital Tools (MS office, \nExcel & PPT) and Platforms\nDigital \nService Design\nUtilizes digital tools, systems, platforms, \nMicrosoft Office, and software for \npromoting e-Governance both inter- and \nintra-departmentally within the Ministry’s \necosystem. Demonstrates vigilance in \nsafeguarding data and sensitive information \nfrom potential risks and unauthorized access, \nincluding inspection, modification, recording, \ndisruption, or destruction by internal or external \nindividuals/agencies.\nDevelops and executes services with a citizen-\ncentric approach, leveraging efficient and \neffective touchpoints, involving end-users in \niterative development, assessment, and utilizing \ndigital technologies for periodic enhancements \nbased on feedback and learnings. Proactively \nmanages change by mitigating risks \nassociated with digital technology, navigating \nbarriers in digital transformation, and ensuring \nsustainability within the government. \n"
+    },
+    {
+      "page_number": 86,
+      "character_count": 646,
+      "word_count": 93,
+      "image_count": 1,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "Data Analytics\nDefinition\nCollects, compiles, and assesses data, information, \nand knowledge resources in appropriate formats \nto enable interpretation and analysis for evidence-\nbased decision-making. Scrutinizes data and reports \nwith a keen eye for detail, evaluates their accuracy, \nrelevance, trends, and anomalies, extracts insights, \nand contextualizes and critically analyses key points \nto develop data-driven strategic proposals and \ndecisions while being mindful of prescribed rules & \nprocesses of data-handling within the government. \nFunctional Competencies with Definitions & Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n11\n"
+    },
+    {
+      "page_number": 87,
+      "character_count": 1227,
+      "word_count": 165,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nData Analytics Sub-Themes\nData Management \n(Clean-up, \nsegregation, \nprocessing)\nData Analysis & \nVisualization \nData-led Decision \nMaking\nData Use & \nGovernance\nDemonstrates the ability to \ncollect and organize data, \nensure data quality through \ndata cleansing, protect data, \nstore it, and transform it \ninto usable and appropriate \nformats for warehousing, \nanalyzing, and decision-\nmaking purposes.\nRepresents data \nthrough use of \ncommon graphics, \nsuch as charts, \nplots, infographics, \nand even \nanimations for \neffective decision \nmaking through \nidentification of \npatterns, trends, \nand correlations.\nUtilizes data analytics \nto extract insights, \npresent compelling \nperspectives, and make \nstrategic decisions for \nthe efficient disposal \nof business, improved \ncitizen experience, and \nstreamlining operations \nto fulfil the Department’s \nmandate.\nUtilizes data based on \nprescribed rules, processes, \nand role delegations. Drives \nimplementation of rules, policies, \nand procedures around data \nmanagement to ensure its \naccuracy, consistency, security, \nand legality through focus on \ndata protection, data privacy, \ndata quality management, and \nregulatory compliance.\n"
+    },
+    {
+      "page_number": 88,
+      "character_count": 999,
+      "word_count": 136,
+      "image_count": 1,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "Establishment & HR\nDefinition\nDemonstrates expertise in managing various processes and \nprocedures related to establishment and human resource \nmanagement, including manpower planning for efficient and \noptimal staffing, as well as managing service and personnel \nmatters such as holding DPCs, managing promotions, \npay fixation, allowances, transfers, postings, deputations, \nresignations, retirement, pension papers, employee \ngrievances, reservations for various cadres, grades, and \ngroups of services, and preventing sexual harassment within \nthe Department or Ministry. Recognizes the accountability \nto provide prompt, accurate, and concise responses to \nemployee queries by referring comprehensively to various \nFRSR, related rules, acts, policies, executive orders, etc., to \nsatisfy government employees and mitigate factors that \ncould lead to grievances or administrative tribunal cases. \nFunctional Competencies with Definitions & Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n12\n"
+    },
+    {
+      "page_number": 89,
+      "character_count": 2646,
+      "word_count": 324,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n Establishment & HR Sub-Themes\nEstablishment \nMatters \nFundamental \nRules / \nSupplementary \nRules (FRSR)\nReservations\nPrevention \nof Sexual \nHarassment \nPolicy\nPerformance \nAppraisal\nDemonstrates excellence  in handling \nestablishment matters through \nunderstanding extent and applicability \nof relevant rules, regulations, policies, \nfor various establishment matters like \nholding  DPCs (Departmental Promotion \nCommittee), promotions, pay –fixation, \ntransfer, posting, deputation, resignation, \nretirement, pension papers, employee \ngrievances etc. to mitigate any potential \ngrievance /complaints rising due to \ndissatisfaction of employees / staff. \nInvolves setting new benchmarks and \nincentivizing exceptional performance of \nthe employees. Conducts timely assessing \ncurrent and future manpower needs, such \nas officers, supporting staff, and MTS, in the \nMinistry/Department. Manages employee \ngrievances, providing prompt, clear, \nconcise, and fact/rule-based responses to \nminimize administrative tribunal cases. \nDemonstrates \nunderstanding of the \nextent and application \nof Fundamental Rules \nand Supplementary \nRules, including \ntheir definitions, \nrelevance, and \nrelation to other rules, \nguiding principles, \ngeneral conditions \nof service, joining \nprocedures, transfers, \npay, allowances, \ndelegations, pension, \nand associated O.M.s. \nDemonstrates ability to \nmanage appointments and \npromotions through various \nmodes, as well as providing \napplicable relaxations \nor concessions in fees, in \naccordance with extant \ninstructions for reservations \nprovided to Scheduled \nCastes (SCs), Scheduled \nTribes (STs), Other Backward \nClasses (OBCs), Persons with \nDisabilities, Ex-servicemen \n(re-employment in central \nservices and posts), \nEconomically Weaker \nSections (EWSs), and \nexemptions, as amended \nfrom time to time, within \nthe Ministry / Department / \nOrganization.\nDemonstrates \nunderstanding and \nknowledge of the \nclauses, processes, and \nprocedures outlined in \nThe Sexual Harassment \nof Women at Workplace \n(Prevention, Prohibition \nand Redressal) Act, \n2013. Takes appropriate \nmeasures to address any \nviolation of the policy for \npromoting a respectful \nand inclusive work \nenvironment.\nEnsure Internal Complaints \nCommittee formulation.\nDemonstrates \nunderstanding \nof Annual \nPerformance \nAssessment Report \nprocess for each \nGovernment \nemployee, for \nenabling evaluation \nof performance \nand determining \ntheir suitability for \ncareer progression \nopportunities such \nas confirmation, \npromotion, selection \nfor deputation, or \nselection for foreign \nassignments.\n"
+    },
+    {
+      "page_number": 90,
+      "character_count": 956,
+      "word_count": 132,
+      "image_count": 1,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "Office Management\nDefinition\nAdministration and enforcement of compliance in \naccordance with the most recent “Central Secretariat Manual \nof Office Procedures” (CSMOP) to ensure that the Section, \nDivision, or Department operates effectively and efficiently. \nUnderstands the issues and analyses precedence, facts, ruling \nposition etc., and records remarks and proposes actions for \nenabling competent authority to review and make decisions \nfor timely disposal. Concisely drafts written correspondence \nsuch as O.M., memos, notices, reports, letters, e-mails etc. to \nbe issued on approval of competent authority. Articulates \nall kinds of communications towards administration, policy \nadministration, implementation, advisory, reporting, proposal \nwriting and any other documentation towards handling \ndepartmental matter with focus on good governance.\nFunctional Competencies with Definitions & Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n13\n"
+    },
+    {
+      "page_number": 91,
+      "character_count": 1791,
+      "word_count": 239,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nOffice Management Sub-Themes\nE-Office\nFile/DAK \nManagement\nOffice \nProcedures\nNoting & Drafting \nof official \nCommunications\nTechnical \nProposal / \nReport writing\nUtilizes the digital \nworkplace \ndesigned to \nenable simplified, \nresponsive, \neffective, and \ntransparent \nworking of all \ngovernment \noffices, promotes \ncollaboration, \nand facilitates \neffective \nknowledge \nsharing in the \necosystem.\nMaintains files, \norganises & tracks file \nmovement, arranges \nimportant papers, \nadds references, \nand handles records \nin a way that is \nappropriate for \nthe department to \nfacilitate day-to-day \nbusiness disposal.\nUnderstands the Organizational \nStructure of Government of India, \nincluding the roles and responsibilities \nof its functionaries and functions, as \nwell as the decision-making process. \nAdditionally, proficiency in file \nmanagement, records management, \nknowledge management, noting and \ndrafting, case disposition, handling \ngrievances and VIP references, \naddressing Parliament assurances, \nmanaging court cases and pending \nmatters, ensuring the security of \nofficial documents and information, \ne-Office digitization, and conducting \nperiodic inspections.\nPrepares the brief essence \nof a proposal or a paper \nunder consideration with \ncorrect facts, statistics, and \nruling position, etc., in the file \nto make an important final \ndecision by a government \nofficer on the file. Ability to \nprepare rough draft of an \nofficial communication to be \nissued after approval by the \nofficer concerned.\nCreates reports / \nproposals clearly \nstating objective, \nneed, supporting \nfacts, various \nparameters, \nobservations, \nconclusions, and \nrecommendations \ndepending on the \nrequirement of the \nDepartment / Ministry \n/ Mission etc.\n"
+    },
+    {
+      "page_number": 92,
+      "character_count": 969,
+      "word_count": 133,
+      "image_count": 1,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "Handling Parliamentary Matters\nDefinition\nAdministration and enforcement of compliance in \naccordance with the most recent “Central Secretariat Manual \nof Office Procedures” (CSMOP) to ensure that the Section, \nDivision, or Department operates effectively and efficiently. \nUnderstands the issues and analyses precedence, facts, ruling \nposition etc., and records remarks and proposes actions for \nenabling competent authority to review and make decisions \nfor timely disposal. Concisely drafts written correspondence \nsuch as O.M., memos, notices, reports, letters, e-mails etc. to \nbe issued on approval of competent authority. Articulates \nall kinds of communications towards administration, policy \nadministration, implementation, advisory, reporting, proposal \nwriting and any other documentation towards handling \ndepartmental matter with focus on good governance.\nFunctional Competencies with Definitions & Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n14\n"
+    },
+    {
+      "page_number": 93,
+      "character_count": 606,
+      "word_count": 83,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nHandling Parliamentary Matters Sub-Themes\nSubmission of briefs, supply \nof information\nMaintaining records of \nparliamentary matters\nDemonstrates the ability to prepare \nresponses to parliamentary \nquestions for the Minister through \nsuitable data analysis, coordination, \nand articulation of responses to \nparliamentary questions.\nDemonstrates the ability to ensure \nmaintenance of departmental records \nof parliamentary proceedings for ready \nreference including questions, discussions, \nnotices etc. in accordance with the \nestablished guidelines and standards.\n"
+    },
+    {
+      "page_number": 94,
+      "character_count": 959,
+      "word_count": 133,
+      "image_count": 1,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "Handling RTI Matters\nDefinition\nAdministration and enforcement of compliance in \naccordance with the most recent “Central Secretariat Manual \nof Office Procedures” (CSMOP) to ensure that the Section, \nDivision, or Department operates effectively and efficiently. \nUnderstands the issues and analyses precedence, facts, ruling \nposition etc., and records remarks and proposes actions for \nenabling competent authority to review and make decisions \nfor timely disposal. Concisely drafts written correspondence \nsuch as O.M., memos, notices, reports, letters, e-mails etc. to \nbe issued on approval of competent authority. Articulates \nall kinds of communications towards administration, policy \nadministration, implementation, advisory, reporting, proposal \nwriting and any other documentation towards handling \ndepartmental matter with focus on good governance.\nFunctional Competencies with Definitions & Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n15\n"
+    },
+    {
+      "page_number": 95,
+      "character_count": 481,
+      "word_count": 72,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n Handling RTI Matters Sub-Themes\nRTI Responsiveness\nRTI Records and Report \nmanagement\nUnderstands the request /query/\ncomplaint/appeal and drafts responses \nby retrieving relevant information \navailable in Section / Division and ensures \ntimely disposal of the requests through \nPIO (Public Information Officer).\nMaintains departmental \nrecords of RTIs for effective and \ncomprehensive public disclosure \nof information of the Department.\n"
+    },
+    {
+      "page_number": 96,
+      "character_count": 711,
+      "word_count": 96,
+      "image_count": 1,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "Grievance Redressal\nDefinition\nDemonstrates the ability to address grievances \npromptly and efficiently while prioritizing \ntransparency and citizen-centricity. Utilizes the \nCentralised Public Grievance Redress and Monitoring \nSystem (CPGRAMS) to manage grievance redressal, \nensuring access of the digital systems to all citizens, \ntracking their status, and obtaining resolutions \nin accordance with established guidelines and \nprocedures. Measures the effectiveness and efficiency \nof the Department/Ministry’s administration by \nanalysing data and providing feedback for enhancing \nprocesses and procedures.\nFunctional Competencies with Definitions & Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n16\n"
+    },
+    {
+      "page_number": 97,
+      "character_count": 554,
+      "word_count": 81,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nGrievance Redressal Sub-Themes\nManage cases on \nCPGRAMS\nPublic Grievance \nHandling\nDemonstrates the ability to monitor reports \n& dashboards of grievances received, \npending for closure, and resolved cases \nas per the requirement of Ministries/\nDepartments/Organizations for driving \neffective resolution for pending grievances.\nCollaborates with multiple \nstakeholders to obtain inputs \nand context for formulating \nresponses to grievances received \nand ensure prompt resolution of \ncomplaints / VIP references.\n"
+    },
+    {
+      "page_number": 98,
+      "character_count": 812,
+      "word_count": 116,
+      "image_count": 1,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "Vigilance Administration\nDefinition\nDemonstrates a thorough understanding and practical \napplication of administrative vigilance and disciplinary \nprocedures, which serve as safeguards to ensure the \nproper implementation of government processes, \npolicies, and rules, while identifying instances of \nbreach by government employees who may abuse \ntheir authority or power of approval for personal gain. \nFacilitates in building a positive perception and image \nof the government and its policies, both within the \ngovernment ecosystem, among citizens, and globally. \nAdheres to guidelines on implementation of strict \nanti-corruption measures, vigilant oversight, and a \ncommitment to integrity in public service.\nFunctional Competencies with Definitions & Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n17\n"
+    },
+    {
+      "page_number": 99,
+      "character_count": 2221,
+      "word_count": 298,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nVigilance Administration Matters Sub-Themes\nConduct Rules\nProvisions on \nSuspension\nProposal \npreparation \nfor disciplinary \nproceedings\nHandling \nprosecution \ncases; \nsupporting \ninvestigations\nPreventive \nVigilance\nUnderstands the \nextent, applicability, \nintent, and content \nof the Central Civil \nServices (Conduct) \nRules, 1964 (updated) \nfor Government \nservants with a view \nto maintain integrity \nin public services \nby taking required \naction to promote its \nadherence.\nDisplays understanding of \nextent, applicability and intent \nof the CCS (CCA)(Classification, \ncontrol & Appeal) Rules, 1965- \nCentral Civil Services, Group ‘A’, \nGroup ‘B’, ‘C’,’D’ (classification of \nservice, posts), AIS (Discipline & \nAppeal) Rules, 1969 for officers \nfrom All India Services, Central \nCivil Services (Classification, \nControl and Appeal (CCA)) \nRules, 1965 (rule 10); FR 53 & 54 \n(b), in relation to provisions and \ncircumstances under which a \nGovernment servant may be \nplaced under suspension in the \nMinistry/Department. Ensures \ntimely payment of subsistence \nallowance in cases of suspension.\nDemonstrates prudence and \nclarity in comprehending \nand implementing The Public \nServants Inquiries ACT, Action \non complaints forwarded by \nthe Administrative Ministry \n/ Department, Disposal \nof complaints of non-\nvigilance nature, Action on \nanonymous/ pseudonymous \ncomplaints, procedure for \ndealing with complaints \nand engagement of \nretired officials to conduct \nInvestigation and perform \nother vigilance functions.\nDemonstrates ability \nand understanding to \nsupport investigation \nprocesses aptly and \npromptly, handling \nprocedures for \nprosecution cases, \nand imposing minor \nand major penalties.\nFosters an environment of \ntransparency, integrity, and \naccountability and identify \nacts of unethical behavioural, \nfraud and corruption in the \necosystem. Adopts suitable \nchecks and balances to \nimprove systems / procedures \nto eliminate corruption / \ndiscretion in the processes \nand procedures. Assists in \nsystemic improvements and \nsetting up of effective systems \nfor curbing any potential \navenues for corruption in \nthe Ministry / Department / \nOrganization.\n"
+    },
+    {
+      "page_number": 100,
+      "character_count": 465,
+      "word_count": 76,
+      "image_count": 1,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "Litigation Management\nDefinition\nProvides support during legal \nproceedings pertaining to the \nUnion of India by demonstrating \nlegal know-how and engaging law \nofficers or approved panel counsels \nfor a range of court cases. Keeps \ntrack of and manages information \nand updates regarding multiple \ncases on the LIMBS portal to ensure \ntimely and necessary actions. \nFunctional Competencies with Definitions & Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n18\n"
+    },
+    {
+      "page_number": 101,
+      "character_count": 1369,
+      "word_count": 195,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nLitigation Management Sub-Themes\nLegal Know-how: \nBasic Knowledge of \nLegal drafting\nCourt Cases \nManagement\nLIMBS Portal \nManagement\nManages various legal tasks \nsuch as preparing and analyzing \nparagraph-wise comments on writs, \ndrafting counter replies or petitions, \narranging files for consideration, \nidentifying different case and \npetition types, working with advance \nnotice of grievances, presenting a \ncomprehensive legal position of the \ngovernment in affidavit form, and \nbriefing government counsel.\nOversees execution of legal procedures \nin accordance with the National \nLitigation Policy, as well as to follow \ninstructions and stay updated on \nlegal matters from various competent \nauthorities such as CAT, AMRD, AMRCD, \nand PIMS. Demonstrates understanding \nof pre-litigation procedures and adept \nat effectively managing court cases, \nnotices, stay orders, appellate court \ndirections, and pending appeals, as well \nas ensuring diligent compliance with \nconditional implementation.\nLeverages LIMBS portal for \nregistering on the platform, \nworking as a local officer or \nnodal admin, entering new \ncases and editing existing ones, \nkeeping track of hearing dates, \nand generating reports from MIS \nreports, dashboard, and other \nrelated details to effectively \nmanage and monitor court \ncases on the portal.\n"
+    },
+    {
+      "page_number": 102,
+      "character_count": 833,
+      "word_count": 115,
+      "image_count": 1,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "Information & Communication \nManagement\nDefinition\nDisseminates information through various media channels on \nbehalf of the government to increase public awareness and \nadvocacy of government policies and schemes and addresses \nany misconceptions using a range of media vehicles such \nas government websites. Facilitates in generating positive \nmedia coverage, building relationships with key stakeholders, \nmanaging conflicts or criticisms, and improving public \nunderstanding of a Ministry/Department/Organization and \nits objectives. Utilizes social media to communicate official \ngovernment policies and information to the public, with a focus \non creating an informed citizenry through a people-centric \ncommunication approach. \nFunctional Competencies with Definitions & Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n19\n"
+    },
+    {
+      "page_number": 103,
+      "character_count": 1159,
+      "word_count": 157,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nInformation & Communication Mgt Sub-Themes\nDissemination of \nInformation\nHandling social media \n(engagement)\nManagement of information \non official websites\nDisseminates strategic \ncommunications, crisis \ncommunication, information and \nawareness about government \npolicies and schemes to the \ncitizens of the country, making \npertinent information publicly, \nfreely, and directly accessible, \nin understandable and \ncomprehensible form and format. \nMonitors and manages \ninformation and narratives \non social media platforms, \ncreates and publishes \ncontent, engages with \nand responds to the \ncommunity of followers/\ncustomers, and conducts \nimpact analysis and \nreporting.\nEnsures compliance with the ‘Guidelines \nfor Indian Government Websites’ (GIGW) in \nmaintaining official websites of all Central \nGovernment Ministries, Departments, Offices, \nand CPSEs. This includes keeping the data \nand information updated and providing user-\nfriendly interfaces and transactions that \nmeet the high expectations of citizens and \ncustomers with respect to security, privacy of \npersonal data, and accuracy of information.\n"
+    },
+    {
+      "page_number": 104,
+      "character_count": 600,
+      "word_count": 93,
+      "image_count": 1,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "Change Management\nDefinition\nAdopts a structured approach for the effective \ninitiation and implementation of multi-level, \nmulti-faceted changes in the government \necosystem, with the aim of achieving a \nprescribed mandate as part of a Govt. \nprogram, scheme, project, or government \ninitiative. Drives preparedness to unlearn and \nrelearn, communicates the need for change \nto gain stakeholder acceptance and shared \ncommitment, and drives change from the \ncurrent state to the desired future state.\nFunctional Competencies with Definitions & Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n20\n"
+    },
+    {
+      "page_number": 105,
+      "character_count": 1386,
+      "word_count": 188,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nChange Management Sub-Themes\nChange Readiness\nAccepting Change\nImplementing Change\nCommunicates effectively, \nenabling to comprehend the \ncause and purpose of proposed \nchange, the vision of the \nchange, and the anticipated \nimpact (such as increased \nefficiency in processes, \ntransparency, speed, accuracy, \netc.) for the beneficiaries \n(including government \nemployees, staff, citizens, etc.), \nin order to foster willingness \nand preparedness to adopt the \nchange.\nDrives willingness and \nacceptance to change and \nmanages resistance to change \nat the Ministerial, Departmental \nor Organizational level. Identifies \npractical challenges associated \nwith the said change, stays \nopen to new opportunities, \nand maintains a proactive \nand positive mindset toward \nachieving goals.\nDemonstrates the ability to define \nobjectives, allocate resources, assess \nMinisterial / Departmental / Organizational \ncapacity (such as workforce, technology, \ninfrastructure, etc.), establishes \naccountability mechanisms and ensures \ncreation and implementation of monitoring \nand evaluation frameworks for assessing \nadoption of change. Develops and drives an \neffective implementation plan by breaking \naway from existing patterns and adopting \nnew ones, and ensures that the change \nis sustained to achieve the expected \noutcomes and associated benefits.\n"
+    },
+    {
+      "page_number": 106,
+      "character_count": 442,
+      "word_count": 64,
+      "image_count": 1,
+      "needs_ocr_review": false,
+      "flags": [
+        "CONTAINS_IMAGES"
+      ],
+      "review_reason": null,
+      "text": "Administration Matters\nDefinition\nDemonstrates the ability to handle \nvarious administrative processes and \nprocedures relating to Allowances \n& Reimbursement, Leave and Travel \nrelated matters. miscellaneous matters \n(Car, Residence, Personal Staff etc.), \nOfficial Language duty and ensures \nimplementation across the Department \n/ Ministry.\nFunctional Competencies with Definitions & Sub-Themes\nC\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\n21\n"
+    },
+    {
+      "page_number": 107,
+      "character_count": 1146,
+      "word_count": 154,
+      "image_count": 0,
+      "needs_ocr_review": false,
+      "flags": [],
+      "review_reason": null,
+      "text": "C\nO\nM\nP\nE\nT\nE\nN\nC\nY\n \nM\nO\nD\nE\nL\nKarmayogī\nChange Management Sub-Themes\nAllowances & \nReimbursements\nLeave and Travel\nMiscellaneous \nmatters (Telephone, \nCar, Residence, \nPersonal Staff etc.)\nImplementing Official \nLanguage\nDemonstrates \nunderstanding and ability \nto apply the relevant \nrules, regulations and \nguidelines for processing \nof Allowances and \nReimbursements \nrelated matters in the \nMinistry, Department or \nOrganization.\nDemonstrates \nunderstanding \nand ability to \napply the relevant \nrules, regulations \nand guidelines for \nprocessing of Leave and \nTravel related matters in \nthe Ministry, Department \nor Organization.\nDemonstrates understanding \nand ability to apply diverse \nprovisions, methodologies, \nand protocols for overseeing \nmiscellaneous affairs \nincluding Telephone, Car, \nResidence, Personal Staff etc \nin the Ministry, Department or \nOrganization. \nCarries out all official \ncommunication within central \nand state government offices \nin accordance with the \nOfficial Languages Act, 1963, \nin Hindi. Promotes the usage \nof the Official Language \nin the day-to-day work in \nthe Ministry, Department or \nOrganization. \n"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "document_id": "SRC-UP-20261025125757-5126EE8A",
+  "filename": "sample_curriculum.txt",
+  "sha256": "d911e418508a9fe40484a0cc767f87dadae2aee1e23a1b2a55133d5d124692ad",
+  "page_count": 1,
+  "pages": [
+    {
+      "page_number": 1,
+      "character_count": 233,
+      "text": "Official Statistics Sample Training Curriculum.\nChapter 1: Principles of National Accounts and Statistical Estimation.\nNational accounts provide an exhaustive accounting framework for measuring domestic product and capital formation."
+    }
+  ]
+}

@@ -1,0 +1,806 @@
+Build a modern responsive web application prototype for an AI-enabled Learning and Competency Development Platform for India's Official Statistical System.
+
+The purpose of this prototype is to demonstrate how an employee/officer can track their weekly learning progress, identify competency gaps, receive personalized learning recommendations, complete courses and quizzes, and improve their competency score over time.
+
+This is a prototype for a Smart India Hackathon project. Focus on creating a polished, functional frontend with realistic dummy data. Do not try to implement the complete backend, real AI model, or actual iGOT Karmayogi API integration. Simulate these features with mock data.
+
+PROJECT CONCEPT
+
+The platform uses an employee's:
+- Designation
+- Department
+- Job role
+- Current assignment
+- Educational qualifications
+- Work experience
+- Previous learning history
+- Assessment performance
+- Competency requirements
+
+to identify competency gaps and recommend personalized learning.
+
+The platform should visually demonstrate this workflow:
+
+Employee Profile
+      ↓
+Competency Assessment
+      ↓
+Competency Score
+      ↓
+Skill Gap Identification
+      ↓
+Personalized Learning Recommendations
+      ↓
+Courses / Training
+      ↓
+Quizzes / Assessments
+      ↓
+Weekly Progress
+      ↓
+Improved Competency Score
+
+PRIMARY USER
+
+Employee / Government Official
+
+Create a secondary Administrator dashboard as a prototype.
+
+DESIGN STYLE
+
+Create a professional government/enterprise SaaS dashboard.
+
+Design requirements:
+- Clean and modern UI
+- Professional appearance
+- White/light background
+- Blue/navy primary color
+- Subtle green accents for completed/improved items
+- Red/orange indicators for competency gaps
+- Rounded cards
+- Minimal shadows
+- Clear typography
+- Responsive desktop and tablet layout
+- Mobile responsive
+- Accessible contrast
+- Use icons where appropriate
+- Avoid excessive animations
+
+The design should feel suitable for a government learning platform, not like a gaming application.
+
+APPLICATION STRUCTURE
+
+Create the following pages:
+
+1. Login Page
+2. Employee Dashboard
+3. Weekly Progress Page
+4. Competency Assessment Page
+5. Skill Gap Analysis Page
+6. Learning Recommendations Page
+7. Course Details Page
+8. Quiz / MCQ Page
+9. Learning History Page
+10. Employee Profile
+11. Administrator Dashboard
+
+--------------------------------------------------
+1. LOGIN PAGE
+--------------------------------------------------
+
+Create a simple professional login screen.
+
+Elements:
+- Platform logo/name:
+  "StatSkill AI"
+- Subtitle:
+  "AI-Powered Competency & Learning Platform"
+- Email / Employee ID input
+- Password input
+- Login button
+- "Forgot password?"
+- Demo login option
+
+For prototype purposes:
+- Login button should navigate to Employee Dashboard.
+- Include a small "Demo User" option.
+
+--------------------------------------------------
+2. EMPLOYEE DASHBOARD
+--------------------------------------------------
+
+This is the main page.
+
+Header:
+- Logo
+- Dashboard
+- My Learning
+- Competency
+- Assessments
+- Progress
+- Profile
+- Notification icon
+- User profile
+
+Sidebar navigation on desktop.
+
+Dashboard title:
+
+"Good morning, Rahul"
+
+Subtitle:
+
+"Here is your learning and competency progress for this week."
+
+TOP KPI CARDS
+
+Create four cards:
+
+1. Overall Competency
+   72%
+   +8% this month
+
+2. Weekly Learning
+   6.5 hrs
+   Target: 8 hrs
+
+3. Courses Completed
+   8 / 12
+
+4. Current Skill Gaps
+   4
+   2 high priority
+
+WEEKLY PROGRESS SECTION
+
+Create a large line/bar chart showing:
+
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+
+Display:
+- Learning hours
+- Target learning hours
+
+Example:
+Mon: 0.8h
+Tue: 1.2h
+Wed: 0.6h
+Thu: 1.5h
+Fri: 1.0h
+Sat: 0.9h
+Sun: 0.5h
+
+Show a weekly target of 8 hours.
+
+Include:
+"6.5 / 8 hours completed"
+
+SKILL PROGRESS
+
+Show competency progress using horizontal progress bars:
+
+Statistical Analysis       82%
+Python                     68%
+Data Visualization         74%
+SQL                        61%
+AI / Machine Learning      48%
+GIS                        55%
+
+Use different visual states:
+- Green = strong
+- Blue = developing
+- Orange = needs improvement
+- Red = critical gap
+
+WEEKLY ACHIEVEMENTS
+
+Show achievement cards:
+
+✓ Completed 3 learning modules
+✓ Improved Python score by 7%
+✓ Completed Data Visualization quiz
+✓ 6.5 hours learning completed
+
+CURRENT RECOMMENDATIONS
+
+Show 3 recommended learning cards:
+
+1. Python for Statistical Analysis
+   Beginner → Intermediate
+   2.5 hours
+   Priority: High
+
+2. SQL for Data Analytics
+   3 hours
+   Priority: High
+
+3. Introduction to Machine Learning
+   4 hours
+   Priority: Medium
+
+Button:
+"View Personalized Learning Path"
+
+--------------------------------------------------
+3. WEEKLY PROGRESS PAGE
+--------------------------------------------------
+
+This is the most important page for the prototype.
+
+Page title:
+
+"Weekly Learning Progress"
+
+Show week selector:
+
+← Previous Week
+October 1 – October 7, 2026
+Next Week →
+
+SUMMARY CARDS
+
+Learning Hours:
+6.5 / 8 hrs
+
+Modules:
+4 / 5
+
+Quiz Score:
+82%
+
+Competency Improvement:
++6%
+
+DAILY PROGRESS
+
+Create a visually attractive chart.
+
+X-axis:
+Monday → Sunday
+
+Y-axis:
+Learning Hours
+
+Display target line at 1 hour/day.
+
+Add hover tooltips.
+
+WEEKLY LEARNING BREAKDOWN
+
+Show:
+
+Course                         Time       Progress
+--------------------------------------------------
+Python for Statistics          2.5 hrs    85%
+Data Visualization             1.5 hrs    70%
+SQL Fundamentals               1.5 hrs    60%
+Statistical Methods            1.0 hrs    90%
+
+WEEKLY ACTIVITY TIMELINE
+
+Example:
+
+Monday
+✓ Completed Python Module 3
+
+Tuesday
+✓ Completed Python Quiz
+
+Wednesday
+✓ Watched Data Visualization Module 2
+
+Thursday
+✓ Completed SQL Module 1
+
+Friday
+✓ Scored 85% in Statistics Quiz
+
+Saturday
+✓ Completed recommended training
+
+Sunday
+○ No activity
+
+WEEKLY INSIGHTS
+
+Create an AI insight card:
+
+"AI Learning Insight"
+
+"You made strong progress in Statistical Analysis this week.
+Your Python competency improved by 7%. However, SQL remains
+your highest-priority skill gap. Completing the recommended
+SQL Fundamentals module next week could improve your competency
+score by approximately 5–8%."
+
+Button:
+"View Recommended Learning"
+
+--------------------------------------------------
+4. COMPETENCY ASSESSMENT PAGE
+--------------------------------------------------
+
+Title:
+
+"Competency Assessment"
+
+Explain:
+
+"Assess your current competencies to identify skill gaps and
+generate a personalized learning path."
+
+Show competency categories:
+
+Statistical Competencies
+Technical Competencies
+Digital Governance
+Behavioural & Managerial
+
+Example skills:
+
+Statistical:
+- Survey Design
+- Sampling
+- National Accounts
+- Data Quality
+
+Technical:
+- Python
+- R
+- SQL
+- Data Visualization
+- AI/ML
+- GIS
+
+Digital:
+- Cybersecurity
+- Digital Signatures
+- APIs
+- Cloud Computing
+
+Behavioural:
+- Leadership
+- Communication
+- Decision Making
+- Project Management
+
+Each skill should have:
+- Current score
+- Required score
+- Gap
+
+Example:
+
+Python
+Current: 68%
+Required: 80%
+Gap: 12%
+
+SQL
+Current: 61%
+Required: 80%
+Gap: 19%
+
+Button:
+"Start Assessment"
+
+--------------------------------------------------
+5. SKILL GAP ANALYSIS PAGE
+--------------------------------------------------
+
+Create a visual competency gap dashboard.
+
+Title:
+
+"Your Competency Gap Analysis"
+
+Use a radar chart comparing:
+
+Current Competency
+vs
+Required Competency
+
+Categories:
+- Statistical Analysis
+- Python
+- SQL
+- Data Visualization
+- AI/ML
+- GIS
+
+Create a "Priority Skill Gaps" section.
+
+Example:
+
+HIGH PRIORITY
+
+SQL
+Current: 61%
+Required: 80%
+Gap: 19%
+
+AI/ML
+Current: 48%
+Required: 75%
+Gap: 27%
+
+MEDIUM PRIORITY
+
+GIS
+Current: 55%
+Required: 70%
+Gap: 15%
+
+Add button:
+"Generate Learning Path"
+
+--------------------------------------------------
+6. LEARNING RECOMMENDATIONS PAGE
+--------------------------------------------------
+
+Title:
+
+"Personalized Learning Path"
+
+Show an AI-generated learning roadmap.
+
+Example:
+
+STEP 1
+SQL Fundamentals
+↓
+STEP 2
+SQL for Statistical Data
+↓
+STEP 3
+Data Analytics with Python
+↓
+STEP 4
+Introduction to Machine Learning
+
+Each course card should contain:
+- Course title
+- Description
+- Duration
+- Difficulty
+- Skill
+- Current progress
+- Recommendation reason
+- Start/Continue button
+
+Example recommendation reason:
+
+"Recommended because SQL is currently your highest
+competency gap."
+
+Also include:
+
+"Recommended Training Programs"
+
+- iGOT Karmayogi Course
+- NSSTA Training Programme
+- Data Analytics Workshop
+
+These should be represented as mock integrations for the prototype.
+
+--------------------------------------------------
+7. COURSE DETAILS PAGE
+--------------------------------------------------
+
+Show:
+
+Course title
+Instructor
+Duration
+Difficulty
+Skill category
+
+Course progress:
+
+68%
+
+Modules:
+
+✓ Module 1: Introduction
+✓ Module 2: Data Types
+✓ Module 3: SQL Queries
+○ Module 4: Joins
+○ Module 5: Advanced SQL
+
+Button:
+"Continue Learning"
+
+At the bottom:
+
+"Complete Quiz"
+
+--------------------------------------------------
+8. QUIZ / MCQ PAGE
+--------------------------------------------------
+
+Create an interactive MCQ interface.
+
+Header:
+
+"Python for Statistical Analysis – Assessment"
+
+Show:
+
+Question 3 of 10
+
+Question:
+
+"Which Python library is commonly used for data manipulation?"
+
+Options:
+
+A. NumPy
+B. Pandas
+C. Matplotlib
+D. TensorFlow
+
+Allow user to select an answer.
+
+Buttons:
+Previous
+Next
+Submit
+
+After submission display:
+
+Score: 8/10
+Score: 80%
+
+Show correct/incorrect answers.
+
+Then display:
+
+"Competency Score Updated"
+
+Python:
+68% → 72%
+
+This demonstrates the AI-powered assessment concept.
+
+--------------------------------------------------
+9. LEARNING HISTORY PAGE
+--------------------------------------------------
+
+Create a table:
+
+Date
+Course
+Activity
+Duration
+Score
+Status
+
+Example:
+
+02 Oct | Python Statistics | Module | 45 min | - | Completed
+03 Oct | Python Statistics | Quiz | 20 min | 85% | Completed
+04 Oct | SQL Fundamentals | Module | 60 min | - | Completed
+
+Add filters:
+- Date
+- Course
+- Skill
+- Status
+
+--------------------------------------------------
+10. EMPLOYEE PROFILE
+--------------------------------------------------
+
+Display:
+
+Name
+Employee ID
+Department
+Designation
+Job Role
+Experience
+Education
+
+Competency profile
+
+Learning preferences
+
+Current learning goals
+
+Button:
+"Edit Profile"
+
+--------------------------------------------------
+11. ADMINISTRATOR DASHBOARD
+--------------------------------------------------
+
+Create a simplified administrator view.
+
+Top KPIs:
+
+Total Employees
+1,248
+
+Active Learners
+934
+
+Average Competency
+68%
+
+Training Completion
+74%
+
+Show charts:
+
+1. Competency Distribution
+2. Skill Gap Distribution
+3. Weekly Learning Hours
+4. Course Completion Rate
+
+Add table:
+
+Employee
+Department
+Competency
+Skill Gaps
+Weekly Hours
+Status
+
+Allow filtering by:
+- Department
+- Role
+- Competency
+- Training status
+
+ADMIN INSIGHT CARD
+
+"AI Organizational Insight"
+
+"Data Analytics and AI/ML are the two largest competency
+gaps across the selected department."
+
+--------------------------------------------------
+NAVIGATION
+--------------------------------------------------
+
+Sidebar:
+
+Dashboard
+My Learning
+Competency
+Skill Gap
+Assessments
+Weekly Progress
+Learning History
+Profile
+
+Admin section:
+
+Organization Analytics
+Employee Progress
+Competency Insights
+
+--------------------------------------------------
+MOCK DATA
+--------------------------------------------------
+
+Use realistic mock data.
+
+Employee:
+
+Name: Rahul Sharma
+Employee ID: STAT1024
+Department: Data Analytics Division
+Designation: Statistical Officer
+Experience: 4 years
+
+Competency:
+
+Statistical Analysis: 82%
+Python: 68%
+SQL: 61%
+Data Visualization: 74%
+AI/ML: 48%
+GIS: 55%
+
+Weekly learning target:
+8 hours
+
+Current:
+6.5 hours
+
+Overall competency:
+72%
+
+--------------------------------------------------
+IMPORTANT UX REQUIREMENTS
+--------------------------------------------------
+
+The prototype must feel functional.
+
+Buttons should work.
+
+Navigation should work.
+
+Charts should contain realistic data.
+
+Course cards should open course details.
+
+Quiz should allow answering questions.
+
+Completing a quiz should update the displayed score.
+
+Weekly progress should update visually.
+
+Use mock state/local state instead of requiring a backend.
+
+Include empty/loading states where appropriate.
+
+Make the UI responsive.
+
+Use reusable components.
+
+--------------------------------------------------
+TECHNICAL REQUIREMENTS
+--------------------------------------------------
+
+Preferred stack:
+
+React
+TypeScript
+Tailwind CSS
+Modern component library
+Recharts or equivalent chart library
+Lucide icons
+
+Use clean component architecture.
+
+Suggested components:
+
+DashboardCard
+ProgressBar
+SkillCard
+CourseCard
+WeeklyChart
+CompetencyChart
+ActivityTimeline
+RecommendationCard
+QuizQuestion
+Sidebar
+Header
+StatCard
+
+Use local mock JSON/data for the prototype.
+
+Do not require authentication backend.
+
+Do not require real iGOT APIs.
+
+Create the application so that real APIs can be integrated later.
+
+--------------------------------------------------
+MAIN DEMO FLOW
+--------------------------------------------------
+
+The most important demo flow should be:
+
+Login
+→ Dashboard
+→ View Weekly Progress
+→ View Competency Gap
+→ View AI Recommendation
+→ Open Course
+→ Complete Quiz
+→ See Score
+→ See Competency Improvement
+→ Return to Dashboard
+→ See Updated Weekly Progress
+
+This flow should be extremely polished because it will be used for a hackathon demonstration.
+
+The final result should look like a professional AI-enabled government learning and competency management platform prototype.

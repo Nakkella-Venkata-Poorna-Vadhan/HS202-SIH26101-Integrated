@@ -1,0 +1,3 @@
+Official Statistics Sample Training Curriculum.
+Chapter 1: Principles of National Accounts and Statistical Estimation.
+National accounts provide an exhaustive accounting framework for measuring domestic product and capital formation.
