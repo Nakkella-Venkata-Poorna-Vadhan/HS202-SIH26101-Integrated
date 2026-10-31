@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-25T10:56:20.538074+00:00",
-  "total_drafts": 1,
+  "updated_at": "2026-10-26T06:43:18.871224+00:00",
+  "total_drafts": 4,
   "draft_questions": [
     {
       "question_id": "DRFT-SRC-UP-20261-P1-547D",
@@ -28,6 +28,87 @@
       "reviewed_at": "2026-10-25T10:56:20.533714+00:00",
       "rejection_reason": null,
       "created_at": "2026-10-25T10:56:07.988092+00:00"
+    },
+    {
+      "question_id": "DRFT-SRC-UP-20261-P1-2F91",
+      "document_id": "SRC-UP-20261026064303-203762CA",
+      "source_document_id": "SRC-UP-20261026064303-203762CA",
+      "competency_id": "KCM-001",
+      "competency_name": "Competency KCM-001",
+      "question_text": "According to the source documentation (Page 1), which of the following is correct regarding 'NSSTA conducts'?",
+      "options": {
+        "A": "NSSTA conducts specialized capacity building programmes for the Indian Statistical Service (ISS) and Subordinate Statistical Service (SSS)",
+        "B": "The principle is strictly discretionary and not applied to standard statistical procedures.",
+        "C": "It was deprecated following the implementation of state-level decentralized accounting frameworks.",
+        "D": "The methodology is confined exclusively to commercial export licensing and speculative valuation."
+      },
+      "correct_answer": "A",
+      "explanation": "Official publication (Page 1) explicitly states: 'NSSTA conducts specialized capacity building programmes for the Indian Statistical Service (ISS) and Subordinate Statistical Service (SSS).'.",
+      "source_page": 1,
+      "source_excerpt": "NSSTA conducts specialized capacity building programmes for the Indian Statistical Service (ISS) and Subordinate Statistical Service (SSS).",
+      "difficulty": "operational",
+      "status": "draft",
+      "provenance": "dynamic_heuristic_source_grounded",
+      "validation_status": "flagged_for_review",
+      "verification_notes": "Generated via deterministic source extraction. Awaiting trainer review.",
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "rejection_reason": null,
+      "created_at": "2026-10-26T06:43:11.947385+00:00"
+    },
+    {
+      "question_id": "DRFT-SRC-UP-20261-P1-4E2B",
+      "document_id": "SRC-UP-20261026064303-203762CA",
+      "source_document_id": "SRC-UP-20261026064303-203762CA",
+      "competency_id": "KCM-001",
+      "competency_name": "Competency KCM-001",
+      "question_text": "According to the source documentation (Page 1), which of the following is correct regarding 'The duration'?",
+      "options": {
+        "A": "The principle is strictly discretionary and not applied to standard statistical procedures.",
+        "B": "It was deprecated following the implementation of state-level decentralized accounting frameworks.",
+        "C": "The duration of the induction training course for newly appointed ISS probationary officers is two years",
+        "D": "The methodology is confined exclusively to commercial export licensing and speculative valuation."
+      },
+      "correct_answer": "C",
+      "explanation": "Official publication (Page 1) explicitly states: 'The duration of the induction training course for newly appointed ISS probationary officers is two years.'.",
+      "source_page": 1,
+      "source_excerpt": "The duration of the induction training course for newly appointed ISS probationary officers is two years.",
+      "difficulty": "operational",
+      "status": "draft",
+      "provenance": "dynamic_heuristic_source_grounded",
+      "validation_status": "flagged_for_review",
+      "verification_notes": "Generated via deterministic source extraction. Awaiting trainer review.",
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "rejection_reason": null,
+      "created_at": "2026-10-26T06:43:11.959295+00:00"
+    },
+    {
+      "question_id": "DRFT-SRC-UP-20261-P1-7996",
+      "document_id": "SRC-UP-20261026064303-203762CA",
+      "source_document_id": "SRC-UP-20261026064303-203762CA",
+      "competency_id": "KCM-001",
+      "competency_name": "Competency KCM-001",
+      "question_text": "According to the source documentation (Page 1), which of the following is correct regarding 'Annual Capacity'?",
+      "options": {
+        "A": "The principle is strictly discretionary and not applied to standard statistical procedures.",
+        "B": "Annual Capacity Building Plans outline required competencies and institutional milestones for statistical governance",
+        "C": "It was deprecated following the implementation of state-level decentralized accounting frameworks.",
+        "D": "The methodology is confined exclusively to commercial export licensing and speculative valuation."
+      },
+      "correct_answer": "B",
+      "explanation": "Official publication (Page 1) explicitly states: 'Annual Capacity Building Plans outline required competencies and institutional milestones for statistical governance.'.",
+      "source_page": 1,
+      "source_excerpt": "Annual Capacity Building Plans outline required competencies and institutional milestones for statistical governance.",
+      "difficulty": "advanced",
+      "status": "draft",
+      "provenance": "dynamic_heuristic_source_grounded",
+      "validation_status": "flagged_for_review",
+      "verification_notes": "Generated via deterministic source extraction. Awaiting trainer review.",
+      "reviewed_by": null,
+      "reviewed_at": null,
+      "rejection_reason": null,
+      "created_at": "2026-10-26T06:43:18.860997+00:00"
     }
   ]
 }

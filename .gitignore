@@ -1,0 +1,42 @@
+# Environments & secrets
+.env
+.env.*
+*.env
+**/.env
+**/*.env
+!.env.example
+!**/.env.example
+*.pem
+*.key
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node & Build artifacts
+node_modules/
+dist/
+build/
+*.tsbuildinfo
+
+# PostgreSQL data directories & databases
+data/pgdata/
+backend/data/pgdata/
+*.sqlite
+*.db
+*.log
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini

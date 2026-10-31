@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-25T12:57:57.979487+00:00",
-  "total_documents": 9,
+  "updated_at": "2026-10-26T06:43:03.160761+00:00",
+  "total_documents": 11,
   "documents": [
     {
       "document_id": "SRC-UP-20261025105601-FA60095E",
@@ -135,6 +135,36 @@
       "provenance": "trainer_uploaded_material",
       "title": "National Accounts Training Curriculum",
       "description": "Uploaded training resource (sample_curriculum.txt)",
+      "extraction_error": null
+    },
+    {
+      "document_id": "SRC-UP-20261026064238-BEA04BE9",
+      "filename": "MoSPI_Official_Statistics_Training_Note.txt",
+      "file_type": "txt",
+      "file_size_bytes": 686,
+      "sha256": "45521bc8172fd0a08ac3e246e09381f0fa1484e96a005ad802bdaa8301e9fcdb",
+      "uploaded_at": "2026-10-26T06:42:38.739775+00:00",
+      "extraction_status": "extracted",
+      "page_count": 1,
+      "character_count": 686,
+      "provenance": "trainer_uploaded_material",
+      "title": "MoSPI_Official_Statistics_Training_Note.txt",
+      "description": "Uploaded training resource (MoSPI_Official_Statistics_Training_Note.txt)",
+      "extraction_error": null
+    },
+    {
+      "document_id": "SRC-UP-20261026064303-203762CA",
+      "filename": "MoSPI_Official_Statistics_Training_Note.txt",
+      "file_type": "txt",
+      "file_size_bytes": 686,
+      "sha256": "45521bc8172fd0a08ac3e246e09381f0fa1484e96a005ad802bdaa8301e9fcdb",
+      "uploaded_at": "2026-10-26T06:43:03.160690+00:00",
+      "extraction_status": "extracted",
+      "page_count": 1,
+      "character_count": 686,
+      "provenance": "trainer_uploaded_material",
+      "title": "ABC",
+      "description": "Uploaded training resource (MoSPI_Official_Statistics_Training_Note.txt)",
       "extraction_error": null
     }
   ]

@@ -189,7 +189,7 @@ def test_question_verifier_strict_validation():
     # Duplicate question rejection
     is_valid, reason = verifier.verify_question(valid_q, chunks, [valid_q.question_text])
     assert is_valid is False
-    assert "too similar" in reason
+    assert "too similar" in reason or "Identical question text already exists" in reason
 
 
 def test_trainer_generate_review_and_publish_flow(client):

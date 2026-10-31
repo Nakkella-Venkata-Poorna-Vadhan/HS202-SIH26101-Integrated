@@ -1080,8 +1080,8 @@ def get_admin_analytics(
     )
 
     # 5. Course Mapping Validation Status
-    mappings_count = stats.get("mappings_count", 226)
-    candidate_mappings_count = stats.get("candidate_mappings_count", 6)
+    mappings_count = stats.get("total_mappings", 226)
+    candidate_mappings_count = stats.get("candidate_mappings", 6)
     validated_mappings_count = 0
     unresolved_mappings_count = mappings_count - candidate_mappings_count - validated_mappings_count
 

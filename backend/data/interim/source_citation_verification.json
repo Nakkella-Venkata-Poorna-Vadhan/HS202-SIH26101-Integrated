@@ -2,7 +2,7 @@
   "verification_id": "VERIF-STAGE-3.4.3.3-EVIDENCE-METRIC-CORRECTED",
   "benchmark_id": "BM-ACBP-KCM-PILOT-26",
   "stage": "3.4.3.3",
-  "verification_timestamp": "2026-10-18T16:19:43.151824+00:00",
+  "verification_timestamp": "2026-10-26T06:33:01.393711+00:00",
   "total_cases_verified": 26,
   "verification_summary": {
     "total_references_checked": 68,

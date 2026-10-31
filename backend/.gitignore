@@ -28,3 +28,8 @@ desktop.ini
 # Pipeline interim and processed outputs (optional tracking: we keep interim data structure, exclude huge scratch files)
 # data/raw/ is kept in repo or local drive, never overwritten or deleted
 *.tmp
+
+# PostgreSQL local data directory
+data/pgdata/
+*.env
+

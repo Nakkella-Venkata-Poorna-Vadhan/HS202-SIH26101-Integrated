@@ -75,6 +75,13 @@ SIH26101-Integrated/
 
 ---
 
+### Relational Database Foundation (Phase 1)
+- **Status:** Implemented and validated on PostgreSQL 15+ (PostgreSQL 18.6).
+- **Package:** `backend/competency_engine/db/` (SQLAlchemy 2.x models, connection pooling, Alembic migrations).
+- **Documentation & Setup:** Detailed setup guide available in [`docs/PHASE1_DATABASE_FOUNDATION.md`](docs/PHASE1_DATABASE_FOUNDATION.md).
+
+---
+
 ## 2. Installation & Quick Start
 
 ### Prerequisites

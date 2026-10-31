@@ -69,7 +69,7 @@ export const WeeklyProgressPage: React.FC = () => {
       </div>
 
       {/* Week Selector (October 1 – October 7, 2026) */}
-      <WeekSelector onExport={() => alert('Weekly Officer Progress Digest exported.')} />
+      <WeekSelector onExport={() => window.print()} />
 
       {/* Sandbox Notice */}
       <div className="flex items-start gap-2 bg-white p-3 rounded-xl border border-slate-200 text-xs text-slate-600 shadow-2xs">

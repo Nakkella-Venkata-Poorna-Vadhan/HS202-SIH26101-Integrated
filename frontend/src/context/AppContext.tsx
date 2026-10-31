@@ -312,7 +312,7 @@ const AppContext = createContext<AppContextType | undefined>(undefined);
 export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
   const getInitialParams = () => {
     if (typeof window === 'undefined') {
-      return { route: 'login' as PageRoute, role: 'employee' as UserRole, loggedIn: false, learner: 'LEARNER-001' };
+      return { route: 'login' as PageRoute, role: 'employee' as UserRole, loggedIn: false, learner: 'LEARNER-001', adminTabInit: 'analytics' as const };
     }
     const hashStr = window.location.hash.replace(/^#\/?/, '');
     const hashParams = new URLSearchParams(hashStr);

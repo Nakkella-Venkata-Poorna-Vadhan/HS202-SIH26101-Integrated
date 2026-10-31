@@ -1,0 +1,31 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: sih26101_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${POSTGRES_ADMIN_USER:-postgres}
+      POSTGRES_PASSWORD: ${POSTGRES_ADMIN_PASSWORD:?POSTGRES_ADMIN_PASSWORD must be provided in .env}
+      SIH_PG_MIGRATOR_PASSWORD: ${DB_MIGRATOR_PASSWORD:?DB_MIGRATOR_PASSWORD must be provided in .env}
+      SIH_PG_PASSWORD: ${DB_APP_PASSWORD:?DB_APP_PASSWORD must be provided in .env}
+      DB_DEV_NAME: ${DB_DEV_NAME:-sih26101_dev}
+      DB_TEST_NAME: ${DB_TEST_NAME:-sih26101_test}
+      POSTGRES_HOST_AUTH_METHOD: scram-sha-256
+      POSTGRES_INITDB_ARGS: --auth-host=scram-sha-256
+    ports:
+      - "${POSTGRES_PORT:-54329}:5432"
+    volumes:
+      - sih26101_pgdata:/var/lib/postgresql/data
+      - ./backend/scripts/init_docker_postgres.sql:/tmp/sih26101_init.sql:ro
+      - ./backend/scripts/init_docker_postgres.sh:/docker-entrypoint-initdb.d/01_init_roles.sh:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_ADMIN_USER:-postgres}"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  sih26101_pgdata:
+    name: sih26101_postgres_data

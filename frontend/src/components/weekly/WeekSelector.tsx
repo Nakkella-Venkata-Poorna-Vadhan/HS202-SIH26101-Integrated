@@ -75,10 +75,11 @@ export const WeekSelector: React.FC<WeekSelectorProps> = ({ onExport }) => {
         {onExport && (
           <button
             onClick={onExport}
-            className="hidden sm:flex items-center gap-1.5 px-3 py-1.5 text-xs font-semibold text-slate-700 bg-white border border-slate-200 rounded-lg hover:bg-slate-50 transition-colors"
+            title="Opens browser print dialog to print or save weekly progress digest as PDF"
+            className="hidden sm:flex items-center gap-1.5 px-3 py-1.5 text-xs font-semibold text-slate-700 bg-white border border-slate-200 rounded-lg hover:bg-slate-50 transition-colors cursor-pointer"
           >
             <Download className="w-3.5 h-3.5 text-slate-500" />
-            <span>Export Report</span>
+            <span>Print / Export Report (PDF)</span>
           </button>
         )}
       </div>

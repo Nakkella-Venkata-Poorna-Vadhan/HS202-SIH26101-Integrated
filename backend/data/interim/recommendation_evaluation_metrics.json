@@ -1,7 +1,7 @@
 {
   "benchmark_name": "SIH26101 Recommendation Evaluation Benchmark",
   "benchmark_version": "1.1.0",
-  "evaluation_timestamp": "2026-10-25T13:33:17.579499+00:00",
+  "evaluation_timestamp": "2026-10-26T06:32:52.284854+00:00",
   "total_scenarios": 10,
   "provenance_and_integrity": {
     "label_provenance": "Synthetic offline Information Retrieval benchmark created for algorithmic verification. Relevance grades were manually authored by mapping ACBP course titles to KCM competencies based on domain keywords and cadre seniority. These labels DO NOT represent independent external SME adjudication, empirical field trials, or real-world learner evaluations.",
@@ -30,7 +30,7 @@
       "coverage_percentage": 100.0,
       "invalid_mapping_rate_percentage": 0.0,
       "explanation_completeness_percentage": 100.0,
-      "average_in_memory_latency_ms": 0.62,
+      "average_in_memory_latency_ms": 0.59,
       "provider_error_rate_percentage": 0.0
     },
     "baseline_2_naive_match": {
@@ -62,7 +62,7 @@
       "coverage_percentage": 100.0,
       "invalid_mapping_rate_percentage": 90.0,
       "explanation_completeness_percentage": 100.0,
-      "average_in_memory_latency_ms": 0.25,
+      "average_in_memory_latency_ms": 0.24,
       "provider_error_rate_percentage": 0.0
     },
     "deltas_vs_baseline_1": {
@@ -96,7 +96,7 @@
         "ndcg_at_3": 1.0,
         "ndcg_at_5": 0.8404,
         "mrr": 1.0,
-        "latency_ms": 0.327
+        "latency_ms": 0.302
       },
       {
         "scenario_id": "REC-SCN-002",
@@ -110,7 +110,7 @@
         "ndcg_at_3": 0.3017,
         "ndcg_at_5": 0.2814,
         "mrr": 1.0,
-        "latency_ms": 0.293
+        "latency_ms": 0.284
       },
       {
         "scenario_id": "REC-SCN-003",
@@ -124,7 +124,7 @@
         "ndcg_at_3": 0.7039,
         "ndcg_at_5": 0.6789,
         "mrr": 1.0,
-        "latency_ms": 0.286
+        "latency_ms": 0.277
       },
       {
         "scenario_id": "REC-SCN-004",
@@ -138,7 +138,7 @@
         "ndcg_at_3": 0.1676,
         "ndcg_at_5": 0.4734,
         "mrr": 0.3333,
-        "latency_ms": 0.268
+        "latency_ms": 0.273
       },
       {
         "scenario_id": "REC-SCN-005",
@@ -166,7 +166,7 @@
         "ndcg_at_3": 1.0,
         "ndcg_at_5": 0.885,
         "mrr": 1.0,
-        "latency_ms": 0.197
+        "latency_ms": 0.199
       },
       {
         "scenario_id": "REC-SCN-007",
@@ -180,7 +180,7 @@
         "ndcg_at_3": 0.3788,
         "ndcg_at_5": 0.3352,
         "mrr": 1.0,
-        "latency_ms": 0.294
+        "latency_ms": 0.287
       },
       {
         "scenario_id": "REC-SCN-008",
@@ -194,7 +194,7 @@
         "ndcg_at_3": 0.205,
         "ndcg_at_5": 0.5079,
         "mrr": 0.3333,
-        "latency_ms": 0.219
+        "latency_ms": 0.203
       },
       {
         "scenario_id": "REC-SCN-009",
@@ -208,7 +208,7 @@
         "ndcg_at_3": 0.5032,
         "ndcg_at_5": 0.5339,
         "mrr": 1.0,
-        "latency_ms": 0.197
+        "latency_ms": 0.192
       },
       {
         "scenario_id": "REC-SCN-010",
@@ -222,7 +222,7 @@
         "ndcg_at_3": 0.3966,
         "ndcg_at_5": 0.6701,
         "mrr": 0.5,
-        "latency_ms": 0.209
+        "latency_ms": 0.201
       }
     ],
     "baseline_2_naive_match": [
@@ -238,7 +238,7 @@
         "ndcg_at_3": 1.0,
         "ndcg_at_5": 0.8404,
         "mrr": 1.0,
-        "latency_ms": 0.05
+        "latency_ms": 0.04
       },
       {
         "scenario_id": "REC-SCN-002",
@@ -252,7 +252,7 @@
         "ndcg_at_3": 0.2011,
         "ndcg_at_5": 0.1727,
         "mrr": 1.0,
-        "latency_ms": 0.023
+        "latency_ms": 0.022
       },
       {
         "scenario_id": "REC-SCN-003",
@@ -380,7 +380,7 @@
         "ndcg_at_3": 0.0,
         "ndcg_at_5": 0.0,
         "mrr": 0.0,
-        "latency_ms": 1.106
+        "latency_ms": 1.053
       },
       {
         "scenario_id": "REC-SCN-002",
@@ -394,7 +394,7 @@
         "ndcg_at_3": 0.2346,
         "ndcg_at_5": 0.3751,
         "mrr": 1.0,
-        "latency_ms": 0.973
+        "latency_ms": 0.845
       },
       {
         "scenario_id": "REC-SCN-003",
@@ -408,7 +408,7 @@
         "ndcg_at_3": 0.0,
         "ndcg_at_5": 0.0,
         "mrr": 0.0,
-        "latency_ms": 0.692
+        "latency_ms": 0.649
       },
       {
         "scenario_id": "REC-SCN-004",
@@ -422,7 +422,7 @@
         "ndcg_at_3": 0.0,
         "ndcg_at_5": 0.0,
         "mrr": 0.0,
-        "latency_ms": 0.681
+        "latency_ms": 0.637
       },
       {
         "scenario_id": "REC-SCN-005",
@@ -436,7 +436,7 @@
         "ndcg_at_3": 0.0,
         "ndcg_at_5": 0.0,
         "mrr": 0.0,
-        "latency_ms": 0.43
+        "latency_ms": 0.427
       },
       {
         "scenario_id": "REC-SCN-006",
@@ -450,7 +450,7 @@
         "ndcg_at_3": 0.0,
         "ndcg_at_5": 0.0,
         "mrr": 0.0,
-        "latency_ms": 0.325
+        "latency_ms": 0.309
       },
       {
         "scenario_id": "REC-SCN-007",
@@ -464,7 +464,7 @@
         "ndcg_at_3": 0.0,
         "ndcg_at_5": 0.0,
         "mrr": 0.0,
-        "latency_ms": 0.868
+        "latency_ms": 0.847
       },
       {
         "scenario_id": "REC-SCN-008",
@@ -478,7 +478,7 @@
         "ndcg_at_3": 0.0,
         "ndcg_at_5": 0.107,
         "mrr": 0.25,
-        "latency_ms": 0.495
+        "latency_ms": 0.491
       },
       {
         "scenario_id": "REC-SCN-009",
@@ -492,7 +492,7 @@
         "ndcg_at_3": 0.0,
         "ndcg_at_5": 0.0,
         "mrr": 0.0,
-        "latency_ms": 0.311
+        "latency_ms": 0.328
       },
       {
         "scenario_id": "REC-SCN-010",
@@ -506,7 +506,7 @@
         "ndcg_at_3": 0.0,
         "ndcg_at_5": 0.0,
         "mrr": 0.0,
-        "latency_ms": 0.304
+        "latency_ms": 0.308
       }
     ]
   }
