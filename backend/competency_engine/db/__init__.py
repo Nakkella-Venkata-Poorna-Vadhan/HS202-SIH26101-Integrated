@@ -1,4 +1,4 @@
-﻿"""
+"""
 Database Package for SIH26101 Platform.
 Exposes Base metadata, session lifecycle dependencies, enumerations, and typed models.
 """
@@ -37,6 +37,7 @@ from competency_engine.db.models import (
     OrgMinistry,
     OrgState,
     OrgZone,
+    PasswordResetToken,
     ProjectStaffProfile,
     RefreshToken,
     User,
@@ -77,6 +78,7 @@ __all__ = [
     # Models
     "User",
     "EmailVerification",
+    "PasswordResetToken",
     "RefreshToken",
     "AdminInvitation",
     "OrgMinistry",

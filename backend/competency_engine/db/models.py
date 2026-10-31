@@ -1,4 +1,4 @@
-﻿"""
+"""
 Complete SQLAlchemy 2.x Relational Models for SIH26101 Platform.
 Implements the 23 relational tables, composite foreign keys, partial unique indexes,
 and check constraints frozen in FINAL_ARCHITECTURE_PLAN_v2.7.
@@ -79,6 +79,21 @@ class User(Base):
 
 class EmailVerification(Base):
     __tablename__ = "email_verifications"
+
+    id: Mapped[uuid.UUID] = mapped_column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4, server_default=func.gen_random_uuid())
+    user_id: Mapped[uuid.UUID] = mapped_column(UUID(as_uuid=True), ForeignKey("users.id", ondelete="RESTRICT"), nullable=False)
+    token_hash: Mapped[str] = mapped_column(String(64), unique=True, nullable=False)
+    expires_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), nullable=False)
+    is_consumed: Mapped[bool] = mapped_column(Boolean, nullable=False, default=False)
+    consumed_at: Mapped[Optional[datetime]] = mapped_column(DateTime(timezone=True), nullable=True)
+    created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), nullable=False, server_default=func.now())
+
+
+class PasswordResetToken(Base):
+    __tablename__ = "password_reset_tokens"
+    __table_args__ = (
+        Index("idx_password_reset_user_id", "user_id"),
+    )
 
     id: Mapped[uuid.UUID] = mapped_column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4, server_default=func.gen_random_uuid())
     user_id: Mapped[uuid.UUID] = mapped_column(UUID(as_uuid=True), ForeignKey("users.id", ondelete="RESTRICT"), nullable=False)

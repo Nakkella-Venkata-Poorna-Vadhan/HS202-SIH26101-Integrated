@@ -110,6 +110,7 @@ def cleanup_test_db(migrator_engine):
             DELETE FROM org_ministries;
             DELETE FROM refresh_tokens;
             DELETE FROM email_verifications;
+            DELETE FROM password_reset_tokens;
             DELETE FROM users;
         """))
 

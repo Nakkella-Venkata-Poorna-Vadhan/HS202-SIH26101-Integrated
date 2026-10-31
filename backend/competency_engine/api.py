@@ -55,6 +55,7 @@ from competency_engine.question_generator_service import (
 from competency_engine.quiz_generator import QuestionBank
 from competency_engine.repository import CompetencyRepository
 from competency_engine.services import RecommendationEngine, SkillGapEngine
+from competency_engine.auth.router import router as auth_router
 
 # Initialize FastAPI application
 app = FastAPI(
@@ -96,6 +97,9 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+# Include Phase 2 Authentication, Identity & RBAC Router
+app.include_router(auth_router)
 
 # Global Repository and Engine instances
 repository = CompetencyRepository()

@@ -24,9 +24,13 @@ import {
   BackendCourseRecommendationFixed,
   AssessmentTopic,
   AssessmentStartResponse,
-  AssessmentResultResponse
+  AssessmentResultResponse,
+  AuthUser,
+  AuthTokens,
+  EmployeeApplicationStatus,
+  OrgTaxonomy
 } from '../types';
-import { api, API_BASE_URL } from '../services/api';
+import { api, API_BASE_URL, setAuthTokens, getAuthTokens } from '../services/api';
 import {
   initialWeeklyDays,
   initialWeeklyBreakdown,
@@ -305,6 +309,19 @@ interface AppContextType {
   submitDiagnosticAssessment: (answers: Record<string, string>) => Promise<void>;
   resetDiagnosticAssessment: () => void;
   resetDemoState: () => Promise<void>;
+
+  // Phase 2: Auth & Identity State & Methods
+  authUser: AuthUser | null;
+  authTokens: AuthTokens | null;
+  employeeStatus: EmployeeApplicationStatus | null;
+  isAuthenticating: boolean;
+  loginWithCredentials: (email: string, password: string) => Promise<{ success: boolean; error?: string }>;
+  registerEmployee: (payload: any) => Promise<{ success: boolean; message?: string; error?: string; user?: AuthUser }>;
+  verifyEmailToken: (token: string) => Promise<{ success: boolean; message?: string; error?: string; user?: AuthUser }>;
+  requestPasswordReset: (email: string) => Promise<{ success: boolean; message?: string; error?: string }>;
+  confirmPasswordReset: (token: string, newPassword: string) => Promise<{ success: boolean; message?: string; error?: string }>;
+  acceptAdminInvite: (payload: { token: string; fullName: string; password: string }) => Promise<{ success: boolean; error?: string }>;
+  refreshApplicationStatus: () => Promise<void>;
 }
 
 const AppContext = createContext<AppContextType | undefined>(undefined);
@@ -343,6 +360,12 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
   const [adminTab, setAdminTab] = useState<'analytics' | 'trainer-studio'>(
     initialParams.adminTabInit
   );
+
+  // Phase 2: Authentication & Identity State
+  const [authUser, setAuthUser] = useState<AuthUser | null>(null);
+  const [authTokensState, setAuthTokensState] = useState<AuthTokens | null>(null);
+  const [employeeStatus, setEmployeeStatus] = useState<EmployeeApplicationStatus | null>(null);
+  const [isAuthenticating, setIsAuthenticating] = useState<boolean>(false);
 
   // Backend state
   const [isLoading, setIsLoading] = useState<boolean>(true);
@@ -733,12 +756,182 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
   };
 
   const logout = () => {
+    const tokens = getAuthTokens();
+    if (tokens.refreshToken) {
+      api.authLogout(tokens.refreshToken).catch(() => {});
+    }
+    setAuthTokens(null);
+    setAuthTokensState(null);
+    setAuthUser(null);
+    setEmployeeStatus(null);
     setIsLoggedIn(false);
     setCurrentRoute('login');
     try {
       window.location.hash = 'route=login';
     } catch {}
   };
+
+  // Phase 2 Auth Methods
+  const refreshApplicationStatus = useCallback(async () => {
+    try {
+      const statusData = await api.getEmployeeApplicationStatus();
+      setEmployeeStatus(statusData);
+    } catch (err) {
+      console.error('Failed to fetch employee application status:', err);
+    }
+  }, []);
+
+  const loginWithCredentials = async (email: string, password: string): Promise<{ success: boolean; error?: string }> => {
+    setIsAuthenticating(true);
+    try {
+      const tokens = await api.authLogin({ email, password });
+      setAuthTokens({ access_token: tokens.access_token, refresh_token: tokens.refresh_token });
+      setAuthTokensState(tokens);
+      setAuthUser(tokens.user);
+      setIsLoggedIn(true);
+
+      if (tokens.user.account_type === 'EMPLOYEE') {
+        setUserRole('employee');
+        if (tokens.user.profile?.full_name) {
+          setUserProfile((prev) => ({
+            ...prev,
+            name: tokens.user.profile?.full_name || prev.name,
+            employeeId: tokens.user.profile?.employee_code || prev.employeeId,
+            email: tokens.user.email,
+          }));
+        }
+
+        if (!tokens.user.is_approved) {
+          try {
+            const statusData = await api.getEmployeeApplicationStatus();
+            setEmployeeStatus(statusData);
+          } catch {}
+          setCurrentRoute('pending-approval');
+          try { window.location.hash = 'route=pending-approval'; } catch {}
+        } else {
+          setCurrentRoute('dashboard');
+          try { window.location.hash = 'route=dashboard'; } catch {}
+        }
+      } else if (tokens.user.account_type === 'ADMINISTRATOR') {
+        setUserRole('admin');
+        setAdminTab('analytics');
+        setCurrentRoute('admin');
+        try { window.location.hash = 'route=admin&tab=analytics'; } catch {}
+      } else if (tokens.user.account_type === 'PROJECT_STAFF') {
+        setUserRole('project_staff');
+        setAdminTab('analytics');
+        setCurrentRoute('admin');
+        try { window.location.hash = 'route=admin&tab=analytics'; } catch {}
+      }
+      return { success: true };
+    } catch (err: any) {
+      return { success: false, error: err.message || 'Login failed. Please check your credentials.' };
+    } finally {
+      setIsAuthenticating(false);
+    }
+  };
+
+  const registerEmployee = async (payload: any): Promise<{ success: boolean; message?: string; error?: string; user?: AuthUser }> => {
+    setIsAuthenticating(true);
+    try {
+      const resp = await api.authRegister(payload);
+      return { success: true, message: resp.message, user: resp.user };
+    } catch (err: any) {
+      return { success: false, error: err.message || 'Registration failed.' };
+    } finally {
+      setIsAuthenticating(false);
+    }
+  };
+
+  const verifyEmailToken = async (token: string): Promise<{ success: boolean; message?: string; error?: string; user?: AuthUser }> => {
+    setIsAuthenticating(true);
+    try {
+      const resp = await api.authVerifyEmail(token);
+      return { success: true, message: resp.message, user: resp.user };
+    } catch (err: any) {
+      return { success: false, error: err.message || 'Email verification failed.' };
+    } finally {
+      setIsAuthenticating(false);
+    }
+  };
+
+  const requestPasswordReset = async (email: string): Promise<{ success: boolean; message?: string; error?: string }> => {
+    setIsAuthenticating(true);
+    try {
+      const resp = await api.authRequestPasswordReset(email);
+      return { success: true, message: resp.message };
+    } catch (err: any) {
+      return { success: false, error: err.message || 'Failed to request password reset.' };
+    } finally {
+      setIsAuthenticating(false);
+    }
+  };
+
+  const confirmPasswordReset = async (token: string, newPassword: string): Promise<{ success: boolean; message?: string; error?: string }> => {
+    setIsAuthenticating(true);
+    try {
+      const resp = await api.authConfirmPasswordReset(token, newPassword);
+      return { success: true, message: resp.message };
+    } catch (err: any) {
+      return { success: false, error: err.message || 'Failed to reset password.' };
+    } finally {
+      setIsAuthenticating(false);
+    }
+  };
+
+  const acceptAdminInvite = async (payload: { token: string; fullName: string; password: string }): Promise<{ success: boolean; error?: string }> => {
+    setIsAuthenticating(true);
+    try {
+      const tokens = await api.authAcceptAdminInvite({
+        token: payload.token,
+        full_name: payload.fullName,
+        password: payload.password,
+      });
+      setAuthTokens({ access_token: tokens.access_token, refresh_token: tokens.refresh_token });
+      setAuthTokensState(tokens);
+      setAuthUser(tokens.user);
+      setUserRole('admin');
+      setIsLoggedIn(true);
+      setCurrentRoute('admin');
+      try { window.location.hash = 'route=admin&tab=analytics'; } catch {}
+      return { success: true };
+    } catch (err: any) {
+      return { success: false, error: err.message || 'Failed to accept invitation.' };
+    } finally {
+      setIsAuthenticating(false);
+    }
+  };
+
+  // Restore authenticated session on mount if token is stored
+  useEffect(() => {
+    const tokens = getAuthTokens();
+    if (tokens.accessToken) {
+      api.authGetMe()
+        .then(async (user) => {
+          setAuthUser(user);
+          setIsLoggedIn(true);
+          if (user.account_type === 'EMPLOYEE') {
+            setUserRole('employee');
+            if (!user.is_approved) {
+              try {
+                const statusData = await api.getEmployeeApplicationStatus();
+                setEmployeeStatus(statusData);
+              } catch {}
+              setCurrentRoute('pending-approval');
+            }
+          } else if (user.account_type === 'ADMINISTRATOR') {
+            setUserRole('admin');
+          } else if (user.account_type === 'PROJECT_STAFF') {
+            setUserRole('project_staff');
+          }
+        })
+        .catch(() => {
+          setAuthTokens(null);
+          setAuthUser(null);
+        });
+    }
+  }, []);
+
 
   const markNotificationRead = (id: string) => {
     setUnreadNotifications((prev) =>
@@ -1091,7 +1284,20 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
         startDiagnosticAssessment,
         submitDiagnosticAssessment,
         resetDiagnosticAssessment,
-        resetDemoState
+        resetDemoState,
+
+        // Phase 2
+        authUser,
+        authTokens: authTokensState,
+        employeeStatus,
+        isAuthenticating,
+        loginWithCredentials,
+        registerEmployee,
+        verifyEmailToken,
+        requestPasswordReset,
+        confirmPasswordReset,
+        acceptAdminInvite,
+        refreshApplicationStatus
       }}
     >
       {children}

@@ -17,6 +17,7 @@ import { QuizPage } from './pages/QuizPage';
 import { LearningHistoryPage } from './pages/LearningHistoryPage';
 import { ProfilePage } from './pages/ProfilePage';
 import { AdminDashboardPage } from './pages/AdminDashboardPage';
+import { PendingApprovalPage } from './pages/PendingApprovalPage';
 
 import { ErrorBoundary } from './components/common/ErrorBoundary';
 
@@ -63,6 +64,8 @@ export const AppContent: React.FC = () => {
         return <ProfilePage />;
       case 'admin':
         return <AdminDashboardPage />;
+      case 'pending-approval':
+        return <PendingApprovalPage />;
       default:
         return <DashboardPage />;
     }

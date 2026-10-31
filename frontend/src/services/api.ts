@@ -16,8 +16,39 @@ import {
   AssessmentResultResponse,
   AdminAnalyticsData,
   LearningActivityRecord,
-  ProviderStatusSummary
+  ProviderStatusSummary,
+  AuthTokens,
+  AuthUser,
+  EmployeeApplicationStatus,
+  OrgTaxonomy,
 } from '../types';
+
+let currentAccessToken: string | null = null;
+let currentRefreshToken: string | null = null;
+
+if (typeof window !== 'undefined') {
+  currentAccessToken = localStorage.getItem('sih_access_token');
+  currentRefreshToken = localStorage.getItem('sih_refresh_token');
+}
+
+export const setAuthTokens = (tokens: { access_token: string; refresh_token: string } | null) => {
+  if (tokens) {
+    currentAccessToken = tokens.access_token;
+    currentRefreshToken = tokens.refresh_token;
+    localStorage.setItem('sih_access_token', tokens.access_token);
+    localStorage.setItem('sih_refresh_token', tokens.refresh_token);
+  } else {
+    currentAccessToken = null;
+    currentRefreshToken = null;
+    localStorage.removeItem('sih_access_token');
+    localStorage.removeItem('sih_refresh_token');
+  }
+};
+
+export const getAuthTokens = () => ({
+  accessToken: currentAccessToken,
+  refreshToken: currentRefreshToken,
+});
 
 const TRAINER_IDENTITY = 'TRAINER';
 
@@ -36,17 +67,41 @@ class ApiClientError extends Error {
   }
 }
 
-async function fetchJson<T>(endpoint: string, options?: RequestInit): Promise<T> {
+async function fetchJson<T>(endpoint: string, options?: RequestInit, retryOnAuth = true): Promise<T> {
   const url = `${API_BASE_URL}${endpoint}`;
   try {
+    const headers: Record<string, string> = {
+      Accept: 'application/json',
+      'Content-Type': 'application/json',
+      ...(options?.headers as any || {})
+    };
+    if (currentAccessToken && !headers['Authorization']) {
+      headers['Authorization'] = `Bearer ${currentAccessToken}`;
+    }
+
     const response = await fetch(url, {
       ...options,
-      headers: {
-        Accept: 'application/json',
-        'Content-Type': 'application/json',
-        ...(options?.headers || {})
-      }
+      headers
     });
+
+    if (response.status === 401 && retryOnAuth && currentRefreshToken && endpoint !== '/api/auth/refresh' && endpoint !== '/api/auth/login') {
+      try {
+        const refreshResp = await fetch(`${API_BASE_URL}/api/auth/refresh`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ refresh_token: currentRefreshToken })
+        });
+        if (refreshResp.ok) {
+          const newTokens = await refreshResp.json();
+          setAuthTokens({ access_token: newTokens.access_token, refresh_token: newTokens.refresh_token });
+          return fetchJson<T>(endpoint, options, false);
+        } else {
+          setAuthTokens(null);
+        }
+      } catch {
+        setAuthTokens(null);
+      }
+    }
 
     if (!response.ok) {
       let detail = '';
@@ -410,6 +465,147 @@ export const api = {
       `/api/admin/analytics?requester_id=${encodeURIComponent(requester)}`,
       { headers: { 'X-Learner-ID': requester } }
     );
+  },
+
+  // =========================================================================
+  // Phase 2: Authentication, Identity, Jurisdictions & Scope Methods
+  // =========================================================================
+
+  /** Public login with Argon2id password verification and JWT rotation */
+  authLogin(payload: { email: string; password: string }): Promise<AuthTokens> {
+    return fetchJson<AuthTokens>('/api/auth/login', {
+      method: 'POST',
+      body: JSON.stringify(payload),
+    });
+  },
+
+  /** Public self-registration for Civil Service Employees */
+  authRegister(payload: {
+    email: string;
+    password: string;
+    full_name: string;
+    employee_code: string;
+    ministry_id: string;
+    department_id: string;
+    cadre_id: string;
+    designation_id: string;
+    location_id: string;
+    experience_years?: number;
+    self_declared_skills?: string[];
+  }): Promise<{ message: string; user: AuthUser }> {
+    return fetchJson<{ message: string; user: AuthUser }>('/api/auth/register', {
+      method: 'POST',
+      body: JSON.stringify(payload),
+    });
+  },
+
+  /** Single-use token email verification */
+  authVerifyEmail(token: string): Promise<{ message: string; user: AuthUser }> {
+    return fetchJson<{ message: string; user: AuthUser }>('/api/auth/verify-email', {
+      method: 'POST',
+      body: JSON.stringify({ token }),
+    });
+  },
+
+  /** Refresh access token using refresh token */
+  authRefresh(refreshToken: string): Promise<AuthTokens> {
+    return fetchJson<AuthTokens>('/api/auth/refresh', {
+      method: 'POST',
+      body: JSON.stringify({ refresh_token: refreshToken }),
+    });
+  },
+
+  /** Revoke refresh token and logout */
+  authLogout(refreshToken?: string): Promise<{ message: string }> {
+    return fetchJson<{ message: string }>('/api/auth/logout', {
+      method: 'POST',
+      body: JSON.stringify({ refresh_token: refreshToken }),
+    });
+  },
+
+  /** Request password reset email */
+  authRequestPasswordReset(email: string): Promise<{ message: string }> {
+    return fetchJson<{ message: string }>('/api/auth/password-reset/request', {
+      method: 'POST',
+      body: JSON.stringify({ email }),
+    });
+  },
+
+  /** Confirm password reset with token */
+  authConfirmPasswordReset(token: string, newPassword: string): Promise<{ message: string }> {
+    return fetchJson<{ message: string }>('/api/auth/password-reset/confirm', {
+      method: 'POST',
+      body: JSON.stringify({ token, new_password: newPassword }),
+    });
+  },
+
+  /** Get authenticated caller profile */
+  authGetMe(): Promise<AuthUser> {
+    return fetchJson<AuthUser>('/api/auth/me');
+  },
+
+  /** Accept administrator invite and set password */
+  authAcceptAdminInvite(payload: { token: string; full_name: string; password: string }): Promise<AuthTokens> {
+    return fetchJson<AuthTokens>('/api/auth/accept-admin-invite', {
+      method: 'POST',
+      body: JSON.stringify(payload),
+    });
+  },
+
+  /** Get employee application and approval status */
+  getEmployeeApplicationStatus(): Promise<EmployeeApplicationStatus> {
+    return fetchJson<EmployeeApplicationStatus>('/api/employee/application-status');
+  },
+
+  /** Get learning workspace (requires approved employee status) */
+  getEmployeeLearningWorkspace(): Promise<any> {
+    return fetchJson<any>('/api/employee/learning-workspace');
+  },
+
+  /** Deactivate employee account */
+  deactivateEmployeeAccount(password: string): Promise<{ message: string }> {
+    return fetchJson<{ message: string }>('/api/employee/deactivate-account', {
+      method: 'POST',
+      body: JSON.stringify({ password }),
+    });
+  },
+
+  /** Get administrator scopes */
+  getAdminScopes(): Promise<any[]> {
+    return fetchJson<any[]>('/api/admin/scopes');
+  },
+
+  /** List administrators for project staff */
+  getProjectStaffAdministrators(): Promise<any[]> {
+    return fetchJson<any[]>('/api/project-staff/administrators');
+  },
+
+  /** Invite administrator (Project Staff only) */
+  inviteAdministrator(payload: { email: string; official_designation: string; authorized_scopes: any[] }): Promise<any> {
+    return fetchJson<any>('/api/project-staff/administrators/invite', {
+      method: 'POST',
+      body: JSON.stringify(payload),
+    });
+  },
+
+  /** Update administrator scopes (Project Staff only) */
+  updateAdministratorScopes(adminId: string, scopes: any[]): Promise<any> {
+    return fetchJson<any>(`/api/project-staff/administrators/${encodeURIComponent(adminId)}/scopes`, {
+      method: 'PUT',
+      body: JSON.stringify(scopes),
+    });
+  },
+
+  /** Set user account status (Project Staff only) */
+  setUserAccountStatus(userId: string, account_status: string): Promise<any> {
+    return fetchJson<any>(`/api/project-staff/users/${encodeURIComponent(userId)}/status?account_status_val=${encodeURIComponent(account_status)}`, {
+      method: 'POST',
+    });
+  },
+
+  /** Get organizational taxonomy for registration dropdowns */
+  getOrgTaxonomy(): Promise<OrgTaxonomy> {
+    return fetchJson<OrgTaxonomy>('/api/org/taxonomy');
   }
 };
 

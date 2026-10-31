@@ -9,9 +9,54 @@ export type PageRoute =
   | 'quiz'
   | 'history'
   | 'profile'
-  | 'admin';
+  | 'admin'
 
-export type UserRole = 'employee' | 'admin';
+  | 'pending-approval';
+
+export type UserRole = 'employee' | 'admin' | 'project_staff';
+
+export interface AuthUser {
+  id: string;
+  email: string;
+  account_type: 'EMPLOYEE' | 'ADMINISTRATOR' | 'PROJECT_STAFF';
+  account_status: 'UNVERIFIED_EMAIL' | 'ACTIVE' | 'SUSPENDED' | 'DEACTIVATED';
+  is_approved: boolean;
+  profile?: Record<string, any> | null;
+}
+
+export interface AuthTokens {
+  access_token: string;
+  token_type: string;
+  expires_in: number;
+  refresh_token: string;
+  user: AuthUser;
+}
+
+export interface EmployeeApplicationStatus {
+  user_id: string;
+  email: string;
+  account_status: string;
+  approval_status: string;
+  has_profile: boolean;
+  employee_code?: string;
+  full_name?: string;
+  application_id?: string;
+  application_status?: string;
+  submission_number?: number;
+  approved_at?: string;
+  assigned_admin_name?: string;
+}
+
+export interface OrgTaxonomy {
+  ministries: Array<{ id: string; name: string; code: string }>;
+  departments: Array<{ id: string; ministry_id: string; name: string; code: string }>;
+  cadres: Array<{ id: string; name: string; controlling_authority: string }>;
+  grade_bands: Array<{ id: string; name: string; rank: number }>;
+  designations: Array<{ id: string; name: string; grade_band_id: string; cadre_id?: string }>;
+  zones: Array<{ id: string; name: string; code: string }>;
+  states: Array<{ id: string; zone_id: string; name: string; code: string }>;
+  locations: Array<{ id: string; state_id: string; zone_id: string; city: string; building_name: string }>;
+}
 
 export interface UserProfile {
   name: string;
